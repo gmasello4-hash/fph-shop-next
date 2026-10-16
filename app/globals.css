@@ -1,0 +1,12 @@
+:root{--cream:#F0E8D6;--charcoal:#1C1C1E;--gold:#C9A85C;--bronze:#78603A}
+*{box-sizing:border-box}body{margin:0;background:var(--cream);color:var(--charcoal);font-family:var(--font-body),sans-serif}
+main{max-width:560px;margin:0 auto;padding:24px 18px 40px}
+h1,h2{font-family:var(--font-head),serif;font-weight:400;letter-spacing:.04em;margin:.3em 0}
+.script{font-family:var(--font-script),cursive;color:var(--bronze);font-size:1.6rem}
+header{text-align:center;padding-top:8px}header img{height:auto}
+a{color:inherit}.card{display:block;text-decoration:none;margin:22px 0;text-align:center}
+.card img,.board{width:100%;height:auto;border-radius:12px;border:1px solid var(--gold)}
+ol{padding:0;list-style:none;counter-reset:i}li{counter-increment:i;margin:10px 0}
+li a{display:flex;gap:12px;align-items:center;padding:12px 14px;border:1px solid var(--gold);border-radius:10px;text-decoration:none;background:#fff8}
+li a:before{content:counter(i);font-family:var(--font-head),serif;color:var(--bronze);min-width:1.2em}
+.disc{font-size:.8rem;text-align:center;color:var(--bronze);margin-top:28px}.back{font-size:.85rem;color:var(--bronze)}
