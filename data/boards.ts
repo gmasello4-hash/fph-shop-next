@@ -118,5 +118,122 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0D9ZRW39M?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "moody-shelf-styling",
+    "title": "Moody Shelf Styling",
+    "image": "/boards/moody-shelf-styling.png",
+    "items": [
+      {
+        "name": "Walnut wood bookends",
+        "url": "https://www.amazon.com/dp/B0859XM3Z9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked brown glass vase",
+        "url": "https://www.amazon.com/dp/B0BZVN3T6D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black ribbed ceramic vase",
+        "url": "https://www.amazon.com/dp/B0D8LFJ8S1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "White wood knot sculpture",
+        "url": "https://www.amazon.com/dp/B0BBH5ZDP4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Travertine and brass taper candlestick, 7.75 in",
+        "url": "https://www.amazon.com/dp/B0FX972NDZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut storage box with slide lid",
+        "url": "https://www.amazon.com/dp/B0D2XQ7RT9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Reclaimed wood chain, 3 links",
+        "url": "https://www.amazon.com/dp/B08DPQ73VN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream scalloped pedestal bowl",
+        "url": "https://www.amazon.com/dp/B0GWPTBF2R?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "espresso-martini-after-dark",
+    "title": "Espresso Martini After Dark",
+    "image": "/boards/espresso-martini-after-dark.png",
+    "items": [
+      {
+        "name": "Smoke gray coupe glasses, set of 6",
+        "url": "https://www.amazon.com/dp/B0GVM7QMSK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Espresso martini round framed art",
+        "url": "https://www.amazon.com/dp/B0G5142Y32?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Two-tone gold and gunmetal cocktail shaker",
+        "url": "https://www.amazon.com/dp/B09GW8DX88?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold cocktail picks",
+        "url": "https://www.amazon.com/dp/B0F4316JCS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass coffee bean jar with wood lid",
+        "url": "https://www.amazon.com/dp/B0CWGDMS7W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber ribbed stemless glasses",
+        "url": "https://www.amazon.com/dp/B0G4Q9QZLV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble tray, 12x8",
+        "url": "https://www.amazon.com/dp/B0C7QH4CRT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold muddler, bar spoon and jigger set",
+        "url": "https://www.amazon.com/dp/B0D49JWVZS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "girls-night-after-dark",
+    "title": "Girls Night After Dark",
+    "image": "/boards/girls-night-after-dark.png",
+    "items": [
+      {
+        "name": "Burgundy velvet bow hair clips",
+        "url": "https://www.amazon.com/dp/B0FRDMBKHX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold mirror disco ball, 8 in",
+        "url": "https://www.amazon.com/dp/B0C81LHGCG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold taper candle holders, set of 3",
+        "url": "https://www.amazon.com/dp/B0FNR7VWB7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy votive candles in glass, set of 4",
+        "url": "https://www.amazon.com/dp/B0D9JNKYDW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Red & gold Art Deco coupe glasses, set of 2",
+        "url": "https://www.amazon.com/dp/B0D79PC3QR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Plush leopard makeup bag",
+        "url": "https://www.amazon.com/dp/B0FPMGTRY3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black satin pajama short set",
+        "url": "https://www.amazon.com/dp/B0CFX1T5S9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leopard scalloped cloth napkins, set of 4",
+        "url": "https://www.amazon.com/dp/B0D2XY95JG?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
