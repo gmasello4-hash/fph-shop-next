@@ -813,5 +813,122 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0855LDDTJ?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "the-moody-reading-nook",
+    "title": "The Moody Reading Nook",
+    "image": "/boards/the-moody-reading-nook.png",
+    "items": [
+      {
+        "name": "Leather magazine holder basket, 16 x 10 x 12 in (deco 79)",
+        "url": "https://www.amazon.com/dp/B0CM7Q8KD9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chunky cotton knit throw blanket, chocolate (YnM)",
+        "url": "https://www.amazon.com/dp/B0D3WKJLPM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Velvet throw pillow covers, set of 2, oxblood (Jeneoo)",
+        "url": "https://www.amazon.com/dp/B09GFSKZHF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wooden book stand (TILISMA)",
+        "url": "https://www.amazon.com/dp/B08LDWH7VF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold metal arched bookends (Chunful)",
+        "url": "https://www.amazon.com/dp/B0H8S8NNTX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Reactive glaze stoneware mug, 18 oz",
+        "url": "https://www.amazon.com/dp/B0H3ZTL7X4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique brass chamberstick candle holder (Healifty)",
+        "url": "https://www.amazon.com/dp/B0BHSSQLC5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked grey glass tealight holders, set of 12 (VOHO)",
+        "url": "https://www.amazon.com/dp/B0FC276233?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-wine-bar-edit",
+    "title": "The Moody Wine Bar Edit",
+    "image": "/boards/the-moody-wine-bar-edit.png",
+    "items": [
+      {
+        "name": "Walnut wood wave countertop wine rack, 12 bottle, 3 tier (TRUDING)",
+        "url": "https://www.amazon.com/dp/B0F2DRSJBG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dublin crystal wine decanter (Godinger)",
+        "url": "https://www.amazon.com/dp/B0CQPMQ78B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smokey wine glasses, set of 6, 18 oz",
+        "url": "https://www.amazon.com/dp/B0CLVD39J1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold metal countertop wine rack, 5 bottle",
+        "url": "https://www.amazon.com/dp/B0BNDKW853?tag=feelingpret0e-20"
+      },
+      {
+        "name": "White marble wine bottle chiller (Kota Japan)",
+        "url": "https://www.amazon.com/dp/B088LLMCJ9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "100% linen cocktail napkins, red garnet, set of 12 (Solino Home)",
+        "url": "https://www.amazon.com/dp/B07LCLB4Q9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble coasters, set of 4 with holder",
+        "url": "https://www.amazon.com/dp/B0FTW1F9K2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold waiter's corkscrew",
+        "url": "https://www.amazon.com/dp/B09HC6M4K3?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-mediterranean-kitchen",
+    "title": "The Moody Mediterranean Kitchen",
+    "image": "/boards/the-moody-mediterranean-kitchen.png",
+    "items": [
+      {
+        "name": "Walnut cutting boards, set of 3 (Fibogollo)",
+        "url": "https://www.amazon.com/dp/B0H1CQ96BV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ceramic reactive glaze plates, set of 6 (Pokini)",
+        "url": "https://www.amazon.com/dp/B0DW3RNKVS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Pure linen kitchen towels, olive French stripe",
+        "url": "https://www.amazon.com/dp/B09GVZP4NS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Handmade ceramic pedestal bowl, 11.3 in (1DOT2)",
+        "url": "https://www.amazon.com/dp/B0H1HDKNKH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hammered brushed gold utensil holder (Monarch Abode)",
+        "url": "https://www.amazon.com/dp/B0F5T4DJ5R?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber glass olive oil dispenser, 16.9 oz",
+        "url": "https://www.amazon.com/dp/B0BQJMG9J4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Olive wood salad servers (Rock & Branch)",
+        "url": "https://www.amazon.com/dp/B0DX8HFJF7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Olive wood cooking utensils, 6 piece (Gudamaye)",
+        "url": "https://www.amazon.com/dp/B0BC5JFVQ7?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
