@@ -696,5 +696,122 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0CN4G5V68?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "the-moody-entryway-edit",
+    "title": "The Moody Entryway Edit",
+    "image": "/boards/the-moody-entryway-edit.png",
+    "items": [
+      {
+        "name": "Vintage gold arched baroque wall mirror, 16 x 24 in (Keonjinn)",
+        "url": "https://www.amazon.com/dp/B0DFQ2X5W9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Grand console table, 66 in, walnut wirebrush (Plank+Beam)",
+        "url": "https://www.amazon.com/dp/B0DK7VFMXW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal candle lanterns, set of 2",
+        "url": "https://www.amazon.com/dp/B0H7RD1PBP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Large rustic brown ceramic vase, 13.2 in",
+        "url": "https://www.amazon.com/dp/B0H86M3B58?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Faux olive branches, 28 in, 4 pcs (SHACOS)",
+        "url": "https://www.amazon.com/dp/B07R21HCMT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique brass cast iron taper candlesticks, set of 3 (NUPTIO)",
+        "url": "https://www.amazon.com/dp/B0FPQLZ5KB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble oval catchall tray, 10.6 in",
+        "url": "https://www.amazon.com/dp/B0DG58KRS4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal umbrella stand (Mango Steam)",
+        "url": "https://www.amazon.com/dp/B078HDDCC7?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-after-hours-hostess-edit",
+    "title": "The After Hours Hostess Edit",
+    "image": "/boards/the-after-hours-hostess-edit.png",
+    "items": [
+      {
+        "name": "Hammered gold double-wall ice bucket with lid and tongs, 3 L",
+        "url": "https://www.amazon.com/dp/B0GX1BX32G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ribbed smoke glass carafe with gold lid, 44 oz (DUJUST)",
+        "url": "https://www.amazon.com/dp/B0CL9LQR1N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut solid wood serving and cutting board, 20 x 13.75 in (HexClad)",
+        "url": "https://www.amazon.com/dp/B0F9YVSSPL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass metal tray with handles (Kate and Laurel Halsey)",
+        "url": "https://www.amazon.com/dp/B0GL3LPW5S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Linen-feel brown cocktail napkins",
+        "url": "https://www.amazon.com/dp/B08MWML2JP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoke coupe cocktail glasses, set of 4 (Lenox Curva Luxe)",
+        "url": "https://www.amazon.com/dp/B0GKQZJZYX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold cocktail picks with holder (Lexenic)",
+        "url": "https://www.amazon.com/dp/B0D452YZR2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cast brass wall-mounted bottle opener",
+        "url": "https://www.amazon.com/dp/B07R817R1Z?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-laundry-room-edit",
+    "title": "The Moody Laundry Room Edit",
+    "image": "/boards/the-moody-laundry-room-edit.png",
+    "items": [
+      {
+        "name": "Wooden folding clothes drying rack (Home IT)",
+        "url": "https://www.amazon.com/dp/B0117PHGP8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal wire storage bin, 12 x 12 x 10 in (DII)",
+        "url": "https://www.amazon.com/dp/B01CH7TMAW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown vintage washable runner rug, 2x6",
+        "url": "https://www.amazon.com/dp/B0F7RBWMCP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark walnut wood floating shelves (Urbandi)",
+        "url": "https://www.amazon.com/dp/B0CZNBNBBL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber glass dispensers with black pumps, 2 pack (AmazerBath)",
+        "url": "https://www.amazon.com/dp/B0948W716F?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark brown woven paper rope baskets, 2 pack (StorageWorks)",
+        "url": "https://www.amazon.com/dp/B08XZFL9ZN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber square glass canister with wood lid, 61 oz (ANSQU)",
+        "url": "https://www.amazon.com/dp/B0G13423VC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique brass double coat hooks, 2 pack (SDH)",
+        "url": "https://www.amazon.com/dp/B0855LDDTJ?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
