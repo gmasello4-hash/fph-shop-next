@@ -235,5 +235,16 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0D2XY95JG?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "cognac-leather-accent-chair",
+    "title": "Cognac Leather Accent Chair",
+    "image": "/boards/cognac-leather-accent-chair.png",
+    "items": [
+      {
+        "name": "Yaheetech mid-century cognac faux leather accent chair, walnut frame",
+        "url": "https://www.amazon.com/dp/B0BHWSVY2D?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];

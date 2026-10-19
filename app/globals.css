@@ -10,3 +10,5 @@ ol{padding:0;list-style:none;counter-reset:i}li{counter-increment:i;margin:10px 
 li a{display:flex;gap:12px;align-items:center;padding:12px 14px;border:1px solid var(--gold);border-radius:10px;text-decoration:none;background:#fff8}
 li a:before{content:counter(i);font-family:var(--font-head),serif;color:var(--bronze);min-width:1.2em}
 .disc{font-size:.8rem;text-align:center;color:var(--bronze);margin-top:28px}.back{font-size:.85rem;color:var(--bronze)}
+.single{text-align:center;margin:22px 0}.single-name{margin:0 0 14px;line-height:1.4}
+.shop-btn{display:block;padding:15px 18px;border-radius:10px;background:var(--charcoal);color:var(--cream);border:1px solid var(--gold);text-decoration:none;font-family:var(--font-head),serif;letter-spacing:.06em;font-size:1.05rem}

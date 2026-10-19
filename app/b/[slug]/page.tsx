@@ -23,13 +23,20 @@ export default async function BoardPage({ params }: Props) {
       <a className="back" href="/">← All boards</a>
       <h1 style={{ textAlign: "center" }}>{b.title}</h1>
       <img className="board" src={b.image} alt={b.title} width={1000} height={1500} />
-      <ol>
-        {b.items.map((it, i) => (
-          <li key={i}>
-            <a href={it.url} target="_blank" rel="sponsored noopener">{it.name}</a>
-          </li>
-        ))}
-      </ol>
+      {b.items.length === 1 ? (
+        <div className="single">
+          <p className="single-name">{b.items[0].name}</p>
+          <a className="shop-btn" href={b.items[0].url} target="_blank" rel="sponsored noopener">Shop it on Amazon</a>
+        </div>
+      ) : (
+        <ol>
+          {b.items.map((it, i) => (
+            <li key={i}>
+              <a href={it.url} target="_blank" rel="sponsored noopener">{it.name}</a>
+            </li>
+          ))}
+        </ol>
+      )}
     </>
   );
 }
