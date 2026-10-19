@@ -246,5 +246,104 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0BHWSVY2D?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "gold-pleated-shade-table-lamp",
+    "title": "Gold Pleated-Shade Table Lamp",
+    "image": "/boards/gold-pleated-shade-table-lamp.png",
+    "items": [
+      {
+        "name": "Gold Pleated-Shade Table Lamp",
+        "url": "https://www.amazon.com/dp/B0DKN843L4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "rosso-levanto-marble-tray",
+    "title": "Rosso Levanto Marble Tray",
+    "image": "/boards/rosso-levanto-marble-tray.png",
+    "items": [
+      {
+        "name": "Rosso Levanto Marble Tray",
+        "url": "https://www.amazon.com/dp/B0CT5C68HH?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "walnut-brown-wood-pedestal-bowl",
+    "title": "Walnut-Brown Pedestal Bowl",
+    "image": "/boards/walnut-brown-wood-pedestal-bowl.png",
+    "items": [
+      {
+        "name": "Walnut-Brown Pedestal Bowl",
+        "url": "https://www.amazon.com/dp/B0F952ZX3H?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "chocolate-velvet-lumbar-pillow-covers",
+    "title": "Chocolate Velvet Lumbar Covers",
+    "image": "/boards/chocolate-velvet-lumbar-pillow-covers.png",
+    "items": [
+      {
+        "name": "Chocolate Velvet Lumbar Covers",
+        "url": "https://www.amazon.com/dp/B0C6THZN5G?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "walnut-wood-bookends",
+    "title": "Walnut Wood Bookends",
+    "image": "/boards/walnut-wood-bookends.png",
+    "items": [
+      {
+        "name": "Walnut Wood Bookends",
+        "url": "https://www.amazon.com/dp/B0F8TPYPRF?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "travertine-brass-candlestick",
+    "title": "Travertine & Brass Candlestick",
+    "image": "/boards/travertine-brass-candlestick.png",
+    "items": [
+      {
+        "name": "Travertine & Brass Candlestick",
+        "url": "https://www.amazon.com/dp/B0FX972NDZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "antique-brass-taper-holders",
+    "title": "Antique Brass Taper Holders",
+    "image": "/boards/antique-brass-taper-holders.png",
+    "items": [
+      {
+        "name": "Antique Brass Taper Holders",
+        "url": "https://www.amazon.com/dp/B0BV9XJF8Q?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "dark-walnut-serving-board",
+    "title": "Dark Walnut Serving Board",
+    "image": "/boards/dark-walnut-serving-board.png",
+    "items": [
+      {
+        "name": "Dark Walnut Serving Board",
+        "url": "https://www.amazon.com/dp/B086RP9DZ4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "black-marble-bowl",
+    "title": "Black Marble Bowl",
+    "image": "/boards/black-marble-bowl.png",
+    "items": [
+      {
+        "name": "Black Marble Bowl",
+        "url": "https://www.amazon.com/dp/B0F7KZNTJY?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
