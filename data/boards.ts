@@ -579,5 +579,122 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0BNVTLCB4?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "midnight-movie-boo-basket",
+    "title": "Midnight Movie Boo Basket",
+    "image": "/boards/midnight-movie-boo-basket.png",
+    "items": [
+      {
+        "name": "Black woven cotton rope gift basket with handles, 15 x 10 x 9 in (WILLITAT)",
+        "url": "https://www.amazon.com/dp/B0G43DLLW7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black knit throw with fringe, 50x60 (Homiest)",
+        "url": "https://www.amazon.com/dp/B0D5QH18HW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vintage gold chamberstick taper holders, set of 2 (NIKKY HOME)",
+        "url": "https://www.amazon.com/dp/B0DYCVC5K8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black wabi-sabi ceramic bowl (salomayes)",
+        "url": "https://www.amazon.com/dp/B0GV2F58NM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black mug with white ghosts, 14 oz (Sweet Water Decor)",
+        "url": "https://www.amazon.com/dp/B0D647Y84K?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Embossed glass canister with acacia lid, 34 oz (ComSaf)",
+        "url": "https://www.amazon.com/dp/B0H3TF8VDD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solid black unscented pillar candle (Mega Candles)",
+        "url": "https://www.amazon.com/dp/B0BM548XQJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black mulberry silk sleep mask (LULUSILK)",
+        "url": "https://www.amazon.com/dp/B01LYN8P86?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-witching-hour-boo-basket",
+    "title": "The Witching Hour Boo Basket",
+    "image": "/boards/the-witching-hour-boo-basket.png",
+    "items": [
+      {
+        "name": "Black hand-woven willow basket with handle (LIOOBO)",
+        "url": "https://www.amazon.com/dp/B0D4YBDN1V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold crescent moon candle holders, set of 2 (MrMrKura)",
+        "url": "https://www.amazon.com/dp/B0DM27S4KK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoky gray ribbed glass jar with wood lid, 25 oz",
+        "url": "https://www.amazon.com/dp/B0GYL5PYDR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black cauldron ceramic mug, 12 oz",
+        "url": "https://www.amazon.com/dp/B0H1WD8YYH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wine red velvet moon & stars cosmetic bag",
+        "url": "https://www.amazon.com/dp/B0FFSK13QY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black taper candles, 10 in, 4 pack (Everymoment)",
+        "url": "https://www.amazon.com/dp/B0GX28NC63?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black moon ceramic jewelry dish (BIHOIB)",
+        "url": "https://www.amazon.com/dp/B08Y71T872?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black lace oversized scrunchies (Dimeho)",
+        "url": "https://www.amazon.com/dp/B0F6YCWTBB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-dark-romance-boo-basket",
+    "title": "The Dark Romance Boo Basket",
+    "image": "/boards/the-dark-romance-boo-basket.png",
+    "items": [
+      {
+        "name": "Brown wicker gift basket with handles (Kingwillow)",
+        "url": "https://www.amazon.com/dp/B01KCMRYWW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark wood keepsake boxes with hinged lids, set of 2 (Saijax)",
+        "url": "https://www.amazon.com/dp/B0CH9FW6LY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Garnet red textured pillar candle, 3x6 in, unscented (Root Candles)",
+        "url": "https://www.amazon.com/dp/B0759QNF69?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Red velvet jewelry box (Oirlv)",
+        "url": "https://www.amazon.com/dp/B08LL29DZX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy glass heart trinket box",
+        "url": "https://www.amazon.com/dp/B0CQ2J4NJR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold refillable perfume atomizers, 5 ml",
+        "url": "https://www.amazon.com/dp/B0GXWVJCB5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold compact mirror, 1x/2x (MIHAGUTY)",
+        "url": "https://www.amazon.com/dp/B08NTNQMZ5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark red velvet hair bow clips, 3 in",
+        "url": "https://www.amazon.com/dp/B0CN4G5V68?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
