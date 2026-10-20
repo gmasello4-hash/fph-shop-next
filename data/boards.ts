@@ -3,6 +3,17 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "black-ceramic-pumpkin-gold-stem",
+    "title": "Black Ceramic Pumpkin with Gold Stem",
+    "image": "/boards/black-ceramic-pumpkin-gold-stem.png",
+    "items": [
+      {
+        "name": "Black Ceramic Pumpkin with Gold Stem",
+        "url": "https://www.amazon.com/dp/B0GY37CCRP?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "wabi-sabi-espresso-ceramic-vase",
     "title": "Wabi-Sabi Espresso Ceramic Vase",
     "image": "/boards/wabi-sabi-espresso-ceramic-vase.png",
