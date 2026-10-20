@@ -3,6 +3,61 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "wabi-sabi-espresso-ceramic-vase",
+    "title": "Wabi-Sabi Espresso Ceramic Vase",
+    "image": "/boards/wabi-sabi-espresso-ceramic-vase.png",
+    "items": [
+      {
+        "name": "Wabi-Sabi Espresso Ceramic Vase",
+        "url": "https://www.amazon.com/dp/B0CDB6ZDTR?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "antique-gold-crown-arch-mirror",
+    "title": "Antique Gold Crown Arch Mirror",
+    "image": "/boards/antique-gold-crown-arch-mirror.png",
+    "items": [
+      {
+        "name": "Antique Gold Crown Arch Mirror",
+        "url": "https://www.amazon.com/dp/B0FR4QQWSZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "olive-velvet-quilted-throw",
+    "title": "Olive Velvet Quilted Throw",
+    "image": "/boards/olive-velvet-quilted-throw.png",
+    "items": [
+      {
+        "name": "Olive Velvet Quilted Throw",
+        "url": "https://www.amazon.com/dp/B0G4SM973J?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "dark-bronze-taper-holders",
+    "title": "Dark Bronze Taper Holders",
+    "image": "/boards/dark-bronze-taper-holders.png",
+    "items": [
+      {
+        "name": "Dark Bronze Taper Holders",
+        "url": "https://www.amazon.com/dp/B0DDTBTLMZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "black-marble-votive-holders",
+    "title": "Black Marble Votive Holders",
+    "image": "/boards/black-marble-votive-holders.png",
+    "items": [
+      {
+        "name": "Black Marble Votive Holders",
+        "url": "https://www.amazon.com/dp/B0DHNKCHWL?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "moody-kitchen-edit",
     "title": "Moody Kitchen Edit",
     "image": "/boards/moody-kitchen-edit.png",
