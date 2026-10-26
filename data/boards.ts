@@ -1142,5 +1142,97 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0FPF453LT?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "the-moody-outdoor-kitchen-edit",
+    "title": "The Moody Outdoor Kitchen Edit",
+    "image": "/boards/the-moody-outdoor-kitchen-edit.png",
+    "items": [
+      {
+        "name": "Acacia Wood Serving Tray with Gold Handles, 17x13 (Cirella Home)",
+        "url": "https://www.amazon.com/dp/B0HFN9VKM6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "End-Grain Walnut Cutting Board, 20x15 (THETCHRY)",
+        "url": "https://www.amazon.com/dp/B0H6DCBNZT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Stoneware Dinnerware Set (Gibson Home Zuma)",
+        "url": "https://www.amazon.com/dp/B0C67FGTT2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hurricane Candle Lanterns with Wood Base, Set of 2 (Houmury)",
+        "url": "https://www.amazon.com/dp/B0FPCZ9VYV?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "closet-after-dark",
+    "title": "Closet After Dark",
+    "image": "/boards/closet-after-dark.png",
+    "items": [
+      {
+        "name": "Gold Display Risers for Handbags, Set of 3",
+        "url": "https://www.amazon.com/dp/B092V728WG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Walnut Wood Jewelry Box with Brass Handle (Homruilink)",
+        "url": "https://www.amazon.com/dp/B0D6G9SX5P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Brass Coat Hooks, 5 Pack (CABDM)",
+        "url": "https://www.amazon.com/dp/B0FDB9216V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Tufted Velvet Round Ottoman with Gold Base (Ornavo Home Beverly)",
+        "url": "https://www.amazon.com/dp/B0848HGY9N?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "the-layered-moody-bed",
+    "title": "The Layered Moody Bed",
+    "image": "/boards/the-layered-moody-bed.png",
+    "items": [
+      {
+        "name": "Cross-Stitch Velvet Quilt Set, Light Taupe (EverGrace)",
+        "url": "https://www.amazon.com/dp/B0D5B5NZF3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Velvet Pillow Covers, 20x20, Set of 2 (MIULEE)",
+        "url": "https://www.amazon.com/dp/B07VLL8T2Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Warm Beige Chenille Waffle Throw (Amélie Home)",
+        "url": "https://www.amazon.com/dp/B0D1K5JMKV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Deep Gold Round Tray, 14 inch, Brass-Tone Stainless Steel (i-lan)",
+        "url": "https://www.amazon.com/dp/B0CXD932WB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "the-dusty-rose-vanity-edit",
+    "title": "The Dusty Rose Vanity Edit",
+    "image": "/boards/the-dusty-rose-vanity-edit.png",
+    "items": [
+      {
+        "name": "Antique Gold Vintage Tabletop Vanity Mirror, 12x9.8",
+        "url": "https://www.amazon.com/dp/B0D9N9R8KG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mauve Textured Velvet Ottoman Stool with Gold Base (MEXIYA Della)",
+        "url": "https://www.amazon.com/dp/B07F7VH1V1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Ribbed Glass Makeup Brush Holder (Fvstar)",
+        "url": "https://www.amazon.com/dp/B0B8YWVNHN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Large Burgundy Velvet Hair Bow Barrette (EmilyRose Couture)",
+        "url": "https://www.amazon.com/dp/B0BNW9WQFC?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
