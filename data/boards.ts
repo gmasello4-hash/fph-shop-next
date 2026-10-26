@@ -996,5 +996,151 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0BC5JFVQ7?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "the-moody-christmas-wishlist",
+    "title": "The Moody Christmas Wishlist",
+    "image": "/boards/the-moody-christmas-wishlist.png",
+    "items": [
+      {
+        "name": "Chocolate Flannel Fleece Plush Throw (HYSEAS)",
+        "url": "https://www.amazon.com/dp/B015007LRY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black 40 oz Stainless Tumbler with Handle (Hasle Outfitters)",
+        "url": "https://www.amazon.com/dp/B0BRKFQR1N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Genuine Sheepskin Leather Gloves",
+        "url": "https://www.amazon.com/dp/B08KSDRN9Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "14K Gold Hoop Earrings",
+        "url": "https://www.amazon.com/dp/B0H5TNSSX8?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "cozy-girl-christmas",
+    "title": "Cozy Girl Christmas",
+    "image": "/boards/cozy-girl-christmas.png",
+    "items": [
+      {
+        "name": "Cream Velvet-Touch Plush Sherpa Throw, folded (Elegant Comfort)",
+        "url": "https://www.amazon.com/dp/B0CKZT393V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chestnut Australian Sheepskin Suede Scuff Slippers (Parfeying)",
+        "url": "https://www.amazon.com/dp/B099Z737DQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Speckled Stoneware-Look Ceramic Mug (Bosmarlin)",
+        "url": "https://www.amazon.com/dp/B091SQ4T6S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Thick Knit Wool-Blend Boot Socks (Weweya)",
+        "url": "https://www.amazon.com/dp/B0C9PRL9ZF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Camel 100% Cashmere Fringed Scarf",
+        "url": "https://www.amazon.com/dp/B0CC21Z1K2?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "dark-and-girly-holiday-finds",
+    "title": "Dark & Girly Holiday Finds",
+    "image": "/boards/dark-and-girly-holiday-finds.png",
+    "items": [
+      {
+        "name": "Black Soft Fleece Throw (Amazon Basics)",
+        "url": "https://www.amazon.com/dp/B0DNQ4MR7M?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Quilted Shoulder Bag with Gold Chain (Gladdon)",
+        "url": "https://www.amazon.com/dp/B0B38NZ18B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Velvet Long-Tail Hair Bow",
+        "url": "https://www.amazon.com/dp/B0DMJFLM19?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Freshwater Pearl Drop Earrings (The Pearl Source)",
+        "url": "https://www.amazon.com/dp/B00LLIV2L6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Round-Toe Bow Ballet Flats",
+        "url": "https://www.amazon.com/dp/B09GVCSSTN?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "the-golden-hour-edit",
+    "title": "The Golden Hour Edit",
+    "image": "/boards/the-golden-hour-edit.png",
+    "items": [
+      {
+        "name": "Cognac Genuine Leather Tote (Kattee)",
+        "url": "https://www.amazon.com/dp/B07MT5VRTF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Genuine Suede Ballet Flats, Chocolate Brown (PROJECT CLOUD)",
+        "url": "https://www.amazon.com/dp/B0H2FRDB3L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Speckled Stoneware Mug, 15 oz (Warmthmaster)",
+        "url": "https://www.amazon.com/dp/B0H6ML7VJB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Large Gold Metal Claw Clip (MEDOCA)",
+        "url": "https://www.amazon.com/dp/B0D8J8MKN7?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "the-moody-hot-tub-edit",
+    "title": "The Moody Hot Tub Edit",
+    "image": "/boards/the-moody-hot-tub-edit.png",
+    "items": [
+      {
+        "name": "Teak Outdoor Side Table (Utoplike)",
+        "url": "https://www.amazon.com/dp/B0C5SK9NF2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Insulated Ice Bucket with Brass Lid & Scoop, 3.2L",
+        "url": "https://www.amazon.com/dp/B0DPH9SK5Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Charcoal Turkish Cotton Towel (PÜSKÜL)",
+        "url": "https://www.amazon.com/dp/B0BGSB7H7H?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stainless Steel Stemless Wine Glasses, Set of 4 (WOTOR)",
+        "url": "https://www.amazon.com/dp/B0D4YSZ8WZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+{
+    "slug": "the-moody-picnic-edit",
+    "title": "The Moody Picnic Edit",
+    "image": "/boards/the-moody-picnic-edit.png",
+    "items": [
+      {
+        "name": "Wicker Picnic Basket with Lid & Liner",
+        "url": "https://www.amazon.com/dp/B00JOL7J6Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Plaid Fringed Throw (VHC Brands Eston)",
+        "url": "https://www.amazon.com/dp/B0CFLFZ8HF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Brass Glass Lantern, 12\"",
+        "url": "https://www.amazon.com/dp/B0GJKFBP75?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Acacia Wood Charcuterie Board with Handle",
+        "url": "https://www.amazon.com/dp/B0FPF453LT?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
