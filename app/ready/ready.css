@@ -1,0 +1,11 @@
+.rd-wrap{max-width:560px;margin:0 auto;padding:16px}
+.rd-h{font-size:1.6rem;margin:8px 0}.rd-sub{opacity:.75;margin-bottom:16px}
+.rd-card{border:1px solid #ddd;border-radius:14px;padding:16px;margin-bottom:20px;display:flex;flex-direction:column;gap:10px}
+.rd-posted{opacity:.4}.rd-title{font-size:1.2rem;margin:0}
+.rd-imgs{display:flex;flex-direction:column;gap:12px}.rd-imgs figure{margin:0}
+.rd-imgs img{width:100%;height:auto;border-radius:8px;display:block}
+.rd-dl{display:block;text-align:center;padding:12px;margin-top:6px;border:1px solid #999;border-radius:10px;text-decoration:none;color:inherit}
+.rd-cap{white-space:pre-wrap;font-family:inherit;background:#f5f2ee;padding:12px;border-radius:8px;margin:0}
+.rd-need{color:#a33;font-weight:600}.rd-url{word-break:break-all;font-size:.9rem;margin:0}
+.rd-btn{min-height:48px;font-size:1rem;border-radius:10px;border:0;background:#222;color:#fff;cursor:pointer}
+.rd-check{display:flex;align-items:center;gap:10px;min-height:48px;font-size:1.1rem}.rd-check input{width:26px;height:26px}
