@@ -20,6 +20,8 @@ for m in re.finditer(r'^##\s+(.+?)\s*\n(.*?)(?=^##\s|\Z)',bob,re.S|re.M):
   if not txt: continue
   if sm: bob_slug[sm.group(1)]=txt
   bob_title[t.lower()]=txt
+for f in glob.glob('/workspace/gina-plans/pins/batch25/fph-*-caption.md'):
+  caps[os.path.basename(f)[4:-11]]=open(f).read().strip()
 def caption_for(s):
   return caps.get(s) or bob_slug.get(s) or bob_title.get(titles.get(s,"").lower())
 def fix(c):

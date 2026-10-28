@@ -308,5 +308,75 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/girls-night-after-dark-feed.jpg",
   "story": "/stories/girls-night-after-dark.png",
   "caption": "Girls night, all glammed up 💃 A gold disco ball, Art Deco coupes, leopard napkins and velvet bows.\n#ad #girlsnight #partydecor #amazonfinds"
+ },
+ {
+  "slug": "the-book-lovers-night-in",
+  "title": "The Book Lover's Night In",
+  "feed": "/ready/the-book-lovers-night-in-feed.jpg",
+  "story": "/stories/the-book-lovers-night-in.png",
+  "caption": "A reading pillow, a plush throw and a book stand for the book lover's night in. #ad #booklover #giftguide #cozynight #feelingprettyhome"
+ },
+ {
+  "slug": "the-coffee-lover-gift-edit",
+  "title": "The Gift Edit for the Coffee Lover",
+  "feed": "/ready/the-coffee-lover-gift-edit-feed.jpg",
+  "story": "/stories/the-coffee-lover-gift-edit.png",
+  "caption": "The pour-over setup for the coffee lover on your list. #ad #coffeelover #giftguide #holidaygifts #feelingprettyhome"
+ },
+ {
+  "slug": "the-gift-edit-for-mom",
+  "title": "The Gift Edit for Mom",
+  "feed": "/ready/the-gift-edit-for-mom-feed.jpg",
+  "story": "/stories/the-gift-edit-for-mom.png",
+  "caption": "Cashmere, silk and her signature candle: little luxuries Mom won't buy herself. #ad #giftsformom #giftguide #holidaygifts #feelingprettyhome"
+ },
+ {
+  "slug": "the-holiday-cocktail-hour",
+  "title": "The Holiday Cocktail Hour",
+  "feed": "/ready/the-holiday-cocktail-hour-feed.jpg",
+  "story": "/stories/the-holiday-cocktail-hour.png",
+  "caption": "Gold tins, smoke glass and coupes for a holiday cocktail hour at home. #ad #holidaycocktails #barcart #holidayhosting #feelingprettyhome"
+ },
+ {
+  "slug": "the-homebody-gift-edit",
+  "title": "The Gift Edit for the Homebody",
+  "feed": "/ready/the-homebody-gift-edit-feed.jpg",
+  "story": "/stories/the-homebody-gift-edit.png",
+  "caption": "For the friend whose favorite plan is staying in. #ad #homebody #giftguide #holidaygifts #feelingprettyhome"
+ },
+ {
+  "slug": "the-housewarming-gift-edit",
+  "title": "The Gift Edit Housewarming",
+  "feed": "/ready/the-housewarming-gift-edit-feed.jpg",
+  "story": "/stories/the-housewarming-gift-edit.png",
+  "caption": "Gifts for a new front door, from a walnut board to a home for their keys. #ad #housewarminggift #giftguide #newhome #feelingprettyhome"
+ },
+ {
+  "slug": "the-moody-stocking-stuffers",
+  "title": "The Moody Stocking Stuffers",
+  "feed": "/ready/the-moody-stocking-stuffers-feed.jpg",
+  "story": "/stories/the-moody-stocking-stuffers.png",
+  "caption": "Small, pretty and actually useful stocking stuffers. #ad #stockingstuffers #giftguide #holidaygifts #feelingprettyhome"
+ },
+ {
+  "slug": "the-moody-thanksgiving-sideboard",
+  "title": "The Moody Thanksgiving Sideboard",
+  "feed": "/ready/the-moody-thanksgiving-sideboard-feed.jpg",
+  "story": "/stories/the-moody-thanksgiving-sideboard.png",
+  "caption": "Warm wood, cream and gold for a sideboard that's set before the turkey's out. #ad #thanksgiving #sideboardstyling #hostingseason #feelingprettyhome"
+ },
+ {
+  "slug": "the-slow-christmas-morning",
+  "title": "The Slow Christmas Morning",
+  "feed": "/ready/the-slow-christmas-morning-feed.jpg",
+  "story": "/stories/the-slow-christmas-morning.png",
+  "caption": "Wool socks, a warm mug and a candle burning: Christmas morning, slowly. #ad #christmasmorning #cozyhome #holidayhome #feelingprettyhome"
+ },
+ {
+  "slug": "the-thanksgiving-dessert-table",
+  "title": "The Thanksgiving Dessert Table",
+  "feed": "/ready/the-thanksgiving-dessert-table-feed.jpg",
+  "story": "/stories/the-thanksgiving-dessert-table.png",
+  "caption": "Pie, cake and a little something under glass: the dessert table everyone lingers at. #ad #thanksgiving #desserttable #hostingseason #feelingprettyhome"
  }
 ];

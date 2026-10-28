@@ -1234,5 +1234,259 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0BNW9WQFC?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "the-book-lovers-night-in",
+    "title": "The Book Lover's Night In",
+    "image": "/boards/the-book-lovers-night-in.png",
+    "items": [
+      {
+        "name": "Reading Pillow for Sitting Up in Bed, Corduroy Backrest Pillow with Arms, Side Pocket & Wa",
+        "url": "https://www.amazon.com/dp/B0G7YW8RMK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Throw Blanket, 50\"x60\", Soft Sherpa Blanket for Couch or Bed",
+        "url": "https://www.amazon.com/dp/B0GYQJ3TZS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solid Wooden Book Stand 16\" x 9.5\" x 6\" Extra Large Display Stand",
+        "url": "https://www.amazon.com/dp/B0FLWRS3KZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MIXVOVA 6 Pcs Leather Bookmark with Tassel, Classic Style Bookmark, 0.05 Inches Thin Handm",
+        "url": "https://www.amazon.com/dp/B0DP5Y62L2?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-coffee-lover-gift-edit",
+    "title": "The Gift Edit for the Coffee Lover",
+    "image": "/boards/the-coffee-lover-gift-edit.png",
+    "items": [
+      {
+        "name": "Bodum 27oz Bistro Gooseneck Electric Water Kettle, Pour Over Coffee & Tea, Stainless Steel",
+        "url": "https://www.amazon.com/dp/B07G2MBM6L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vintage Wooden Manual Coffee Grinder, Hand Crank Coffee Mill with Ceramic Burr, Adjustable",
+        "url": "https://www.amazon.com/dp/B07B9F7KBM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kalita Style Coffee dripper, 102, 4 cups, Brown",
+        "url": "https://www.amazon.com/dp/B0038L2I3A?tag=feelingpret0e-20"
+      },
+      {
+        "name": "KKC HOME ACCENTS 40 oz Glass Coffee Container (Holds 1 lb Coffee Beans) with Airtight Bamb",
+        "url": "https://www.amazon.com/dp/B07Z8X4JTG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MORA Espresso Mug Set of 2 with Saucers, 4 oz Ceramic Cups for Espresso and Small Coffee M",
+        "url": "https://www.amazon.com/dp/B0GWNDTFBD?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-gift-edit-for-mom",
+    "title": "The Gift Edit for Mom",
+    "image": "/boards/the-gift-edit-for-mom.png",
+    "items": [
+      {
+        "name": "Fishers Finery Men's 100% Pure Cashmere Winter Scarf; 2-Ply Ultra Plush",
+        "url": "https://www.amazon.com/dp/B07GDTP899?tag=feelingpret0e-20"
+      },
+      {
+        "name": "SUNDAYSILKS™ 100% Mulberry Silk Pillowcase, Silk Pillow Cases for Hair & Skin, Superior to",
+        "url": "https://www.amazon.com/dp/B0DDNLKBWL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Aspen & Fog Scented Candle - 75 Hour Burn",
+        "url": "https://www.amazon.com/dp/B08CBWWMVY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "100% Solid Brass Clawfoot Dish - Pedestal Dish - 4.6 in - Candle Dish - Candle Holder - Ca",
+        "url": "https://www.amazon.com/dp/B0CVRV7NGY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Aesop Resurrection Aromatique Hand Balm, to Soften and Hydrate Hands, 2.4oz",
+        "url": "https://www.amazon.com/dp/B000IB0GYQ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-holiday-cocktail-hour",
+    "title": "The Holiday Cocktail Hour",
+    "image": "/boards/the-holiday-cocktail-hour.png",
+    "items": [
+      {
+        "name": "Nick and Nora Coupe Cocktail Glasses - Handblown Set of 2, Small Plain Vintage Coupe Glass",
+        "url": "https://www.amazon.com/dp/B07NQWH7QY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Barfly M37009GD Cocktail Tin, Set (18 oz and 28 oz), Gold",
+        "url": "https://www.amazon.com/dp/B074HPD254?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fortessa Jupiter Beaded Hobnail Glass, 10 Ounce Double Old Fashioned (Set of 4), Smoke Gra",
+        "url": "https://www.amazon.com/dp/B09ZVLC3LG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "OGGI 6-Piece Slim Bartender Kit - Ideal Bar Cart Accessories, Great Decor and Accessories",
+        "url": "https://www.amazon.com/dp/B0DJDX72YV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Barfly Cocktail Picks, Grooved, Gold Plated, Set 12, 4.5\"",
+        "url": "https://www.amazon.com/dp/B0BMDZ5JZ3?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-homebody-gift-edit",
+    "title": "The Gift Edit for the Homebody",
+    "image": "/boards/the-homebody-gift-edit.png",
+    "items": [
+      {
+        "name": "CUSHIONAIRE Keto Womens Slippers Slip-On Suede Mule Slipper - Cozy & Stylish, Memory Foam",
+        "url": "https://www.amazon.com/dp/B0DGZHJRJ1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vanilla Soy Candle, 8.8 oz – Cream Ceramic Jar",
+        "url": "https://www.amazon.com/dp/B0H8PZSF6C?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Handmade Ceramic Clay Coffee Mug - Brown Swirl 14oz",
+        "url": "https://www.amazon.com/dp/B09QZ2TTB3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fibogollo 2 Pack Acacia Wood Breakfast Tray,Folding Bed Tray Table",
+        "url": "https://www.amazon.com/dp/B0FG2JLGFR?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-housewarming-gift-edit",
+    "title": "The Gift Edit Housewarming",
+    "image": "/boards/the-housewarming-gift-edit.png",
+    "items": [
+      {
+        "name": "Sonder Los Angeles Alfred Cutting Board Made in USA | Black Walnut End Grain Cutting Board",
+        "url": "https://www.amazon.com/dp/B07Y2YMYML?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Key Holder Wall Mount, Solid Wood Key Holder for Wall with 4 Brass Hooks & Hidden Magnets,",
+        "url": "https://www.amazon.com/dp/B0FMSBSRYR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LE TAUCI Plant Pots, 4.1+5.1+6.5 inch, Set of 3, Reactive Glaze Beige",
+        "url": "https://www.amazon.com/dp/B08F7TP4TN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Calloway Mills Border Doormat 24\" x 36\" (Black)",
+        "url": "https://www.amazon.com/dp/B07H3BQCLV?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-stocking-stuffers",
+    "title": "The Moody Stocking Stuffers",
+    "image": "/boards/the-moody-stocking-stuffers.png",
+    "items": [
+      {
+        "name": "Acetate Hair Claw Clip, Dark Tortoise, 4 Inch Large Hair Clip for Women",
+        "url": "https://www.amazon.com/dp/B0HCBWBMVM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Slip Silk Assorted Scrunchies, Set of 3 | Dark Brown | Made with slipsilk™",
+        "url": "https://www.amazon.com/dp/B0CNTWWCLH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Moyel Warm Wool Cashmere Socks for Women Thermal Winter Socks",
+        "url": "https://www.amazon.com/dp/B0DMJ6X9VV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "handmade leather keychain,leather Vintage durability keychain, Gift For Birthday",
+        "url": "https://www.amazon.com/dp/B0CLNTVK6P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Maison Louis Marie No.04 Bois de Balincourt Santal Perfume Oil Mini, 3 ml",
+        "url": "https://www.amazon.com/dp/B0BCR43TL6?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-thanksgiving-sideboard",
+    "title": "The Moody Thanksgiving Sideboard",
+    "image": "/boards/the-moody-thanksgiving-sideboard.png",
+    "items": [
+      {
+        "name": "AIDEA Acacia Wood Serving Bowl for Fruits or Salads, 11\" Diameter x 4.5\" Height, Wooden Si",
+        "url": "https://www.amazon.com/dp/B0912MVHXR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Pfaltzgraff Autumn Berry Gravy Boat, Cream, 9 Inches",
+        "url": "https://www.amazon.com/dp/B07X2T8638?tag=feelingpret0e-20"
+      },
+      {
+        "name": "WÜSTHOF Stainless 2-Piece Carving Knife Set",
+        "url": "https://www.amazon.com/dp/B0C52VNFFP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "KIVY Butter Dish Black Marble with airtight glass lid - Dishwasher Safe",
+        "url": "https://www.amazon.com/dp/B0DPGJNZDR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gisly Gold 12 Pieces Serving Utensils Include Large Serving Spoons,Slotted Serving Spoons,",
+        "url": "https://www.amazon.com/dp/B0DH2328ZD?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-slow-christmas-morning",
+    "title": "The Slow Christmas Morning",
+    "image": "/boards/the-slow-christmas-morning.png",
+    "items": [
+      {
+        "name": "Merino Wool Socks for Women, Winter Warm Thermal Thick Boot Socks 4 Pairs",
+        "url": "https://www.amazon.com/dp/B0G2WSSCW7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bosmarlin Large Ceramic Coffee Mug Set of 2, Stoneware Jumbo Latte Mugs for Office and Hom",
+        "url": "https://www.amazon.com/dp/B08HVLJBF6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sweet Water Decor Warm & Cozy Candle, 9oz Amber Glass Jar, Winter Scents",
+        "url": "https://www.amazon.com/dp/B0C28S8CY8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Women's 100% Genuine Australian Sheepskin Scuff Slippers",
+        "url": "https://www.amazon.com/dp/B088T4YC8X?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-thanksgiving-dessert-table",
+    "title": "The Thanksgiving Dessert Table",
+    "image": "/boards/the-thanksgiving-dessert-table.png",
+    "items": [
+      {
+        "name": "Acacia Wood Cake Stand with Glass Lid–12\" Magnetic Base for Parties&Kitchen",
+        "url": "https://www.amazon.com/dp/B0FNM1J9VN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hanobe Wooden Cake Pedestal Stand 12\" Display Riser Plate for Home Decor",
+        "url": "https://www.amazon.com/dp/B0CG31ZCWZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "9 Inch Ceramic Pie Pan, Fluted Baking Dish with Brown Glaze Rim, Oven Safe",
+        "url": "https://www.amazon.com/dp/B0CX7Y4MKN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ceramic Plates Set of 4, 8.5-Inch Speckled Stoneware Plates, Beige Dessert Plates, Modern",
+        "url": "https://www.amazon.com/dp/B0GZW385JZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "2-Piece Gold Cake Server & Pie Cutter Set, Stainless Steel with Gold Finish",
+        "url": "https://www.amazon.com/dp/B0GCSFZB6Z?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
