@@ -1,6 +1,9 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"baby-its-dark-outside",name:"Baby, It's Dark Outside",image:"/stories/baby-its-dark-outside.png",order:34},
+  {slug:"espresso-yourself-this-winter",name:"Espresso Yourself This Winter",image:"/stories/espresso-yourself-this-winter.png",order:35},
+  {slug:"cold-nights-dark-delights",name:"Cold Nights, Dark Delights",image:"/stories/cold-nights-dark-delights.png",order:36},
   {slug:"wabi-sabi-espresso-ceramic-vase",name:"Wabi-Sabi Espresso Ceramic Vase",image:"/stories/wabi-sabi-espresso-ceramic-vase.png",order:33},
   {slug:"antique-gold-crown-arch-mirror",name:"Antique Gold Crown Arch Mirror",image:"/stories/antique-gold-crown-arch-mirror.png",order:32},
   {slug:"olive-velvet-quilted-throw",name:"Olive Velvet Quilted Throw",image:"/stories/olive-velvet-quilted-throw.png",order:31},

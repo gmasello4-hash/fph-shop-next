@@ -1488,5 +1488,126 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0GCSFZB6Z?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "baby-its-dark-outside",
+    "title": "Baby, It's Dark Outside",
+    "image": "/boards/baby-its-dark-outside.png",
+    "items": [
+      {
+        "name": "Black woven gift basket",
+        "url": "https://www.amazon.com/dp/B0B34ZBZVV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black chunky knit throw blanket",
+        "url": "https://www.amazon.com/dp/B0BCPZC924?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cashmere vanilla candle",
+        "url": "https://www.amazon.com/dp/B0F2218YHS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black ceramic coffee mug",
+        "url": "https://www.amazon.com/dp/B07QG3L41B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Whittard luxury hot chocolate",
+        "url": "https://www.amazon.com/dp/B00LL9JI84?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black faux fur slippers",
+        "url": "https://www.amazon.com/dp/B08DXYZT8L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Charcoal gray fuzzy socks",
+        "url": "https://www.amazon.com/dp/B0FLPWKRFB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black silk sleep mask",
+        "url": "https://www.amazon.com/dp/B08LTGMVBX?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "espresso-yourself-this-winter",
+    "title": "Espresso Yourself This Winter",
+    "image": "/boards/espresso-yourself-this-winter.png",
+    "items": [
+      {
+        "name": "Espresso brown woven basket",
+        "url": "https://www.amazon.com/dp/B0CQKF99H2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate brown faux fur throw",
+        "url": "https://www.amazon.com/dp/B09L13TZTQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mocha knit beanie",
+        "url": "https://www.amazon.com/dp/B0HNZT8FF4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Faux fur earmuffs",
+        "url": "https://www.amazon.com/dp/B0FHPCHYRG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Tortoise insulated coffee tumbler",
+        "url": "https://www.amazon.com/dp/B0H3WQRDY6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Espresso & roast coffee candle",
+        "url": "https://www.amazon.com/dp/B0DFVWX5NL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate-covered espresso beans",
+        "url": "https://www.amazon.com/dp/B0FVB2J2ZL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown knit touchscreen gloves",
+        "url": "https://www.amazon.com/dp/B0HHK15LNH?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "cold-nights-dark-delights",
+    "title": "Cold Nights, Dark Delights",
+    "image": "/boards/cold-nights-dark-delights.png",
+    "items": [
+      {
+        "name": "Black woven gift basket (14x10x6 in, with gift bags & ribbon)",
+        "url": "https://www.amazon.com/dp/B0DZB7RBM7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wine satin pillowcases",
+        "url": "https://www.amazon.com/dp/B08LPQ6T35?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black cherry merlot candle",
+        "url": "https://www.amazon.com/dp/B0GQCFYKVX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy quilted makeup bag",
+        "url": "https://www.amazon.com/dp/B00PSPBAII?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Godiva Gold dark chocolate gift box",
+        "url": "https://www.amazon.com/dp/B0FDM7N4ZV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wine sherpa slipper socks",
+        "url": "https://www.amazon.com/dp/B0FNM9Z5SL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "24K gold under-eye patches",
+        "url": "https://www.amazon.com/dp/B0C4NWGVTF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy claw clip",
+        "url": "https://www.amazon.com/dp/B0HFRR8MHQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "e.l.f. berry tinted lip balm",
+        "url": "https://www.amazon.com/dp/B0DZPBWN1L?tag=feelingpret0e-20"
+      }
+    ]
   }
 ];
