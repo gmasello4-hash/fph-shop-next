@@ -1,5 +1,6 @@
 import {stories} from "@/data/stories";
 import CopyButton from "./CopyButton";
+import PostedCheck from "./PostedCheck";
 import "./stories.css";
 export const metadata={title:"FPH Stories",robots:{index:false,follow:false,googleBot:{index:false,follow:false}}};
 const SITE="https://fph-shop-next.vercel.app";
@@ -13,6 +14,7 @@ export default function Stories(){
         <img className="st-img" src={s.image} alt={s.name} width={1080} height={1920} loading="lazy"/>
         <h2 className="st-name">{s.name}</h2>
         <CopyButton url={url}/>
+        <PostedCheck slug={s.slug}/>
         <a className="st-dl" href={s.image} download={`fph-${s.slug}-story.png`}>Download image</a>
         <p className="st-url">{url.replace("https://","")}</p>
       </section>)})}
