@@ -9,3 +9,4 @@
 .rd-need{color:#a33;font-weight:600}.rd-url{word-break:break-all;font-size:.9rem;margin:0}
 .rd-btn{min-height:48px;font-size:1rem;border-radius:10px;border:0;background:#222;color:#fff;cursor:pointer}
 .rd-check{display:flex;align-items:center;gap:10px;min-height:48px;font-size:1.1rem}.rd-check input{width:26px;height:26px}
+.rd-wrap{display:flex;flex-direction:column}.rd-wrap>.rd-posted{order:10}
