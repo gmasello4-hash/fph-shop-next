@@ -2,27 +2,6 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]=[
  {
-  "slug": "baby-its-dark-outside",
-  "title": "Baby, It's Dark Outside",
-  "feed": "/ready/baby-its-dark-outside-feed.jpg",
-  "story": "/stories/baby-its-dark-outside.png",
-  "caption": "Baby, it's dark outside 🖤 A moody black-and-cream Brrr Basket: chunky knit throw, cashmere vanilla candle, cozy socks and a cup of something rich.\n\nShop the links below:\n1. Black woven gift basket: https://www.amazon.com/dp/B0B34ZBZVV?tag=feelingpret0e-20\n2. Black chunky knit throw blanket: https://www.amazon.com/dp/B0BCPZC924?tag=feelingpret0e-20\n3. Cashmere vanilla candle: https://www.amazon.com/dp/B0F2218YHS?tag=feelingpret0e-20\n4. Matte black ceramic coffee mug: https://www.amazon.com/dp/B07QG3L41B?tag=feelingpret0e-20\n5. Whittard luxury hot chocolate: https://www.amazon.com/dp/B00LL9JI84?tag=feelingpret0e-20\n6. Black faux fur slippers: https://www.amazon.com/dp/B08DXYZT8L?tag=feelingpret0e-20\n7. Charcoal gray fuzzy socks: https://www.amazon.com/dp/B0FLPWKRFB?tag=feelingpret0e-20\n8. Black silk sleep mask: https://www.amazon.com/dp/B08LTGMVBX?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #giftbasketideas #cozyhome #winteressentials #moodyhome"
- },
- {
-  "slug": "espresso-yourself-this-winter",
-  "title": "Espresso Yourself This Winter",
-  "feed": "/ready/espresso-yourself-this-winter-feed.jpg",
-  "story": "/stories/espresso-yourself-this-winter.png",
-  "caption": "Espresso yourself this winter ☕ A chocolate, mocha and gold Brrr Basket for the coffee lover who's always cold.\n\nShop the links below:\n1. Espresso brown woven basket: https://www.amazon.com/dp/B0CQKF99H2?tag=feelingpret0e-20\n2. Chocolate brown faux fur throw: https://www.amazon.com/dp/B09L13TZTQ?tag=feelingpret0e-20\n3. Mocha knit beanie: https://www.amazon.com/dp/B0HNZT8FF4?tag=feelingpret0e-20\n4. Faux fur earmuffs: https://www.amazon.com/dp/B0FHPCHYRG?tag=feelingpret0e-20\n5. Tortoise insulated coffee tumbler: https://www.amazon.com/dp/B0H3WQRDY6?tag=feelingpret0e-20\n6. Espresso & roast coffee candle: https://www.amazon.com/dp/B0DFVWX5NL?tag=feelingpret0e-20\n7. Chocolate-covered espresso beans: https://www.amazon.com/dp/B0FVB2J2ZL?tag=feelingpret0e-20\n8. Brown knit touchscreen gloves: https://www.amazon.com/dp/B0HHK15LNH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #coffeelover #giftbasketideas #cozywinter #winteressentials"
- },
- {
-  "slug": "cold-nights-dark-delights",
-  "title": "Cold Nights, Dark Delights",
-  "feed": "/ready/cold-nights-dark-delights-feed.jpg",
-  "story": "/stories/cold-nights-dark-delights.png",
-  "caption": "Cold nights, dark delights 🍷 A deep wine and soft gold Brrr Basket made for slow, pampered nights in.\n\nShop the links below:\n1. Black woven gift basket: https://www.amazon.com/dp/B0DZB7RBM7?tag=feelingpret0e-20\n2. Wine satin pillowcases: https://www.amazon.com/dp/B08LPQ6T35?tag=feelingpret0e-20\n3. Black cherry merlot candle: https://www.amazon.com/dp/B0GQCFYKVX?tag=feelingpret0e-20\n4. Burgundy quilted makeup bag: https://www.amazon.com/dp/B00PSPBAII?tag=feelingpret0e-20\n5. Godiva Gold dark chocolate gift box: https://www.amazon.com/dp/B0FDM7N4ZV?tag=feelingpret0e-20\n6. Wine sherpa slipper socks: https://www.amazon.com/dp/B0FNM9Z5SL?tag=feelingpret0e-20\n7. 24K gold under-eye patches: https://www.amazon.com/dp/B0C4NWGVTF?tag=feelingpret0e-20\n8. Burgundy claw clip: https://www.amazon.com/dp/B0HFRR8MHQ?tag=feelingpret0e-20\n9. e.l.f. berry tinted lip balm: https://www.amazon.com/dp/B0DZPBWN1L?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #selfcarenight #giftbasketideas #cozynightin #winteressentials"
- },
- {
   "slug": "black-ceramic-pumpkin-gold-stem",
   "title": "Black Ceramic Pumpkin with Gold Stem",
   "feed": "/ready/black-ceramic-pumpkin-gold-stem-feed.jpg",
@@ -86,13 +65,6 @@ export const ready:ReadyCard[]=[
   "caption": "A Mediterranean kitchen, moody style 🫒 Walnut boards, olive wood servers and an amber olive oil dispenser.\n#ad #mediterraneankitchen #moodykitchen #amazonhome"
  },
  {
-  "slug": "the-moody-entryway-edit",
-  "title": "The Moody Entryway Edit",
-  "feed": "/ready/the-moody-entryway-edit-feed.jpg",
-  "story": "/stories/the-moody-entryway-edit.png",
-  "caption": "First impressions, moody style 🖤 A gold arched mirror, walnut console table and black candle lanterns.\n#ad #entrywaydecor #moodyhome #amazonhome"
- },
- {
   "slug": "the-after-hours-hostess-edit",
   "title": "The After Hours Hostess Edit",
   "feed": "/ready/the-after-hours-hostess-edit-feed.jpg",
@@ -105,34 +77,6 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/the-moody-laundry-room-edit-feed.jpg",
   "story": "/stories/the-moody-laundry-room-edit.png",
   "caption": "Laundry day, but pretty 🧺 A wooden drying rack, walnut shelves, woven baskets and amber dispensers.\n#ad #laundryroom #moodyhome #amazonhome"
- },
- {
-  "slug": "midnight-movie-boo-basket",
-  "title": "Midnight Movie Boo Basket",
-  "feed": "/ready/midnight-movie-boo-basket-feed.jpg",
-  "story": "/stories/midnight-movie-boo-basket.png",
-  "caption": "A boo basket for movie night 🍿 A black knit throw, a ghost mug and a silk sleep mask in a rope basket.\n#ad #boobasket #halloweengifts #movienight"
- },
- {
-  "slug": "the-witching-hour-boo-basket",
-  "title": "The Witching Hour Boo Basket",
-  "feed": "/ready/the-witching-hour-boo-basket-feed.jpg",
-  "story": "/stories/the-witching-hour-boo-basket.png",
-  "caption": "It's the witching hour 🌙 A cauldron mug, crescent moon candle holders and black tapers in a willow basket.\n#ad #boobasket #halloweengifts #witchyvibes"
- },
- {
-  "slug": "the-dark-romance-boo-basket",
-  "title": "The Dark Romance Boo Basket",
-  "feed": "/ready/the-dark-romance-boo-basket-feed.jpg",
-  "story": "/stories/the-dark-romance-boo-basket.png",
-  "caption": "A boo basket with a dark romantic heart 🥀 A red velvet jewelry box, garnet candle and gold compact mirror.\n#ad #boobasket #halloweengifts #darkromance"
- },
- {
-  "slug": "the-moody-girl-boo-basket",
-  "title": "The Moody Girl Boo Basket",
-  "feed": "/ready/the-moody-girl-boo-basket-feed.jpg",
-  "story": "/stories/the-moody-girl-boo-basket.png",
-  "caption": "A boo basket for your moody girl 🎃 A bunny plush, knitted pumpkins, shearling slippers and a teddy bear mug.\n#ad #boobasket #halloweengifts #giftsforher"
  },
  {
   "slug": "the-moody-coffee-shop-edit",
@@ -240,13 +184,6 @@ export const ready:ReadyCard[]=[
   "caption": "The chair that warms up a room 🤎 Mid-century cognac faux leather with a walnut frame.\n#ad #accentchair #midcenturymodern #amazonhome"
  },
  {
-  "slug": "moody-shelf-styling",
-  "title": "Moody Shelf Styling",
-  "feed": "/ready/moody-shelf-styling-feed.jpg",
-  "story": "/stories/moody-shelf-styling.png",
-  "caption": "Shelf styling with a moody twist 📚 Walnut bookends, a smoked glass vase and a travertine candlestick.\n#ad #shelfstyling #moodyhome #amazonhome"
- },
- {
   "slug": "espresso-martini-after-dark",
   "title": "Espresso Martini After Dark",
   "feed": "/ready/espresso-martini-after-dark-feed.jpg",
@@ -268,39 +205,11 @@ export const ready:ReadyCard[]=[
   "caption": "A reading pillow, a plush throw and a book stand for the book lover's night in. #ad #booklover #giftguide #cozynight #feelingprettyhome"
  },
  {
-  "slug": "the-coffee-lover-gift-edit",
-  "title": "The Gift Edit for the Coffee Lover",
-  "feed": "/ready/the-coffee-lover-gift-edit-feed.jpg",
-  "story": "/stories/the-coffee-lover-gift-edit.png",
-  "caption": "The pour-over setup for the coffee lover on your list. #ad #coffeelover #giftguide #holidaygifts #feelingprettyhome"
- },
- {
   "slug": "the-gift-edit-for-mom",
   "title": "The Gift Edit for Mom",
   "feed": "/ready/the-gift-edit-for-mom-feed.jpg",
   "story": "/stories/the-gift-edit-for-mom.png",
   "caption": "Cashmere, silk and her signature candle: little luxuries Mom won't buy herself. #ad #giftsformom #giftguide #holidaygifts #feelingprettyhome"
- },
- {
-  "slug": "the-holiday-cocktail-hour",
-  "title": "The Holiday Cocktail Hour",
-  "feed": "/ready/the-holiday-cocktail-hour-feed.jpg",
-  "story": "/stories/the-holiday-cocktail-hour.png",
-  "caption": "Gold tins, smoke glass and coupes for a holiday cocktail hour at home. #ad #holidaycocktails #barcart #holidayhosting #feelingprettyhome"
- },
- {
-  "slug": "the-homebody-gift-edit",
-  "title": "The Gift Edit for the Homebody",
-  "feed": "/ready/the-homebody-gift-edit-feed.jpg",
-  "story": "/stories/the-homebody-gift-edit.png",
-  "caption": "For the friend whose favorite plan is staying in. #ad #homebody #giftguide #holidaygifts #feelingprettyhome"
- },
- {
-  "slug": "the-housewarming-gift-edit",
-  "title": "The Gift Edit Housewarming",
-  "feed": "/ready/the-housewarming-gift-edit-feed.jpg",
-  "story": "/stories/the-housewarming-gift-edit.png",
-  "caption": "Gifts for a new front door, from a walnut board to a home for their keys. #ad #housewarminggift #giftguide #newhome #feelingprettyhome"
  },
  {
   "slug": "the-moody-stocking-stuffers",
@@ -310,24 +219,10 @@ export const ready:ReadyCard[]=[
   "caption": "Small, pretty and actually useful stocking stuffers. #ad #stockingstuffers #giftguide #holidaygifts #feelingprettyhome"
  },
  {
-  "slug": "the-moody-thanksgiving-sideboard",
-  "title": "The Moody Thanksgiving Sideboard",
-  "feed": "/ready/the-moody-thanksgiving-sideboard-feed.jpg",
-  "story": "/stories/the-moody-thanksgiving-sideboard.png",
-  "caption": "Warm wood, cream and gold for a sideboard that's set before the turkey's out. #ad #thanksgiving #sideboardstyling #hostingseason #feelingprettyhome"
- },
- {
   "slug": "the-slow-christmas-morning",
   "title": "The Slow Christmas Morning",
   "feed": "/ready/the-slow-christmas-morning-feed.jpg",
   "story": "/stories/the-slow-christmas-morning.png",
   "caption": "Wool socks, a warm mug and a candle burning: Christmas morning, slowly. #ad #christmasmorning #cozyhome #holidayhome #feelingprettyhome"
- },
- {
-  "slug": "the-thanksgiving-dessert-table",
-  "title": "The Thanksgiving Dessert Table",
-  "feed": "/ready/the-thanksgiving-dessert-table-feed.jpg",
-  "story": "/stories/the-thanksgiving-dessert-table.png",
-  "caption": "Pie, cake and a little something under glass: the dessert table everyone lingers at. #ad #thanksgiving #desserttable #hostingseason #feelingprettyhome"
  }
 ];
