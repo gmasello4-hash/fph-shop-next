@@ -9,13 +9,6 @@ export const ready:ReadyCard[]=[
   "caption": "Baby, it's dark outside 🖤 A moody black-and-cream Brrr Basket: chunky knit throw, cashmere vanilla candle, cozy socks and a cup of something rich.\n\nShop the links below:\n1. Black woven gift basket: https://www.amazon.com/dp/B0B34ZBZVV?tag=feelingpret0e-20\n2. Black chunky knit throw blanket: https://www.amazon.com/dp/B0BCPZC924?tag=feelingpret0e-20\n3. Cashmere vanilla candle: https://www.amazon.com/dp/B0F2218YHS?tag=feelingpret0e-20\n4. Matte black ceramic coffee mug: https://www.amazon.com/dp/B07QG3L41B?tag=feelingpret0e-20\n5. Whittard luxury hot chocolate: https://www.amazon.com/dp/B00LL9JI84?tag=feelingpret0e-20\n6. Black faux fur slippers: https://www.amazon.com/dp/B08DXYZT8L?tag=feelingpret0e-20\n7. Charcoal gray fuzzy socks: https://www.amazon.com/dp/B0FLPWKRFB?tag=feelingpret0e-20\n8. Black silk sleep mask: https://www.amazon.com/dp/B08LTGMVBX?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #giftbasketideas #cozyhome #winteressentials #moodyhome"
  },
  {
-  "slug": "the-moody-outdoor-kitchen-edit",
-  "title": "The Moody Outdoor Kitchen Edit",
-  "feed": "/ready/the-moody-outdoor-kitchen-edit-feed.jpg",
-  "story": "/ready/the-moody-outdoor-kitchen-edit-story.jpg",
-  "caption": "Golden-hour dinners outside 🕯️ An acacia tray, walnut cutting board, matte black dinnerware and wood-base lanterns set the table.\n#ad #outdoorkitchen #moodyhome #alfrescodining #amazonhome\n\nAs an Amazon Associate I earn from qualifying purchases."
- },
- {
   "slug": "espresso-yourself-this-winter",
   "title": "Espresso Yourself This Winter",
   "feed": "/ready/espresso-yourself-this-winter-feed.jpg",
@@ -23,74 +16,11 @@ export const ready:ReadyCard[]=[
   "caption": "Espresso yourself this winter ☕ A chocolate, mocha and gold Brrr Basket for the coffee lover who's always cold.\n\nShop the links below:\n1. Espresso brown woven basket: https://www.amazon.com/dp/B0CQKF99H2?tag=feelingpret0e-20\n2. Chocolate brown faux fur throw: https://www.amazon.com/dp/B09L13TZTQ?tag=feelingpret0e-20\n3. Mocha knit beanie: https://www.amazon.com/dp/B0HNZT8FF4?tag=feelingpret0e-20\n4. Faux fur earmuffs: https://www.amazon.com/dp/B0FHPCHYRG?tag=feelingpret0e-20\n5. Tortoise insulated coffee tumbler: https://www.amazon.com/dp/B0H3WQRDY6?tag=feelingpret0e-20\n6. Espresso & roast coffee candle: https://www.amazon.com/dp/B0DFVWX5NL?tag=feelingpret0e-20\n7. Chocolate-covered espresso beans: https://www.amazon.com/dp/B0FVB2J2ZL?tag=feelingpret0e-20\n8. Brown knit touchscreen gloves: https://www.amazon.com/dp/B0HHK15LNH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #coffeelover #giftbasketideas #cozywinter #winteressentials"
  },
  {
-  "slug": "closet-after-dark",
-  "title": "Closet After Dark",
-  "feed": "/ready/closet-after-dark-feed.jpg",
-  "story": "/ready/closet-after-dark-story.jpg",
-  "caption": "Your closet, after dark 🖤 Gold handbag risers, a walnut jewelry box, antique brass hooks and a cream velvet ottoman.\n#ad #closetdecor #moodyhome #closetgoals #amazonhome\n\nAs an Amazon Associate I earn from qualifying purchases."
- },
- {
   "slug": "cold-nights-dark-delights",
   "title": "Cold Nights, Dark Delights",
   "feed": "/ready/cold-nights-dark-delights-feed.jpg",
   "story": "/stories/cold-nights-dark-delights.png",
   "caption": "Cold nights, dark delights 🍷 A deep wine and soft gold Brrr Basket made for slow, pampered nights in.\n\nShop the links below:\n1. Black woven gift basket: https://www.amazon.com/dp/B0DZB7RBM7?tag=feelingpret0e-20\n2. Wine satin pillowcases: https://www.amazon.com/dp/B08LPQ6T35?tag=feelingpret0e-20\n3. Black cherry merlot candle: https://www.amazon.com/dp/B0GQCFYKVX?tag=feelingpret0e-20\n4. Burgundy quilted makeup bag: https://www.amazon.com/dp/B00PSPBAII?tag=feelingpret0e-20\n5. Godiva Gold dark chocolate gift box: https://www.amazon.com/dp/B0FDM7N4ZV?tag=feelingpret0e-20\n6. Wine sherpa slipper socks: https://www.amazon.com/dp/B0FNM9Z5SL?tag=feelingpret0e-20\n7. 24K gold under-eye patches: https://www.amazon.com/dp/B0C4NWGVTF?tag=feelingpret0e-20\n8. Burgundy claw clip: https://www.amazon.com/dp/B0HFRR8MHQ?tag=feelingpret0e-20\n9. e.l.f. berry tinted lip balm: https://www.amazon.com/dp/B0DZPBWN1L?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#brrrbasket #selfcarenight #giftbasketideas #cozynightin #winteressentials"
- },
- {
-  "slug": "the-layered-moody-bed",
-  "title": "The Layered Moody Bed",
-  "feed": "/ready/the-layered-moody-bed-feed.jpg",
-  "story": "/ready/the-layered-moody-bed-story.jpg",
-  "caption": "Layer it up and stay in 🤎 A taupe velvet quilt set, brown velvet pillow covers, a beige chenille throw and a gold tray.\n#ad #moodybedroom #layeredbed #cozybedroom #amazonhome\n\nAs an Amazon Associate I earn from qualifying purchases."
- },
- {
-  "slug": "the-dusty-rose-vanity-edit",
-  "title": "The Dusty Rose Vanity Edit",
-  "feed": "/ready/the-dusty-rose-vanity-edit-feed.jpg",
-  "story": "/ready/the-dusty-rose-vanity-edit-story.jpg",
-  "caption": "Pretty in dusty rose 🌹 An antique gold vanity mirror, mauve velvet stool, amber ribbed brush holder and burgundy velvet bow.\n#ad #vanitydecor #dustyrose #vanitygoals #amazonhome\n\nAs an Amazon Associate I earn from qualifying purchases."
- },
- {
-  "slug": "the-moody-christmas-wishlist",
-  "title": "The Moody Christmas Wishlist",
-  "feed": "/ready/the-moody-christmas-wishlist-feed.jpg",
-  "story": "/ready/the-moody-christmas-wishlist-story.jpg",
-  "caption": "Cozy, moody and on my list 🎁 A chocolate fleece throw, black 40 oz tumbler, sheepskin leather gloves and 14K gold hoops.\n#ad #christmaswishlist #giftideas #moodyaesthetic #amazonfinds\n\n*As an Amazon Associate I earn from qualifying purchases.*"
- },
- {
-  "slug": "cozy-girl-christmas",
-  "title": "Cozy Girl Christmas",
-  "feed": "/ready/cozy-girl-christmas-feed.jpg",
-  "story": "/ready/cozy-girl-christmas-story.jpg",
-  "caption": "Cozy girl season is here ☕ A cream sherpa throw, sheepskin slippers, a speckled mug, knit boot socks and a camel cashmere scarf.\n#ad #cozygirl #christmasgifts #cozyseason #amazonfinds\n\n*As an Amazon Associate I earn from qualifying purchases.*"
- },
- {
-  "slug": "dark-and-girly-holiday-finds",
-  "title": "Dark & Girly Holiday Finds",
-  "feed": "/ready/dark-and-girly-holiday-finds-feed.jpg",
-  "story": "/ready/dark-and-girly-holiday-finds-story.jpg",
-  "caption": "Dark, girly and gift-ready 🎀 A black fleece throw, quilted chain bag, velvet hair bow, pearl drop earrings and bow ballet flats.\n#ad #giftsforher #darkfeminine #holidaygifts #amazonfinds\n\n*As an Amazon Associate I earn from qualifying purchases.*"
- },
- {
-  "slug": "the-golden-hour-edit",
-  "title": "The Golden Hour Edit",
-  "feed": "/ready/the-golden-hour-edit-feed.jpg",
-  "story": "/ready/the-golden-hour-edit-story.jpg",
-  "caption": "Soft light, warm tones ✨ A cognac leather tote, chocolate suede ballet flats, a speckled mug and a gold claw clip.\n#ad #goldenhour #fallstyle #cozyaesthetic #amazonfinds\n\n*As an Amazon Associate I earn from qualifying purchases.*"
- },
- {
-  "slug": "the-moody-hot-tub-edit",
-  "title": "The Moody Hot Tub Edit",
-  "feed": "/ready/the-moody-hot-tub-edit-feed.jpg",
-  "story": "/ready/the-moody-hot-tub-edit-story.jpg",
-  "caption": "Steam, stars and a little sparkle 🌙 A teak side table, matte black ice bucket, charcoal Turkish towel and stainless wine glasses.\n#ad #hottub #backyardgoals #moodyoutdoors #amazonhome\n\n*As an Amazon Associate I earn from qualifying purchases.*"
- },
- {
-  "slug": "the-moody-picnic-edit",
-  "title": "The Moody Picnic Edit",
-  "feed": "/ready/the-moody-picnic-edit-feed.jpg",
-  "story": "/ready/the-moody-picnic-edit-story.jpg",
-  "caption": "A picnic with a moody twist 🍷 A wicker basket, burgundy plaid throw, antique brass lantern and acacia charcuterie board.\n#ad #picnicaesthetic #fallpicnic #moodyaesthetic #amazonhome\n\n*As an Amazon Associate I earn from qualifying purchases.*"
  },
  {
   "slug": "black-ceramic-pumpkin-gold-stem",
