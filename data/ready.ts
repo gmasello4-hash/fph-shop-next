@@ -135,13 +135,6 @@ export const ready:ReadyCard[]=[
   "caption": "Books, but make it warm 📖 Walnut wood bookends for a tidy, moody shelf.\n#ad #shelfstyling #bookshelf #amazonhome"
  },
  {
-  "slug": "travertine-brass-candlestick",
-  "title": "Travertine & Brass Candlestick",
-  "feed": "/ready/travertine-brass-candlestick-feed.jpg",
-  "story": "/stories/travertine-brass-candlestick.png",
-  "caption": "Stone and brass, softly glowing 🕯️ A travertine and brass candlestick for your shelf or table.\n#ad #candledecor #travertine #amazonhome"
- },
- {
   "slug": "antique-brass-taper-holders",
   "title": "Antique Brass Taper Holders",
   "feed": "/ready/antique-brass-taper-holders-feed.jpg",
