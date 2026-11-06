@@ -1,6 +1,11 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"after-dark-the-moody-nighttime-routine",name:"After Dark: The Moody Nighttime Routine",image:"/stories/after-dark-the-moody-nighttime-routine.png",order:37},
+  {slug:"slow-mornings-dark-coffee",name:"Slow Mornings, Dark Coffee",image:"/stories/slow-mornings-dark-coffee.png",order:38},
+  {slug:"out-of-office-the-moody-lunch-hour",name:"Out of Office (For an Hour)",image:"/stories/out-of-office-the-moody-lunch-hour.png",order:39},
+  {slug:"walls-that-whisper",name:"Walls That Whisper",image:"/stories/walls-that-whisper.png",order:40},
+  {slug:"powder-room-after-dark",name:"Powder Room After Dark",image:"/stories/powder-room-after-dark.png",order:41},
   {slug:"baby-its-dark-outside",name:"Baby, It's Dark Outside",image:"/stories/baby-its-dark-outside.png",order:34},
   {slug:"espresso-yourself-this-winter",name:"Espresso Yourself This Winter",image:"/stories/espresso-yourself-this-winter.png",order:35},
   {slug:"cold-nights-dark-delights",name:"Cold Nights, Dark Delights",image:"/stories/cold-nights-dark-delights.png",order:36},

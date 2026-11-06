@@ -189,5 +189,40 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/the-slow-christmas-morning-feed.jpg",
   "story": "/stories/the-slow-christmas-morning.png",
   "caption": "Wool socks, a warm mug and a candle burning: Christmas morning, slowly. #ad #christmasmorning #cozyhome #holidayhome #feelingprettyhome"
+ },
+ {
+  "slug": "after-dark-the-moody-nighttime-routine",
+  "title": "After Dark: The Moody Nighttime Routine",
+  "feed": "/ready/after-dark-the-moody-nighttime-routine-feed.jpg",
+  "story": "/stories/after-dark-the-moody-nighttime-routine.png",
+  "caption": "A softer ending to the day 🌙 Black satin pajamas, amber glass holders, a sleep mask and a fleece robe.\n\nShop the links below:\n1. Black Satin Pajamas: https://www2.hm.com/en_us/productpage.1260335003.html\n2. Amber Glass Holders: https://www.amazon.com/dp/B0DGSJLL22?tag=feelingpret0e-20\n3. Black Sleep Mask: https://www.amazon.com/dp/B0CGLMKX9N?tag=feelingpret0e-20\n4. Cashmere + Vanilla: https://www.amazon.com/dp/B0CBCZ49D2?tag=feelingpret0e-20\n5. Brown Fleece Robe: https://www.hunkemoller.com/soft-fleece-bathrobe-brown-307127.html\n6. Amber Travel Bottles: https://www.amazon.com/dp/B0FWBPFL1F?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
+ },
+ {
+  "slug": "slow-mornings-dark-coffee",
+  "title": "Slow Mornings, Dark Coffee",
+  "feed": "/ready/slow-mornings-dark-coffee-feed.jpg",
+  "story": "/stories/slow-mornings-dark-coffee.png",
+  "caption": "Slow coffee. Soft textures ☕ Rustic ceramic mugs, a white waffle robe, a French press and an espresso candle.\n\nShop the links below:\n1. Rustic Ceramic Mugs: https://www.amazon.com/dp/B0DP7JW9C2?tag=feelingpret0e-20\n2. White Waffle Robe: https://parachutehome.com/products/waffle-robe-white\n3. Leather Journal: https://www.amazon.com/dp/B0F6JVFLWW?tag=feelingpret0e-20\n4. Black French Press: https://www.amazon.com/dp/B0FDBHR65D?tag=feelingpret0e-20\n5. Cream Fuzzy Slippers: https://www.amazon.com/dp/B0BYNYWKC7?tag=feelingpret0e-20\n6. Espresso Candle: https://www.amazon.com/dp/B0CM1XQZ36?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
+ },
+ {
+  "slug": "out-of-office-the-moody-lunch-hour",
+  "title": "Out of Office (For an Hour)",
+  "feed": "/ready/out-of-office-the-moody-lunch-hour-feed.jpg",
+  "story": "/stories/out-of-office-the-moody-lunch-hour.png",
+  "caption": "Make a little room for yourself 🖤 A chocolate-tone tote, quilted lunch bag, glass water bottle and travel cutlery.\n\nShop the links below:\n1. Chocolate-Tone Tote: https://www.amazon.com/dp/B0FJXQGFK3?tag=feelingpret0e-20\n2. Quilted Lunch Bag: https://www.amazon.com/dp/B0D1MGJVH4?tag=feelingpret0e-20\n3. Glass Water Bottle: https://www.amazon.com/dp/B09J57Q5VY?tag=feelingpret0e-20\n4. Travel Cutlery: https://www.amazon.com/dp/B0BPMKX8BW?tag=feelingpret0e-20\n5. Brown 2027 Planner: https://www.amazon.com/dp/B0GS4121FC?tag=feelingpret0e-20\n6. Sea Salt Caramels: https://www.amazon.com/dp/B0BHFDFRZS?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
+ },
+ {
+  "slug": "walls-that-whisper",
+  "title": "Walls That Whisper",
+  "feed": "/ready/walls-that-whisper-feed.jpg",
+  "story": "/stories/walls-that-whisper.png",
+  "caption": "A collected wall, a quieter mood 🖼️ Foggy forest photo, warm abstract trio, dark floral print and a vintage landscape.\n\nShop the links below:\n1. Foggy Forest Photo: https://society6.com/products/the-dense-foggy-forest-black-and-white_framed-art-print\n2. Warm Abstract Trio: https://www.amazon.com/dp/B0G4TSMF6K?tag=feelingpret0e-20\n3. Dark Floral Print: https://www.amazon.com/dp/B0H87HK4Z4?tag=feelingpret0e-20\n4. Ornate Gold-Tone Frame: https://www.amazon.com/dp/B0CJ9SQZBC?tag=feelingpret0e-20\n5. Black Textured Canvas: https://www.amazon.com/dp/B0HD5TJ1GR?tag=feelingpret0e-20\n6. Vintage Landscape: https://www.amazon.com/dp/B0GYDM5SXN?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
+ },
+ {
+  "slug": "powder-room-after-dark",
+  "title": "Powder Room After Dark",
+  "feed": "/ready/powder-room-after-dark-feed.jpg",
+  "story": "/stories/powder-room-after-dark.png",
+  "caption": "A small room with a beautiful mood 🕯️ Braided oval mirror, brass-finish pump, black marble tray and chocolate towels.\n\nShop the links below:\n1. Braided Oval Mirror: https://tovfurniture.com/products/ravina-braided-brass-oval-wall-mirror\n2. Brass-Finish Pump: https://www.amazon.com/dp/B06WD8CMCR?tag=feelingpret0e-20\n3. Black Marble Tray: https://www.amazon.com/dp/B0BZDG1H8F?tag=feelingpret0e-20\n4. Botanical Print Trio: https://www.amazon.com/dp/B0FZ84FRCV?tag=feelingpret0e-20\n5. Brass-Tone Sconces: https://www.amazon.com/dp/B0D6B9Z52S?tag=feelingpret0e-20\n6. Chocolate Towel Set: https://www.amazon.com/dp/B08FXY9BBS?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
  }
 ];
