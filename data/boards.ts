@@ -1764,5 +1764,98 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B08FXY9BBS?tag=feelingpret0e-20"
       }
     ]
+  },
+  {
+    "slug": "christmas-slowly-coffee-tree",
+    "title": "Christmas, Slowly",
+    "image": "/boards/christmas-slowly-coffee-tree.png",
+    "items": [
+      {
+        "name": "Fellow Monty Latte Cup",
+        "url": "https://fellowproducts.com/products/monty-milk-art-cups?variant=18635552358515"
+      },
+      {
+        "name": "Fellow Atmos Canister",
+        "url": "https://fellowproducts.com/products/atmos-vacuum-canister?variant=30935585292403"
+      },
+      {
+        "name": "Fellow Carter Move Mug (Matte White)",
+        "url": "https://fellowproducts.com/products/carter-move-mug?variant=32552875589732"
+      },
+      {
+        "name": "Fellow Stagg EKG Pro Kettle",
+        "url": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=45391811543140"
+      },
+      {
+        "name": "Fellow Clara French Press",
+        "url": "https://fellowproducts.com/products/clara-french-press?variant=32972573278308"
+      },
+      {
+        "name": "Onyx Coffee Lab Monarch Coffee",
+        "url": "https://onyxcoffeelab.com/products/monarch?variant=31861823176802"
+      }
+    ]
+  },
+  {
+    "slug": "a-pilates-christmas-tree",
+    "title": "A Pilates Christmas",
+    "image": "/boards/a-pilates-christmas-tree.png",
+    "items": [
+      {
+        "name": "Bala Bars",
+        "url": "https://shopbala.com/products/bala-bars?variant=39710533648519"
+      },
+      {
+        "name": "Bala Bangles",
+        "url": "https://shopbala.com/products/bala-bangles?variant=39657142780039"
+      },
+      {
+        "name": "Bala Pilates Ball",
+        "url": "https://shopbala.com/products/bala-ball?variant=39762857918599"
+      },
+      {
+        "name": "Bala Bottle",
+        "url": "https://shopbala.com/products/bala-bottle?variant=41989502959751"
+      },
+      {
+        "name": "Bala Hourglass Roller",
+        "url": "https://shopbala.com/products/the-hourglass-roller?variant=40893793501319"
+      },
+      {
+        "name": "Bala Grip Socks",
+        "url": "https://shopbala.com/products/get-a-grip-socks?variant=40902793789575"
+      }
+    ]
+  },
+  {
+    "slug": "a-homebody-christmas-tree",
+    "title": "A Homebody Christmas",
+    "image": "/boards/a-homebody-christmas-tree.png",
+    "items": [
+      {
+        "name": "P.F. Candle Co. Amber + Moss Candle",
+        "url": "https://pfcandleco.com/products/amber-moss-standard-candle?variant=11155989701"
+      },
+      {
+        "name": "Vitruvi Stone Diffuser",
+        "url": "https://vitruvi.com/products/stone-essential-oil-diffuser?variant=41381103763636"
+      },
+      {
+        "name": "Slip Silk Skinny Scrunchies",
+        "url": "https://www.slip.com/products/slip-silk-skinny-scrunchies-light-brown?variant=40025014927463"
+      },
+      {
+        "name": "Slip Silk Pillowcase",
+        "url": "https://www.slip.com/products/pillowcase-caramel-queen-zippered?variant=12901737103463"
+      },
+      {
+        "name": "Barefoot Dreams CozyChic Throw",
+        "url": "https://www.barefootdreams.com/products/copy-of-cozychic-throw-all-colors?variant=41094016761949"
+      },
+      {
+        "name": "Nodpod Sleep Mask (Mocha)",
+        "url": "https://nodpod.com/products/nodpod?variant=47621908267178"
+      }
+    ]
   }
 ];

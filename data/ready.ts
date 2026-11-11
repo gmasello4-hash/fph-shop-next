@@ -224,5 +224,26 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/powder-room-after-dark-feed.jpg",
   "story": "/stories/powder-room-after-dark.png",
   "caption": "A small room with a beautiful mood 🕯️ Braided oval mirror, brass-finish pump, black marble tray and chocolate towels.\n\nShop the links below:\n1. Braided Oval Mirror: https://tovfurniture.com/products/ravina-braided-brass-oval-wall-mirror\n2. Brass-Finish Pump: https://www.amazon.com/dp/B06WD8CMCR?tag=feelingpret0e-20\n3. Black Marble Tray: https://www.amazon.com/dp/B0BZDG1H8F?tag=feelingpret0e-20\n4. Botanical Print Trio: https://www.amazon.com/dp/B0FZ84FRCV?tag=feelingpret0e-20\n5. Brass-Tone Sconces: https://www.amazon.com/dp/B0D6B9Z52S?tag=feelingpret0e-20\n6. Chocolate Towel Set: https://www.amazon.com/dp/B08FXY9BBS?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
+ },
+ {
+  "slug": "christmas-slowly-coffee-tree",
+  "title": "Christmas, Slowly",
+  "feed": "/ready/christmas-slowly-coffee-tree-feed.jpg",
+  "story": "/stories/christmas-slowly-coffee-tree.png",
+  "caption": "All I want for Christmas is a slower morning. Six beautifully considered gifts for the coffee lover, from the first pour to the last warm sip.\n\nShop the links below:\n1. Fellow Monty Latte Cup: https://fellowproducts.com/products/monty-milk-art-cups?variant=18635552358515\n2. Fellow Atmos Canister: https://fellowproducts.com/products/atmos-vacuum-canister?variant=30935585292403\n3. Fellow Carter Move Mug (Matte White): https://fellowproducts.com/products/carter-move-mug?variant=32552875589732\n4. Fellow Stagg EKG Pro Kettle: https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=45391811543140\n5. Fellow Clara French Press: https://fellowproducts.com/products/clara-french-press?variant=32972573278308\n6. Onyx Coffee Lab Monarch Coffee: https://onyxcoffeelab.com/products/monarch?variant=31861823176802\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #CoffeeLoverGifts"
+ },
+ {
+  "slug": "a-pilates-christmas-tree",
+  "title": "A Pilates Christmas",
+  "feed": "/ready/a-pilates-christmas-tree-feed.jpg",
+  "story": "/stories/a-pilates-christmas-tree.png",
+  "caption": "A Pilates Christmas, wrapped in blush and sand. Six thoughtful gifts for her feel-good studio ritual.\n\nShop the links below:\n1. Bala Bars: https://shopbala.com/products/bala-bars?variant=39710533648519\n2. Bala Bangles: https://shopbala.com/products/bala-bangles?variant=39657142780039\n3. Bala Pilates Ball: https://shopbala.com/products/bala-ball?variant=39762857918599\n4. Bala Bottle: https://shopbala.com/products/bala-bottle?variant=41989502959751\n5. Bala Hourglass Roller: https://shopbala.com/products/the-hourglass-roller?variant=40893793501319\n6. Bala Grip Socks: https://shopbala.com/products/get-a-grip-socks?variant=40902793789575\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #PilatesGifts"
+ },
+ {
+  "slug": "a-homebody-christmas-tree",
+  "title": "A Homebody Christmas",
+  "feed": "/ready/a-homebody-christmas-tree-feed.jpg",
+  "story": "/stories/a-homebody-christmas-tree.png",
+  "caption": "A Homebody Christmas: soft layers, silk details and a little candlelight. Six gifts for the art of staying in.\n\nShop the links below:\n1. P.F. Candle Co. Amber + Moss Candle: https://pfcandleco.com/products/amber-moss-standard-candle?variant=11155989701\n2. Vitruvi Stone Diffuser: https://vitruvi.com/products/stone-essential-oil-diffuser?variant=41381103763636\n3. Slip Silk Skinny Scrunchies: https://www.slip.com/products/slip-silk-skinny-scrunchies-light-brown?variant=40025014927463\n4. Slip Silk Pillowcase: https://www.slip.com/products/pillowcase-caramel-queen-zippered?variant=12901737103463\n5. Barefoot Dreams CozyChic Throw: https://www.barefootdreams.com/products/copy-of-cozychic-throw-all-colors?variant=41094016761949\n6. Nodpod Sleep Mask (Mocha): https://nodpod.com/products/nodpod?variant=47621908267178\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #CozyGifts"
  }
 ];
