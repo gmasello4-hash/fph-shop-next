@@ -245,5 +245,33 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/a-homebody-christmas-tree-feed.jpg",
   "story": "/stories/a-homebody-christmas-tree.png",
   "caption": "A Homebody Christmas: soft layers, silk details and a little candlelight. Six gifts for the art of staying in.\n\nShop the links below:\n1. P.F. Candle Co. Amber + Moss Candle: https://pfcandleco.com/products/amber-moss-standard-candle?variant=11155989701\n2. Vitruvi Stone Diffuser: https://vitruvi.com/products/stone-essential-oil-diffuser?variant=41381103763636\n3. Slip Silk Skinny Scrunchies: https://www.slip.com/products/slip-silk-skinny-scrunchies-light-brown?variant=40025014927463\n4. Slip Silk Pillowcase: https://www.slip.com/products/pillowcase-caramel-queen-zippered?variant=12901737103463\n5. Barefoot Dreams CozyChic Throw: https://www.barefootdreams.com/products/copy-of-cozychic-throw-all-colors?variant=41094016761949\n6. Nodpod Sleep Mask (Mocha): https://nodpod.com/products/nodpod?variant=47621908267178\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #CozyGifts"
+ },
+ {
+  "slug": "winter-coffee-bar",
+  "title": "Winter Coffee Bar",
+  "feed": "/ready/winter-coffee-bar-feed.jpg",
+  "story": "/stories/winter-coffee-bar.png",
+  "caption": "Cream stoneware, walnut, and smoked glass for slow, cozy mornings. Six café-at-home finds, thoughtfully collected.\n\nShop the links below:\n1. Cream Stoneware Mugs: https://www.amazon.com/dp/B09TW5YYYY?tag=feelingpret0e-20\n2. Walnut-Lid Canister: https://www.amazon.com/dp/B0H6FQM889?tag=feelingpret0e-20\n3. Smoked Glass Pump: https://www.amazon.com/dp/B073V6XDWK?tag=feelingpret0e-20\n4. Brown Ribbed Glasses: https://www.amazon.com/dp/B0G6ZG93ZS?tag=feelingpret0e-20\n5. Walnut-Finish Tray Set: https://www.amazon.com/dp/B0GPY1CNJF?tag=feelingpret0e-20\n6. Black + Wood Mug Tree: https://www.amazon.com/dp/B0GWY69BBH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CoffeeBar #MoodyHome"
+ },
+ {
+  "slug": "snow-day-favorites",
+  "title": "Snow Day Favorites",
+  "feed": "/ready/snow-day-favorites-feed.jpg",
+  "story": "/stories/snow-day-favorites.png",
+  "caption": "Chocolate faux fur, teddy bouclé, and a warm amber glow for staying in. Six soft, cozy finds.\n\nShop the links below:\n1. Channel Faux Fur Throw: https://www.amazon.com/dp/B0H4GG3PSP?tag=feelingpret0e-20\n2. Ivory Footed Mugs: https://www.amazon.com/dp/B0FTW4BLFH?tag=feelingpret0e-20\n3. Walnut Snack Tray: https://www.amazon.com/dp/B0FQBR51QL?tag=feelingpret0e-20\n4. Teddy Bouclé Slides: https://www.amazon.com/dp/B0HLHDZ292?tag=feelingpret0e-20\n5. 500-Piece Wood Puzzle: https://www.amazon.com/dp/B0FT8TLRVD?tag=feelingpret0e-20\n6. Warm Amber Candle: https://www.amazon.com/dp/B0D44QXF5B?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CozyHome #WinterDecor"
+ },
+ {
+  "slug": "black-and-white-gallery",
+  "title": "Black & White Gallery",
+  "feed": "/ready/black-and-white-gallery-feed.jpg",
+  "story": "/stories/black-and-white-gallery.png",
+  "caption": "Art only, no words: abstract texture, a Paris street, one-line drawing, and architectural shadows. Six pieces for a quiet wall.\n\nShop the links below:\n1. Abstract Canvas: https://www.amazon.com/dp/B0DK33JVKK?tag=feelingpret0e-20\n2. Paris Street Photo: https://www.amazon.com/dp/B0D584KJX8?tag=feelingpret0e-20\n3. One-Line Face Art: https://www.amazon.com/dp/B0HNL54XCC?tag=feelingpret0e-20\n4. Rookery Staircase: https://www.amazon.com/dp/B0D583WXXH?tag=feelingpret0e-20\n5. Fashion Photo Pair: https://www.amazon.com/dp/B0H2RH5JXS?tag=feelingpret0e-20\n6. Brushstroke Canvas: https://www.amazon.com/dp/B0H4TKL934?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GalleryWall #BlackAndWhiteDecor"
+ },
+ {
+  "slug": "holiday-entryway-reset",
+  "title": "Holiday Entryway Reset",
+  "feed": "/ready/holiday-entryway-reset-feed.jpg",
+  "story": "/stories/holiday-entryway-reset.png",
+  "caption": "Dark wood, woven texture, and soft cream accents to welcome guests. Six pieces for a calm, collected entry.\n\nShop the links below:\n1. Black Arched Mirror: https://www.amazon.com/dp/B0CTSVSV7R?tag=feelingpret0e-20\n2. Walnut Console Table: https://www.amazon.com/dp/B0DQW44PVS?tag=feelingpret0e-20\n3. Woven Basket: https://www.amazon.com/dp/B09F9F8P5R?tag=feelingpret0e-20\n4. Cream Fluted Vase: https://www.amazon.com/dp/B0HQY8KWSN?tag=feelingpret0e-20\n5. Wood Decorative Bowl: https://www.amazon.com/dp/B0F98YYF2S?tag=feelingpret0e-20\n6. Braided Jute Rug: https://www.amazon.com/dp/B0F3JP6WRJ?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #EntrywayDecor #HolidayHome"
  }
 ];
