@@ -226,20 +226,6 @@ export const ready:ReadyCard[]=[
   "caption": "Cream stoneware, walnut, and smoked glass for slow, cozy mornings. Six café-at-home finds, thoughtfully collected.\n\nShop the links below:\n1. Cream Stoneware Mugs: https://www.amazon.com/dp/B09TW5YYYY?tag=feelingpret0e-20\n2. Walnut-Lid Canister: https://www.amazon.com/dp/B0H6FQM889?tag=feelingpret0e-20\n3. Smoked Glass Pump: https://www.amazon.com/dp/B073V6XDWK?tag=feelingpret0e-20\n4. Brown Ribbed Glasses: https://www.amazon.com/dp/B0G6ZG93ZS?tag=feelingpret0e-20\n5. Walnut-Finish Tray Set: https://www.amazon.com/dp/B0GPY1CNJF?tag=feelingpret0e-20\n6. Black + Wood Mug Tree: https://www.amazon.com/dp/B0GWY69BBH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CoffeeBar #MoodyHome"
  },
  {
-  "slug": "snow-day-favorites",
-  "title": "Snow Day Favorites",
-  "feed": "/ready/snow-day-favorites-feed.jpg",
-  "story": "/stories/snow-day-favorites.png",
-  "caption": "Chocolate faux fur, teddy bouclé, and a warm amber glow for staying in. Six soft, cozy finds.\n\nShop the links below:\n1. Channel Faux Fur Throw: https://www.amazon.com/dp/B0H4GG3PSP?tag=feelingpret0e-20\n2. Ivory Footed Mugs: https://www.amazon.com/dp/B0FTW4BLFH?tag=feelingpret0e-20\n3. Walnut Snack Tray: https://www.amazon.com/dp/B0FQBR51QL?tag=feelingpret0e-20\n4. Teddy Bouclé Slides: https://www.amazon.com/dp/B0HLHDZ292?tag=feelingpret0e-20\n5. 500-Piece Wood Puzzle: https://www.amazon.com/dp/B0FT8TLRVD?tag=feelingpret0e-20\n6. Warm Amber Candle: https://www.amazon.com/dp/B0D44QXF5B?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CozyHome #WinterDecor"
- },
- {
-  "slug": "black-and-white-gallery",
-  "title": "Black & White Gallery",
-  "feed": "/ready/black-and-white-gallery-v2-feed.jpg",
-  "story": "/stories/black-and-white-gallery-v2.png",
-  "caption": "Art only, no words: abstract texture, a Paris street, one-line drawing, and architectural shadows. Six pieces for a quiet wall.\n\nShop the links below:\n1. Abstract Canvas: https://www.amazon.com/dp/B0DK33JVKK?tag=feelingpret0e-20\n2. Paris Street Photo: https://www.amazon.com/dp/B0D584KJX8?tag=feelingpret0e-20\n3. One-Line Face Art: https://www.amazon.com/dp/B0HNL54XCC?tag=feelingpret0e-20\n4. Rookery Staircase: https://www.amazon.com/dp/B0D583WXXH?tag=feelingpret0e-20\n5. Vintage Fashion Photo: https://www.amazon.com/dp/B0HJYB7ZGS?tag=feelingpret0e-20\n6. Brushstroke Canvas: https://www.amazon.com/dp/B0H4TKL934?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GalleryWall #BlackAndWhiteDecor"
- },
- {
   "slug": "holiday-entryway-reset",
   "title": "Holiday Entryway Reset",
   "feed": "/ready/holiday-entryway-reset-v3-feed.jpg",
