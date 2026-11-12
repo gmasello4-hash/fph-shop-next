@@ -3,8 +3,8 @@ export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
   {slug:"winter-coffee-bar",name:"Winter Coffee Bar",image:"/stories/winter-coffee-bar.png",order:45},
   {slug:"snow-day-favorites",name:"Snow Day Favorites",image:"/stories/snow-day-favorites.png",order:46},
-  {slug:"black-and-white-gallery",name:"Black & White Gallery",image:"/stories/black-and-white-gallery.png",order:47},
-  {slug:"holiday-entryway-reset",name:"Holiday Entryway Reset",image:"/stories/holiday-entryway-reset.png",order:48},
+  {slug:"black-and-white-gallery",name:"Black & White Gallery",image:"/stories/black-and-white-gallery-v2.png",order:47},
+  {slug:"holiday-entryway-reset",name:"Holiday Entryway Reset",image:"/stories/holiday-entryway-reset-v3.png",order:48},
   {slug:"christmas-slowly-coffee-tree",name:"Christmas, Slowly",image:"/stories/christmas-slowly-coffee-tree.png",order:42},
   {slug:"a-pilates-christmas-tree",name:"A Pilates Christmas",image:"/stories/a-pilates-christmas-tree.png",order:43},
   {slug:"a-homebody-christmas-tree",name:"A Homebody Christmas",image:"/stories/a-homebody-christmas-tree.png",order:44},

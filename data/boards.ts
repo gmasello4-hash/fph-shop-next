@@ -1923,7 +1923,7 @@ export const boards:Board[]=[
   {
     "slug": "black-and-white-gallery",
     "title": "Black & White Gallery",
-    "image": "/boards/black-and-white-gallery.png",
+    "image": "/boards/black-and-white-gallery-v2.png",
     "items": [
       {
         "name": "Abstract Canvas",
@@ -1942,8 +1942,8 @@ export const boards:Board[]=[
         "url": "https://www.amazon.com/dp/B0D583WXXH?tag=feelingpret0e-20"
       },
       {
-        "name": "Fashion Photo Pair",
-        "url": "https://www.amazon.com/dp/B0H2RH5JXS?tag=feelingpret0e-20"
+        "name": "Vintage Fashion Photo",
+        "url": "https://www.amazon.com/dp/B0HJYB7ZGS?tag=feelingpret0e-20"
       },
       {
         "name": "Brushstroke Canvas",
@@ -1954,7 +1954,7 @@ export const boards:Board[]=[
   {
     "slug": "holiday-entryway-reset",
     "title": "Holiday Entryway Reset",
-    "image": "/boards/holiday-entryway-reset.png",
+    "image": "/boards/holiday-entryway-reset-v3.png",
     "items": [
       {
         "name": "Black Arched Mirror",

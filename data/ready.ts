@@ -263,15 +263,15 @@ export const ready:ReadyCard[]=[
  {
   "slug": "black-and-white-gallery",
   "title": "Black & White Gallery",
-  "feed": "/ready/black-and-white-gallery-feed.jpg",
-  "story": "/stories/black-and-white-gallery.png",
-  "caption": "Art only, no words: abstract texture, a Paris street, one-line drawing, and architectural shadows. Six pieces for a quiet wall.\n\nShop the links below:\n1. Abstract Canvas: https://www.amazon.com/dp/B0DK33JVKK?tag=feelingpret0e-20\n2. Paris Street Photo: https://www.amazon.com/dp/B0D584KJX8?tag=feelingpret0e-20\n3. One-Line Face Art: https://www.amazon.com/dp/B0HNL54XCC?tag=feelingpret0e-20\n4. Rookery Staircase: https://www.amazon.com/dp/B0D583WXXH?tag=feelingpret0e-20\n5. Fashion Photo Pair: https://www.amazon.com/dp/B0H2RH5JXS?tag=feelingpret0e-20\n6. Brushstroke Canvas: https://www.amazon.com/dp/B0H4TKL934?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GalleryWall #BlackAndWhiteDecor"
+  "feed": "/ready/black-and-white-gallery-v2-feed.jpg",
+  "story": "/stories/black-and-white-gallery-v2.png",
+  "caption": "Art only, no words: abstract texture, a Paris street, one-line drawing, and architectural shadows. Six pieces for a quiet wall.\n\nShop the links below:\n1. Abstract Canvas: https://www.amazon.com/dp/B0DK33JVKK?tag=feelingpret0e-20\n2. Paris Street Photo: https://www.amazon.com/dp/B0D584KJX8?tag=feelingpret0e-20\n3. One-Line Face Art: https://www.amazon.com/dp/B0HNL54XCC?tag=feelingpret0e-20\n4. Rookery Staircase: https://www.amazon.com/dp/B0D583WXXH?tag=feelingpret0e-20\n5. Vintage Fashion Photo: https://www.amazon.com/dp/B0HJYB7ZGS?tag=feelingpret0e-20\n6. Brushstroke Canvas: https://www.amazon.com/dp/B0H4TKL934?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GalleryWall #BlackAndWhiteDecor"
  },
  {
   "slug": "holiday-entryway-reset",
   "title": "Holiday Entryway Reset",
-  "feed": "/ready/holiday-entryway-reset-feed.jpg",
-  "story": "/stories/holiday-entryway-reset.png",
+  "feed": "/ready/holiday-entryway-reset-v3-feed.jpg",
+  "story": "/stories/holiday-entryway-reset-v3.png",
   "caption": "Dark wood, woven texture, and soft cream accents to welcome guests. Six pieces for a calm, collected entry.\n\nShop the links below:\n1. Black Arched Mirror: https://www.amazon.com/dp/B0CTSVSV7R?tag=feelingpret0e-20\n2. Walnut Console Table: https://www.amazon.com/dp/B0DQW44PVS?tag=feelingpret0e-20\n3. Woven Basket: https://www.amazon.com/dp/B09F9F8P5R?tag=feelingpret0e-20\n4. Cream Fluted Vase: https://www.amazon.com/dp/B0HQY8KWSN?tag=feelingpret0e-20\n5. Wood Decorative Bowl: https://www.amazon.com/dp/B0F98YYF2S?tag=feelingpret0e-20\n6. Braided Jute Rug: https://www.amazon.com/dp/B0F3JP6WRJ?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #EntrywayDecor #HolidayHome"
  }
 ];
