@@ -198,13 +198,6 @@ export const ready:ReadyCard[]=[
   "caption": "A softer ending to the day 🌙 Black satin pajamas, amber glass holders, a sleep mask and a fleece robe.\n\nShop the links below:\n1. Black Satin Pajamas: https://www2.hm.com/en_us/productpage.1260335003.html\n2. Amber Glass Holders: https://www.amazon.com/dp/B0DGSJLL22?tag=feelingpret0e-20\n3. Black Sleep Mask: https://www.amazon.com/dp/B0CGLMKX9N?tag=feelingpret0e-20\n4. Cashmere + Vanilla: https://www.amazon.com/dp/B0CBCZ49D2?tag=feelingpret0e-20\n5. Brown Fleece Robe: https://www.hunkemoller.com/soft-fleece-bathrobe-brown-307127.html\n6. Amber Travel Bottles: https://www.amazon.com/dp/B0FWBPFL1F?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
  },
  {
-  "slug": "slow-mornings-dark-coffee",
-  "title": "Slow Mornings, Dark Coffee",
-  "feed": "/ready/slow-mornings-dark-coffee-feed.jpg",
-  "story": "/stories/slow-mornings-dark-coffee.png",
-  "caption": "Slow coffee. Soft textures ☕ Rustic ceramic mugs, a white waffle robe, a French press and an espresso candle.\n\nShop the links below:\n1. Rustic Ceramic Mugs: https://www.amazon.com/dp/B0DP7JW9C2?tag=feelingpret0e-20\n2. White Waffle Robe: https://parachutehome.com/products/waffle-robe-white\n3. Leather Journal: https://www.amazon.com/dp/B0F6JVFLWW?tag=feelingpret0e-20\n4. Black French Press: https://www.amazon.com/dp/B0FDBHR65D?tag=feelingpret0e-20\n5. Cream Fuzzy Slippers: https://www.amazon.com/dp/B0BYNYWKC7?tag=feelingpret0e-20\n6. Espresso Candle: https://www.amazon.com/dp/B0CM1XQZ36?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
- },
- {
   "slug": "christmas-slowly-coffee-tree",
   "title": "Christmas, Slowly",
   "feed": "/ready/christmas-slowly-coffee-tree-feed.jpg",
