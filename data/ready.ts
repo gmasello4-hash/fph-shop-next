@@ -140,5 +140,26 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/winter-coffee-bar-feed.jpg",
   "story": "/stories/winter-coffee-bar.png",
   "caption": "Cream stoneware, walnut, and smoked glass for slow, cozy mornings. Six café-at-home finds, thoughtfully collected.\n\nShop the links below:\n1. Cream Stoneware Mugs: https://www.amazon.com/dp/B09TW5YYYY?tag=feelingpret0e-20\n2. Walnut-Lid Canister: https://www.amazon.com/dp/B0H6FQM889?tag=feelingpret0e-20\n3. Smoked Glass Pump: https://www.amazon.com/dp/B073V6XDWK?tag=feelingpret0e-20\n4. Brown Ribbed Glasses: https://www.amazon.com/dp/B0G6ZG93ZS?tag=feelingpret0e-20\n5. Walnut-Finish Tray Set: https://www.amazon.com/dp/B0GPY1CNJF?tag=feelingpret0e-20\n6. Black + Wood Mug Tree: https://www.amazon.com/dp/B0GWY69BBH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CoffeeBar #MoodyHome"
+ },
+ {
+  "slug": "porch-noir-arch",
+  "title": "Porch Noir",
+  "feed": "/ready/porch-noir-arch-feed.jpg",
+  "story": "/stories/porch-noir-arch.png",
+  "caption": "Porch Noir: the moody porch edit. Black iron, plaid and warm candlelight for a front porch that glows after dark. Five elevated finds, thoughtfully collected.\n\nShop the links below:\n1. Spire Floor Lantern: https://www.amazon.com/dp/B0FJLT66BR?tag=feelingpret0e-20\n2. Tall Concrete Planter: https://www.amazon.com/dp/B0DPW1RB14?tag=feelingpret0e-20\n3. Ivory Pillar Candles: https://www.amazon.com/dp/B0B5KZWHVC?tag=feelingpret0e-20\n4. Classic Porch Rocker: https://www.amazon.com/dp/B0GVGJ6XNL?tag=feelingpret0e-20\n5. Black & Tan Plaid Throw: https://www.amazon.com/dp/B08CY71NTV?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #PorchDecor #MoodyHome #FrontPorch"
+ },
+ {
+  "slug": "moody-game-night-arch",
+  "title": "Moody Game Night",
+  "feed": "/ready/moody-game-night-arch-feed.jpg",
+  "story": "/stories/moody-game-night-arch.png",
+  "caption": "The moody game night edit: walnut boards, brass candlelight and smoked glass, like a gentleman's club card table at home. Five elevated finds for slow nights in.\n\nShop the links below:\n1. Walnut Chess Set: https://www.amazon.com/dp/B088CW36HC?tag=feelingpret0e-20\n2. Brass Taper Holders: https://www.amazon.com/dp/B0DTHJYKVH?tag=feelingpret0e-20\n3. Inlaid Backgammon Set: https://www.amazon.com/dp/B004ADTC48?tag=feelingpret0e-20\n4. Walnut Snack Bowls: https://www.amazon.com/dp/B0H6P5B3C4?tag=feelingpret0e-20\n5. Smoke Art Deco Glasses: https://www.amazon.com/dp/B0FWKTRCVF?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GameNight #MoodyHome #CozyNightIn"
+ },
+ {
+  "slug": "moody-italian-dinner-classic",
+  "title": "Moody Italian Dinner Night",
+  "feed": "/ready/moody-italian-dinner-classic-feed.jpg",
+  "story": "/stories/moody-italian-dinner-classic.png",
+  "caption": "Moody Italian dinner night: rustic stoneware and dark walnut, warmed with amber glass and antique brass candlelight. Five elevated finds for a long, slow table.\n\nShop the links below:\n1. Walnut Bread Board: https://www.amazon.com/dp/B09Y5VZXDC?tag=feelingpret0e-20\n2. Antique Brass Candlesticks: https://www.amazon.com/dp/B0GBSS9YNN?tag=feelingpret0e-20\n3. Ceramic Olive Oil Cruet: https://www.amazon.com/dp/B0G12V6J7R?tag=feelingpret0e-20\n4. Caramel Pasta Bowls: https://www.amazon.com/dp/B0HGY5WHVF?tag=feelingpret0e-20\n5. Amber Glass Tumblers: https://www.amazon.com/dp/B0D2323NYM?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #DinnerParty #TableScape #MoodyHome"
  }
 ];
