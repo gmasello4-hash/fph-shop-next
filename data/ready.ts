@@ -37,34 +37,6 @@ export const ready:ReadyCard[]=[
   "caption": "A soft glow in black marble 🖤 These votive holders make any corner feel cozy.\n#ad #marbledecor #moodyhome #amazonhome"
  },
  {
-  "slug": "the-moody-reading-nook",
-  "title": "The Moody Reading Nook",
-  "feed": "/ready/the-moody-reading-nook-feed.jpg",
-  "story": "/stories/the-moody-reading-nook.png",
-  "caption": "Curl up with a good book 📚 A chocolate chunky knit throw, oxblood velvet pillows and gold bookends.\n#ad #readingnook #cozyhome #amazonhome"
- },
- {
-  "slug": "the-moody-mediterranean-kitchen",
-  "title": "The Moody Mediterranean Kitchen",
-  "feed": "/ready/the-moody-mediterranean-kitchen-feed.jpg",
-  "story": "/stories/the-moody-mediterranean-kitchen.png",
-  "caption": "A Mediterranean kitchen, moody style 🫒 Walnut boards, olive wood servers and an amber olive oil dispenser.\n#ad #mediterraneankitchen #moodykitchen #amazonhome"
- },
- {
-  "slug": "the-after-hours-hostess-edit",
-  "title": "The After Hours Hostess Edit",
-  "feed": "/ready/the-after-hours-hostess-edit-feed.jpg",
-  "story": "/stories/the-after-hours-hostess-edit.png",
-  "caption": "After-hours hosting ✨ A hammered gold ice bucket, smoke coupes and a walnut serving board.\n#ad #hostingideas #cocktailparty #amazonhome"
- },
- {
-  "slug": "the-moody-laundry-room-edit",
-  "title": "The Moody Laundry Room Edit",
-  "feed": "/ready/the-moody-laundry-room-edit-feed.jpg",
-  "story": "/stories/the-moody-laundry-room-edit.png",
-  "caption": "Laundry day, but pretty 🧺 A wooden drying rack, walnut shelves, woven baskets and amber dispensers.\n#ad #laundryroom #moodyhome #amazonhome"
- },
- {
   "slug": "the-moody-coffee-shop-edit",
   "title": "The Moody Coffee Shop Edit",
   "feed": "/ready/the-moody-coffee-shop-edit-feed.jpg",
@@ -77,20 +49,6 @@ export const ready:ReadyCard[]=[
   "feed": "/ready/vanity-after-dark-feed.jpg",
   "story": "/stories/vanity-after-dark.png",
   "caption": "Vanity after dark 💄 An antique gold arch mirror, wine red velvet jewelry box and amber perfume bottles.\n#ad #vanitydecor #moodyhome #amazonhome"
- },
- {
-  "slug": "the-moody-bedroom-retreat",
-  "title": "The Moody Bedroom Retreat",
-  "feed": "/ready/the-moody-bedroom-retreat-feed.jpg",
-  "story": "/stories/the-moody-bedroom-retreat.png",
-  "caption": "Your moody bedroom retreat 🌙 A chocolate velvet comforter, an espresso throw and brass gold candlesticks.\n#ad #moodybedroom #bedroomdecor #amazonhome"
- },
- {
-  "slug": "the-moody-home-office-edit",
-  "title": "The Moody Home Office Edit",
-  "feed": "/ready/the-moody-home-office-edit-feed.jpg",
-  "story": "/stories/the-moody-home-office-edit.png",
-  "caption": "Work hours, moody style 🖋️ A cognac leather desk chair, walnut desk and a brass hourglass.\n#ad #homeoffice #moodyhome #amazonhome"
  },
  {
   "slug": "the-moody-fireplace-mantel-edit",
@@ -170,20 +128,6 @@ export const ready:ReadyCard[]=[
   "caption": "A reading pillow, a plush throw and a book stand for the book lover's night in. #ad #booklover #giftguide #cozynight #feelingprettyhome"
  },
  {
-  "slug": "the-gift-edit-for-mom",
-  "title": "The Gift Edit for Mom",
-  "feed": "/ready/the-gift-edit-for-mom-feed.jpg",
-  "story": "/stories/the-gift-edit-for-mom.png",
-  "caption": "Cashmere, silk and her signature candle: little luxuries Mom won't buy herself. #ad #giftsformom #giftguide #holidaygifts #feelingprettyhome"
- },
- {
-  "slug": "the-moody-stocking-stuffers",
-  "title": "The Moody Stocking Stuffers",
-  "feed": "/ready/the-moody-stocking-stuffers-feed.jpg",
-  "story": "/stories/the-moody-stocking-stuffers.png",
-  "caption": "Small, pretty and actually useful stocking stuffers. #ad #stockingstuffers #giftguide #holidaygifts #feelingprettyhome"
- },
- {
   "slug": "the-slow-christmas-morning",
   "title": "The Slow Christmas Morning",
   "feed": "/ready/the-slow-christmas-morning-feed.jpg",
@@ -191,45 +135,10 @@ export const ready:ReadyCard[]=[
   "caption": "Wool socks, a warm mug and a candle burning: Christmas morning, slowly. #ad #christmasmorning #cozyhome #holidayhome #feelingprettyhome"
  },
  {
-  "slug": "after-dark-the-moody-nighttime-routine",
-  "title": "After Dark: The Moody Nighttime Routine",
-  "feed": "/ready/after-dark-the-moody-nighttime-routine-feed.jpg",
-  "story": "/stories/after-dark-the-moody-nighttime-routine.png",
-  "caption": "A softer ending to the day 🌙 Black satin pajamas, amber glass holders, a sleep mask and a fleece robe.\n\nShop the links below:\n1. Black Satin Pajamas: https://www2.hm.com/en_us/productpage.1260335003.html\n2. Amber Glass Holders: https://www.amazon.com/dp/B0DGSJLL22?tag=feelingpret0e-20\n3. Black Sleep Mask: https://www.amazon.com/dp/B0CGLMKX9N?tag=feelingpret0e-20\n4. Cashmere + Vanilla: https://www.amazon.com/dp/B0CBCZ49D2?tag=feelingpret0e-20\n5. Brown Fleece Robe: https://www.hunkemoller.com/soft-fleece-bathrobe-brown-307127.html\n6. Amber Travel Bottles: https://www.amazon.com/dp/B0FWBPFL1F?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#ad #FeelingPrettyHome #MoodyHome #CuratedFinds"
- },
- {
-  "slug": "christmas-slowly-coffee-tree",
-  "title": "Christmas, Slowly",
-  "feed": "/ready/christmas-slowly-coffee-tree-feed.jpg",
-  "story": "/stories/christmas-slowly-coffee-tree.png",
-  "caption": "All I want for Christmas is a slower morning. Six beautifully considered gifts for the coffee lover, from the first pour to the last warm sip.\n\nShop the links below:\n1. Fellow Monty Latte Cup: https://fellowproducts.com/products/monty-milk-art-cups?variant=18635552358515\n2. Fellow Atmos Canister: https://fellowproducts.com/products/atmos-vacuum-canister?variant=30935585292403\n3. Fellow Carter Move Mug (Matte White): https://fellowproducts.com/products/carter-move-mug?variant=32552875589732\n4. Fellow Stagg EKG Pro Kettle: https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=45391811543140\n5. Fellow Clara French Press: https://fellowproducts.com/products/clara-french-press?variant=32972573278308\n6. Onyx Coffee Lab Monarch Coffee: https://onyxcoffeelab.com/products/monarch?variant=31861823176802\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #CoffeeLoverGifts"
- },
- {
-  "slug": "a-pilates-christmas-tree",
-  "title": "A Pilates Christmas",
-  "feed": "/ready/a-pilates-christmas-tree-feed.jpg",
-  "story": "/stories/a-pilates-christmas-tree.png",
-  "caption": "A Pilates Christmas, wrapped in blush and sand. Six thoughtful gifts for her feel-good studio ritual.\n\nShop the links below:\n1. Bala Bars: https://shopbala.com/products/bala-bars?variant=39710533648519\n2. Bala Bangles: https://shopbala.com/products/bala-bangles?variant=39657142780039\n3. Bala Pilates Ball: https://shopbala.com/products/bala-ball?variant=39762857918599\n4. Bala Bottle: https://shopbala.com/products/bala-bottle?variant=41989502959751\n5. Bala Hourglass Roller: https://shopbala.com/products/the-hourglass-roller?variant=40893793501319\n6. Bala Grip Socks: https://shopbala.com/products/get-a-grip-socks?variant=40902793789575\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #PilatesGifts"
- },
- {
-  "slug": "a-homebody-christmas-tree",
-  "title": "A Homebody Christmas",
-  "feed": "/ready/a-homebody-christmas-tree-feed.jpg",
-  "story": "/stories/a-homebody-christmas-tree.png",
-  "caption": "A Homebody Christmas: soft layers, silk details and a little candlelight. Six gifts for the art of staying in.\n\nShop the links below:\n1. P.F. Candle Co. Amber + Moss Candle: https://pfcandleco.com/products/amber-moss-standard-candle?variant=11155989701\n2. Vitruvi Stone Diffuser: https://vitruvi.com/products/stone-essential-oil-diffuser?variant=41381103763636\n3. Slip Silk Skinny Scrunchies: https://www.slip.com/products/slip-silk-skinny-scrunchies-light-brown?variant=40025014927463\n4. Slip Silk Pillowcase: https://www.slip.com/products/pillowcase-caramel-queen-zippered?variant=12901737103463\n5. Barefoot Dreams CozyChic Throw: https://www.barefootdreams.com/products/copy-of-cozychic-throw-all-colors?variant=41094016761949\n6. Nodpod Sleep Mask (Mocha): https://nodpod.com/products/nodpod?variant=47621908267178\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #ChristmasGiftIdeas #HolidayGiftGuide #CozyGifts"
- },
- {
   "slug": "winter-coffee-bar",
   "title": "Winter Coffee Bar",
   "feed": "/ready/winter-coffee-bar-feed.jpg",
   "story": "/stories/winter-coffee-bar.png",
   "caption": "Cream stoneware, walnut, and smoked glass for slow, cozy mornings. Six café-at-home finds, thoughtfully collected.\n\nShop the links below:\n1. Cream Stoneware Mugs: https://www.amazon.com/dp/B09TW5YYYY?tag=feelingpret0e-20\n2. Walnut-Lid Canister: https://www.amazon.com/dp/B0H6FQM889?tag=feelingpret0e-20\n3. Smoked Glass Pump: https://www.amazon.com/dp/B073V6XDWK?tag=feelingpret0e-20\n4. Brown Ribbed Glasses: https://www.amazon.com/dp/B0G6ZG93ZS?tag=feelingpret0e-20\n5. Walnut-Finish Tray Set: https://www.amazon.com/dp/B0GPY1CNJF?tag=feelingpret0e-20\n6. Black + Wood Mug Tree: https://www.amazon.com/dp/B0GWY69BBH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CoffeeBar #MoodyHome"
- },
- {
-  "slug": "holiday-entryway-reset",
-  "title": "Holiday Entryway Reset",
-  "feed": "/ready/holiday-entryway-reset-v3-feed.jpg",
-  "story": "/stories/holiday-entryway-reset-v3.png",
-  "caption": "Dark wood, woven texture, and soft cream accents to welcome guests. Six pieces for a calm, collected entry.\n\nShop the links below:\n1. Black Arched Mirror: https://www.amazon.com/dp/B0CTSVSV7R?tag=feelingpret0e-20\n2. Walnut Console Table: https://www.amazon.com/dp/B0DQW44PVS?tag=feelingpret0e-20\n3. Woven Basket: https://www.amazon.com/dp/B09F9F8P5R?tag=feelingpret0e-20\n4. Cream Fluted Vase: https://www.amazon.com/dp/B0HQY8KWSN?tag=feelingpret0e-20\n5. Wood Decorative Bowl: https://www.amazon.com/dp/B0F98YYF2S?tag=feelingpret0e-20\n6. Braided Jute Rug: https://www.amazon.com/dp/B0F3JP6WRJ?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #EntrywayDecor #HolidayHome"
  }
 ];
