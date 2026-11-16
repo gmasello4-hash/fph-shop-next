@@ -44,13 +44,6 @@ export const ready:ReadyCard[]=[
     "caption": "Your coffee shop at home \u2615 Black espresso cups, amber glass mugs, syrup pumps and a black marble tray.\n#ad #coffeebar #coffeestation #amazonhome"
   },
   {
-    "slug": "vanity-after-dark",
-    "title": "Vanity After Dark",
-    "feed": "/ready/vanity-after-dark-feed.jpg",
-    "story": "/stories/vanity-after-dark.png",
-    "caption": "Vanity after dark \ud83d\udc84 An antique gold arch mirror, wine red velvet jewelry box and amber perfume bottles.\n#ad #vanitydecor #moodyhome #amazonhome"
-  },
-  {
     "slug": "the-moody-fireplace-mantel-edit",
     "title": "The Moody Fireplace Mantel Edit",
     "feed": "/ready/the-moody-fireplace-mantel-edit-feed.jpg",
@@ -121,38 +114,10 @@ export const ready:ReadyCard[]=[
     "caption": "Girls night, all glammed up \ud83d\udc83 A gold disco ball, Art Deco coupes, leopard napkins and velvet bows.\n#ad #girlsnight #partydecor #amazonfinds"
   },
   {
-    "slug": "the-book-lovers-night-in",
-    "title": "The Book Lover's Night In",
-    "feed": "/ready/the-book-lovers-night-in-feed.jpg",
-    "story": "/stories/the-book-lovers-night-in.png",
-    "caption": "A reading pillow, a plush throw and a book stand for the book lover's night in. #ad #booklover #giftguide #cozynight #feelingprettyhome"
-  },
-  {
     "slug": "the-slow-christmas-morning",
     "title": "The Slow Christmas Morning",
     "feed": "/ready/the-slow-christmas-morning-feed.jpg",
     "story": "/stories/the-slow-christmas-morning.png",
     "caption": "Wool socks, a warm mug and a candle burning: Christmas morning, slowly. #ad #christmasmorning #cozyhome #holidayhome #feelingprettyhome"
-  },
-  {
-    "slug": "winter-coffee-bar",
-    "title": "Winter Coffee Bar",
-    "feed": "/ready/winter-coffee-bar-feed.jpg",
-    "story": "/stories/winter-coffee-bar.png",
-    "caption": "Cream stoneware, walnut, and smoked glass for slow, cozy mornings. Six caf\u00e9-at-home finds, thoughtfully collected.\n\nShop the links below:\n1. Cream Stoneware Mugs: https://www.amazon.com/dp/B09TW5YYYY?tag=feelingpret0e-20\n2. Walnut-Lid Canister: https://www.amazon.com/dp/B0H6FQM889?tag=feelingpret0e-20\n3. Smoked Glass Pump: https://www.amazon.com/dp/B073V6XDWK?tag=feelingpret0e-20\n4. Brown Ribbed Glasses: https://www.amazon.com/dp/B0G6ZG93ZS?tag=feelingpret0e-20\n5. Walnut-Finish Tray Set: https://www.amazon.com/dp/B0GPY1CNJF?tag=feelingpret0e-20\n6. Black + Wood Mug Tree: https://www.amazon.com/dp/B0GWY69BBH?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #CoffeeBar #MoodyHome"
-  },
-  {
-    "slug": "moody-game-night-arch",
-    "title": "Moody Game Night",
-    "feed": "/ready/moody-game-night-arch-feed.jpg",
-    "story": "/stories/moody-game-night-arch.png",
-    "caption": "The moody game night edit: walnut boards, brass candlelight and smoked glass, like a gentleman's club card table at home. Five elevated finds for slow nights in.\n\nShop the links below:\n1. Walnut Chess Set: https://www.amazon.com/dp/B088CW36HC?tag=feelingpret0e-20\n2. Brass Taper Holders: https://www.amazon.com/dp/B0DTHJYKVH?tag=feelingpret0e-20\n3. Inlaid Backgammon Set: https://www.amazon.com/dp/B004ADTC48?tag=feelingpret0e-20\n4. Walnut Snack Bowls: https://www.amazon.com/dp/B0H6P5B3C4?tag=feelingpret0e-20\n5. Smoke Art Deco Glasses: https://www.amazon.com/dp/B0FWKTRCVF?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #GameNight #MoodyHome #CozyNightIn"
-  },
-  {
-    "slug": "moody-italian-dinner-classic",
-    "title": "Moody Italian Dinner Night",
-    "feed": "/ready/moody-italian-dinner-classic-feed.jpg",
-    "story": "/stories/moody-italian-dinner-classic.png",
-    "caption": "Moody Italian dinner night: rustic stoneware and dark walnut, warmed with amber glass and antique brass candlelight. Five elevated finds for a long, slow table.\n\nShop the links below:\n1. Walnut Bread Board: https://www.amazon.com/dp/B09Y5VZXDC?tag=feelingpret0e-20\n2. Antique Brass Candlesticks: https://www.amazon.com/dp/B0GBSS9YNN?tag=feelingpret0e-20\n3. Ceramic Olive Oil Cruet: https://www.amazon.com/dp/B0G12V6J7R?tag=feelingpret0e-20\n4. Caramel Pasta Bowls: https://www.amazon.com/dp/B0HGY5WHVF?tag=feelingpret0e-20\n5. Amber Glass Tumblers: https://www.amazon.com/dp/B0D2323NYM?tag=feelingpret0e-20\n\n#ad As an Amazon Associate I earn from qualifying purchases.\n\n#FeelingPrettyHome #DinnerParty #TableScape #MoodyHome"
   }
 ];
