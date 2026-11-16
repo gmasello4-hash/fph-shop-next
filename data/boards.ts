@@ -3,6 +3,2232 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "for-him-elevated",
+    "title": "For Him, Elevated",
+    "image": "/boards/for-him-elevated.png",
+    "items": [
+      {
+        "name": "Crystal Whiskey Decanter",
+        "url": "https://www.amazon.com/dp/B093L6BHMR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood Watch Box",
+        "url": "https://www.amazon.com/dp/B0FP2C54BM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Valet Tray",
+        "url": "https://www.amazon.com/dp/B0B4PTQTTY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Faux Fur Lined Moccasins",
+        "url": "https://www.amazon.com/dp/B0H8F5X7LR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Wrapped Flask",
+        "url": "https://www.amazon.com/dp/B07KP6QTLZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "ski-lodge-weekend",
+    "title": "Ski Lodge Weekend",
+    "image": "/boards/ski-lodge-weekend.png",
+    "items": [
+      {
+        "name": "Rustic Wood Lantern",
+        "url": "https://www.amazon.com/dp/B0CFPYX5VP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cast Iron Fondue Set",
+        "url": "https://www.amazon.com/dp/B0DGGPYFHN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Knit Mittens",
+        "url": "https://www.amazon.com/dp/B07554KV6N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Stoneware Mugs",
+        "url": "https://www.amazon.com/dp/B0GD586HR1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sheepskin Scuff Slippers",
+        "url": "https://www.amazon.com/dp/B0CCD4F81X?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "winter-spa-bath-night",
+    "title": "Winter Spa Bath Night",
+    "image": "/boards/winter-spa-bath-night.png",
+    "items": [
+      {
+        "name": "Turkish Cotton Towel Set",
+        "url": "https://www.amazon.com/dp/B0CVFFRVMQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Boar Bristle Body Brush",
+        "url": "https://www.amazon.com/dp/B0016ISD04?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Dispenser Set",
+        "url": "https://www.amazon.com/dp/B0D7HFS3BM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Bath Salt Jar",
+        "url": "https://www.amazon.com/dp/B0F6TXWNZX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Soap Dish",
+        "url": "https://www.amazon.com/dp/B0FKBG1MJ8?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "hostess-gifts-under-30",
+    "title": "Hostess Gifts Under $30",
+    "image": "/boards/hostess-gifts-under-30.png",
+    "items": [
+      {
+        "name": "Glass Votives on Wood Tray",
+        "url": "https://www.amazon.com/dp/B0DPWPMWTZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Flax Linen Napkins",
+        "url": "https://www.amazon.com/dp/B0797PK1RN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Marble Salt Cellar",
+        "url": "https://www.amazon.com/dp/B0GYPDVQK5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Striped Linen Tea Towels",
+        "url": "https://www.amazon.com/dp/B0C43GSPBB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Olive Wood Spoon",
+        "url": "https://www.amazon.com/dp/B01MT6H72O?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "teen-boy-gift-guide",
+    "title": "Teen Boy Gift Guide",
+    "image": "/boards/teen-boy-gift-guide.png",
+    "items": [
+      {
+        "name": "Waxed Canvas Backpack",
+        "url": "https://www.amazon.com/dp/B07QJB9H6N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Desk Lamp",
+        "url": "https://www.amazon.com/dp/B0CXD95ZDD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Hex Dumbbells",
+        "url": "https://www.amazon.com/dp/B0D8RHHLCT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood MagSafe Charging Stand",
+        "url": "https://www.amazon.com/dp/B0CFR7R3DV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood Digital Alarm Clock",
+        "url": "https://www.amazon.com/dp/B09SHM519D?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-new-years-eve",
+    "title": "Moody New Year's Eve",
+    "image": "/boards/moody-new-years-eve.png",
+    "items": [
+      {
+        "name": "Crystal Champagne Flutes",
+        "url": "https://www.amazon.com/dp/B00M3P486M?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass Taper Candle Holders",
+        "url": "https://www.amazon.com/dp/B0HJGXGC9C?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Double Wall Ice Bucket",
+        "url": "https://www.amazon.com/dp/B0CQST2G1P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Leather Serving Tray",
+        "url": "https://www.amazon.com/dp/B0DDTBZX95?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Gold Flatware",
+        "url": "https://www.amazon.com/dp/B0C4JXPV1T?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-home-bar-edit",
+    "title": "The Home Bar Edit",
+    "image": "/boards/the-home-bar-edit.png",
+    "items": [
+      {
+        "name": "Black Bartender Kit & Stand",
+        "url": "https://www.amazon.com/dp/B08LSPP4WX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Finish Ice Bucket",
+        "url": "https://www.amazon.com/dp/B0CWLVLBMB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Crystal Mixing Glass",
+        "url": "https://www.amazon.com/dp/B09PMM9C2B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Crystal Coupe Glasses",
+        "url": "https://www.amazon.com/dp/B01N9BCDNN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoke Rocks Glasses",
+        "url": "https://www.amazon.com/dp/B076L3ZRLX?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "galentines-preview",
+    "title": "Galentine's Preview",
+    "image": "/boards/galentines-preview.png",
+    "items": [
+      {
+        "name": "Brown Artificial Roses",
+        "url": "https://www.amazon.com/dp/B0H1LTMXC8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Cake Stand",
+        "url": "https://www.amazon.com/dp/B00W7ODJGO?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Etched Stemless Wine Glasses",
+        "url": "https://www.amazon.com/dp/B0B3RVN553?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Round Vanity Tray",
+        "url": "https://www.amazon.com/dp/B0FYDQFW87?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Heart Ramekins",
+        "url": "https://www.amazon.com/dp/B0922KTKK5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-gifts-under-25",
+    "title": "Moody Gifts Under $25",
+    "image": "/boards/moody-gifts-under-25.png",
+    "items": [
+      {
+        "name": "Black Leather Flask Gift Set",
+        "url": "https://www.amazon.com/dp/B09CQ5JKCH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Mugs (Set of 4)",
+        "url": "https://www.amazon.com/dp/B08TW8GQ45?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Silk Sleep Mask",
+        "url": "https://www.amazon.com/dp/B07CNT74Z6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Coasters",
+        "url": "https://www.amazon.com/dp/B0CS378XBM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ceramic Match Holders",
+        "url": "https://www.amazon.com/dp/B0C65DBXJ5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "winter-bedding-refresh",
+    "title": "Winter Bedding Refresh",
+    "image": "/boards/winter-bedding-refresh.png",
+    "items": [
+      {
+        "name": "Brown Flannel Sheet Set",
+        "url": "https://www.amazon.com/dp/B0G3Q7VR5G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Waffle Weave Cotton Blanket",
+        "url": "https://www.amazon.com/dp/B0GC4YX4FS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Faux Fur Throw",
+        "url": "https://www.amazon.com/dp/B0CH3WRDGB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Velvet Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0FH4S8GTC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Linen Pillow Shams",
+        "url": "https://www.amazon.com/dp/B09176C9SM?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "cozy-november",
+    "title": "Come In, Stay Awhile",
+    "image": "/boards/cozy-november.png",
+    "items": [
+      {
+        "name": "Chocolate Velvet Pillow Covers",
+        "url": "https://www.amazon.com/dp/B07Y7X26H2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Wood Stool",
+        "url": "https://www.amazon.com/dp/B0DGL7N8ZJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Aged Brass Bowl",
+        "url": "https://www.amazon.com/dp/B08DNWPFG7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Cordless Lamp",
+        "url": "https://www.amazon.com/dp/B0HFP7CYBF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Cotton Cable Knit Throw",
+        "url": "https://www.amazon.com/dp/B07QTX3GPS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Linen Coffee Table Book",
+        "url": "https://www.amazon.com/dp/B0CDYYJFT8?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "dark-thoughtful",
+    "title": "Dark & Thoughtful",
+    "image": "/boards/dark-thoughtful.png",
+    "items": [
+      {
+        "name": "Full-Grain Leather Jewelry Roll",
+        "url": "https://www.amazon.com/dp/B0CHMJTP4P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mulberry Silk Sleep Mask",
+        "url": "https://www.amazon.com/dp/B0D41C9KZP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solid Brass Footed Dish",
+        "url": "https://www.amazon.com/dp/B0H8YQW9DC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ombré Leather Eau de Parfum",
+        "url": "https://www.amazon.com/dp/B07DZKJMRN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Santal & Vetiver Hand Cream",
+        "url": "https://www.amazon.com/dp/B0BZK477LB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Velvet Ribbon",
+        "url": "https://www.amazon.com/dp/B0H8S9742K?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-gratitude-edit",
+    "title": "The Moody Gratitude Edit",
+    "image": "/boards/the-gratitude-edit.png",
+    "items": [
+      {
+        "name": "Brown Swirl Ceramic Mug",
+        "url": "https://www.amazon.com/dp/B0H774VKS8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Sandalwood Candle",
+        "url": "https://www.amazon.com/dp/B0H9XP4J48?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Wood Serving Tray",
+        "url": "https://www.amazon.com/dp/B0CFV1ZLNR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Key Lock Journal",
+        "url": "https://www.amazon.com/dp/B093DBV25C?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Brass Candleholders",
+        "url": "https://www.amazon.com/dp/B0HHCXCGFJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Baby Alpaca Throw",
+        "url": "https://www.amazon.com/dp/B0BRNVQTJS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "a-very-moody-welcome",
+    "title": "A Very Moody Welcome",
+    "image": "/boards/a-very-moody-welcome.png",
+    "items": [
+      {
+        "name": "Brown Velvet Bows (Set of 2)",
+        "url": "https://www.amazon.com/dp/B0H3PJZKH3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Preserved Boxwood Wreath",
+        "url": "https://www.amazon.com/dp/B07S22RRG3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fresh Balsam Fir Boughs",
+        "url": "https://www.amazon.com/dp/B01LWR2ZM2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Lanterns",
+        "url": "https://www.amazon.com/dp/B0CS2874LC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wax Pillar Candle",
+        "url": "https://www.amazon.com/dp/B09ZN5D889?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black & White Striped Mat",
+        "url": "https://www.amazon.com/dp/B08J87PRR3?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "cool-girl-christmas",
+    "title": "The Cool Girl Christmas",
+    "image": "/boards/cool-girl-christmas.png",
+    "items": [
+      {
+        "name": "Michael Kors Shoulder Bag",
+        "url": "https://www.amazon.com/dp/B0H442RBD8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Espresso Oversized Hoodie",
+        "url": "https://www.amazon.com/dp/B0DRVKK1TB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sol de Janeiro Mist Gift Set",
+        "url": "https://www.amazon.com/dp/B0GF3ZZYBH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UGG Tazz Platform Slippers",
+        "url": "https://www.amazon.com/dp/B0DPJGSWPJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Initial Necklace",
+        "url": "https://www.amazon.com/dp/B009YH6BNU?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Laneige Lip Mask Set",
+        "url": "https://www.amazon.com/dp/B0B9HPYZJH?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "grandmas-little-luxuries",
+    "title": "Grandma's Little Luxuries",
+    "image": "/boards/grandmas-little-luxuries.png",
+    "items": [
+      {
+        "name": "100% Cashmere Wrap",
+        "url": "https://www.amazon.com/dp/B0C42T9NDQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Family Birthstone Necklace",
+        "url": "https://www.amazon.com/dp/B0CHPK193D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Minnetonka Faux Fur Slippers",
+        "url": "https://www.amazon.com/dp/B074G5DNW7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Porcelain Tea Set",
+        "url": "https://www.amazon.com/dp/B075WPYDJN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Recipe Journal",
+        "url": "https://www.amazon.com/dp/B0D9KK2X1M?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood Digital Photo Frame",
+        "url": "https://www.amazon.com/dp/B0HC5SWXN4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "grandpas-favorite-things",
+    "title": "Grandpa's Favorite Things",
+    "image": "/boards/grandpas-favorite-things.png",
+    "items": [
+      {
+        "name": "Leather Valet Tray",
+        "url": "https://www.amazon.com/dp/B08GQ9J6P2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "YETI 20 oz Tumbler",
+        "url": "https://www.amazon.com/dp/B0DHHJ3R9H?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Minnetonka Plaid-Lined Slippers",
+        "url": "https://www.amazon.com/dp/B0DCPR43RN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cable-Knit Quarter-Zip",
+        "url": "https://www.amazon.com/dp/B0H3L4S19S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Walnut Watch Box",
+        "url": "https://www.amazon.com/dp/B0B4J2BZ1P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Custom Family Photo Calendar",
+        "url": "https://www.amazon.com/dp/B0DNG5C3GB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "better-together",
+    "title": "Better Together",
+    "image": "/boards/better-together.png",
+    "items": [
+      {
+        "name": "Cotton Waffle Robe",
+        "url": "https://www.amazon.com/dp/B0F6D593B6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Couples Scratch-Off Book",
+        "url": "https://www.amazon.com/dp/B087Q6NV9V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Voluspa Baltic Amber Candle",
+        "url": "https://www.amazon.com/dp/B005Z5Q3Z6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Keepsake Box",
+        "url": "https://www.amazon.com/dp/B09NNMZTJM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Monogram Leather Passport Set",
+        "url": "https://www.amazon.com/dp/B0DWV2XQGR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oversized Brown Knit Throw",
+        "url": "https://www.amazon.com/dp/B0DP1ZS4MG?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "christmas-in-the-shadows",
+    "title": "Christmas in the Shadows",
+    "image": "/boards/christmas-in-the-shadows.png",
+    "items": [
+      {
+        "name": "Fresh Cedar Garland",
+        "url": "https://www.amazon.com/dp/B0CNNQNLQ6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Bronze Glass Ornaments",
+        "url": "https://www.amazon.com/dp/B0H293KC54?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Velvet Stockings",
+        "url": "https://www.amazon.com/dp/B0H8CN47ZW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Iron Stocking Holders",
+        "url": "https://www.amazon.com/dp/B074PYPJMT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Clear Glass Globe String Lights",
+        "url": "https://www.amazon.com/dp/B0H37J2GH8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Velvet Ribbon",
+        "url": "https://www.amazon.com/dp/B0F1CYH265?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-thanksgiving-table",
+    "title": "The Moody Thanksgiving Table",
+    "image": "/boards/the-moody-thanksgiving-table.png",
+    "items": [
+      {
+        "name": "Vintage Brass Candlesticks",
+        "url": "https://www.amazon.com/dp/B0HG94R4TT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Linen Napkins",
+        "url": "https://www.amazon.com/dp/B08FCMQ5B6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Acacia Wood Chargers",
+        "url": "https://www.amazon.com/dp/B08Z2YHQZL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Goblets",
+        "url": "https://www.amazon.com/dp/B082493PKP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Gold Flatware",
+        "url": "https://www.amazon.com/dp/B0FYRRCSG2?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-pie-and-dessert-bar",
+    "title": "The Pie & Dessert Bar",
+    "image": "/boards/the-pie-and-dessert-bar.png",
+    "items": [
+      {
+        "name": "Marble Cake Stand",
+        "url": "https://www.amazon.com/dp/B0GWRK8WWW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Stoneware Dessert Plates",
+        "url": "https://www.amazon.com/dp/B0HGQTQVST?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chemex Coffee Carafe",
+        "url": "https://www.amazon.com/dp/B000I1WP7W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Cloche with Wood Base",
+        "url": "https://www.amazon.com/dp/B01FL7Q5GY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ruffled Ceramic Pie Dish",
+        "url": "https://www.amazon.com/dp/B0D7H1TBFJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Marble Pie Server",
+        "url": "https://www.amazon.com/dp/B0D227WP5W?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "hostess-serveware",
+    "title": "Hostess Serveware",
+    "image": "/boards/hostess-serveware.png",
+    "items": [
+      {
+        "name": "Acacia Serving Board",
+        "url": "https://www.amazon.com/dp/B09STY7DR7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Damascus Carving Set",
+        "url": "https://www.amazon.com/dp/B0HGNTGSCC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stoneware Oval Platters",
+        "url": "https://www.amazon.com/dp/B0FJLX42R5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stoneware Gravy Boat",
+        "url": "https://www.amazon.com/dp/B0HKRLQWNK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Marble-Glaze Butter Dish",
+        "url": "https://www.amazon.com/dp/B09H5NH34J?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Olive Wood Salt Keeper",
+        "url": "https://www.amazon.com/dp/B01LR8WLVY?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "after-dinner-cozy",
+    "title": "After-Dinner Cozy",
+    "image": "/boards/after-dinner-cozy.png",
+    "items": [
+      {
+        "name": "Camel Knit Throw",
+        "url": "https://www.amazon.com/dp/B0B5CT8N2P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass Banker Lamp",
+        "url": "https://www.amazon.com/dp/B0DGW9SWW6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UGG Tasman Slippers",
+        "url": "https://www.amazon.com/dp/B0G7KH5M6K?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oversized Stoneware Mug",
+        "url": "https://www.amazon.com/dp/B0CKRWVRJF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Santal Vanille Candle",
+        "url": "https://www.amazon.com/dp/B08KGBS1D3?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "black-friday-preview",
+    "title": "Black Friday Preview",
+    "image": "/boards/black-friday-preview.png",
+    "items": [
+      {
+        "name": "Crystal Whiskey Set",
+        "url": "https://www.amazon.com/dp/B0F9WQGZPK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cotton Cable-Knit Throw",
+        "url": "https://www.amazon.com/dp/B078SL2FTQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass Spyglass Table Lamp",
+        "url": "https://www.amazon.com/dp/B07MHLZ27W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Votives on Wood Tray",
+        "url": "https://www.amazon.com/dp/B00YXB1L7S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Travertine Pillar Holder",
+        "url": "https://www.amazon.com/dp/B0G63K4QNX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Marble Bookends",
+        "url": "https://www.amazon.com/dp/B08V1WKHJZ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "friendsgiving-edit",
+    "title": "Friendsgiving Edit",
+    "image": "/boards/friendsgiving-edit.png",
+    "items": [
+      {
+        "name": "Rust Velvet Pumpkins",
+        "url": "https://www.amazon.com/dp/B0BGLLCZM3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Travertine Cheese Board",
+        "url": "https://www.amazon.com/dp/B0BD6XPW4R?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked Glass Wine Glasses",
+        "url": "https://www.amazon.com/dp/B0CY4QN9DT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Cheese Knives",
+        "url": "https://www.amazon.com/dp/B0GVY187H5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass Place Card Holders",
+        "url": "https://www.amazon.com/dp/B0FNLLZYX8?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "after-dark-entertaining",
+    "title": "After Dark Entertaining",
+    "image": "/boards/after-dark-entertaining.png",
+    "items": [
+      {
+        "name": "Smoked Crystal Wine Glasses",
+        "url": "https://www.amazon.com/dp/B0HDX73LCD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Linen Napkins",
+        "url": "https://www.amazon.com/dp/B0H83N9FZX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Brass Taper Holders",
+        "url": "https://www.amazon.com/dp/B0GVHD58Q4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Oval Platters",
+        "url": "https://www.amazon.com/dp/B0BRJNXNVC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut End-Grain Board",
+        "url": "https://www.amazon.com/dp/B0GWB37WQW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Serving Bowl",
+        "url": "https://www.amazon.com/dp/B0DTQ4DHZS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-sunday-reset",
+    "title": "The Sunday Reset",
+    "image": "/boards/the-sunday-reset.png",
+    "items": [
+      {
+        "name": "Amber Glass Spray Bottles",
+        "url": "https://www.amazon.com/dp/B01G98Y1BA?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Cocoa Waffle Bath Towel",
+        "url": "https://www.amazon.com/dp/B0D47M4CXJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Ribbed Soap Dispenser",
+        "url": "https://www.amazon.com/dp/B0D9Y7GBMD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Tobacco Sandalwood Room Spray",
+        "url": "https://www.amazon.com/dp/B0DYZD9SZ2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UGG Scuffette II Slippers",
+        "url": "https://www.amazon.com/dp/B083RTQC6N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Rechargeable Lamp",
+        "url": "https://www.amazon.com/dp/B0G4C67Y4S?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-gift-closet",
+    "title": "The Gift Closet",
+    "image": "/boards/the-gift-closet.png",
+    "items": [
+      {
+        "name": "Godiva Gold Chocolate Box",
+        "url": "https://www.amazon.com/dp/B0FDLT4Y1P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Envelope Card Holder",
+        "url": "https://www.amazon.com/dp/B07NYGSS98?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Safety Matches Jar",
+        "url": "https://www.amazon.com/dp/B0B4BHQBW2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "P.F. Candle Co. Amber Jar Candle",
+        "url": "https://www.amazon.com/dp/B01GVTEGDU?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Slip Silk Skinny Scrunchies",
+        "url": "https://www.amazon.com/dp/B0BSLYBJKH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black-Border Notecard Set",
+        "url": "https://www.amazon.com/dp/B0F35MHM9C?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-just-to-be-moody",
+    "title": "Moody Just to Be Moody",
+    "image": "/boards/moody-just-to-be-moody.png",
+    "items": [
+      {
+        "name": "Charcoal Aran Cable Cardigan",
+        "url": "https://www.amazon.com/dp/B07BBP5ZWY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black & Brass Table Lamp",
+        "url": "https://www.amazon.com/dp/B0FRBJ3JF6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Brown Faux Fur Throw",
+        "url": "https://www.amazon.com/dp/B0FK9XCGM3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Deep Red Leather Journal",
+        "url": "https://www.amazon.com/dp/B0F4XFTJ8W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Stoneware Mug",
+        "url": "https://www.amazon.com/dp/B0GQ7VLSSX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked Glass Sandalwood Candle",
+        "url": "https://www.amazon.com/dp/B0DL9W7Z3C?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "desk-after-dark",
+    "title": "Desk After Dark",
+    "image": "/boards/desk-after-dark.png",
+    "items": [
+      {
+        "name": "Espresso Leather Desk Pad",
+        "url": "https://www.amazon.com/dp/B001F4KKOG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black & Brass Task Lamp",
+        "url": "https://www.amazon.com/dp/B07MNC2C5Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Walnut Letter Tray",
+        "url": "https://www.amazon.com/dp/B0C583TMBT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Metal File Sorter",
+        "url": "https://www.amazon.com/dp/B0DL9ML3CX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Walnut Monitor Riser",
+        "url": "https://www.amazon.com/dp/B0BHMW8HFB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black & Gold Ceramic Pen Cup",
+        "url": "https://www.amazon.com/dp/B0BL35P7QB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "bedroom-after-dark",
+    "title": "Bedroom After Dark",
+    "image": "/boards/bedroom-after-dark.png",
+    "items": [
+      {
+        "name": "Chocolate Duvet Cover Set",
+        "url": "https://www.amazon.com/dp/B0C5C8PVF4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream & Black Boucle Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0F3WTV7G4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Carved Wood Side Table",
+        "url": "https://www.amazon.com/dp/B0FZKVNJ58?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Charcoal Linen Blackout Curtains",
+        "url": "https://www.amazon.com/dp/B0C9CLH3S7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Espresso 100% Wool Blanket",
+        "url": "https://www.amazon.com/dp/B0FD79G6GM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Brass Dome Table Lamp",
+        "url": "https://www.amazon.com/dp/B0DT4NDY1Z?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-organized-home",
+    "title": "The Moody Organized Home",
+    "image": "/boards/the-moody-organized-home.png",
+    "items": [
+      {
+        "name": "Black Walnut Drawer Organizer",
+        "url": "https://www.amazon.com/dp/B07S6LLDBG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Jars with Bamboo Lids",
+        "url": "https://www.amazon.com/dp/B0GSFDSYHY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Wide-Shoulder Hangers",
+        "url": "https://www.amazon.com/dp/B09GFT3Z22?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Lazy Susan",
+        "url": "https://www.amazon.com/dp/B0H6SFY6NP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Water Hyacinth Storage Basket",
+        "url": "https://www.amazon.com/dp/B097Y8D7H9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Ribbed Glass Soap Dispensers",
+        "url": "https://www.amazon.com/dp/B0HCPWD2T7?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "wake-up-moody-and-refreshed",
+    "title": "Wake Up Moody and Refreshed",
+    "image": "/boards/wake-up-moody-and-refreshed.png",
+    "items": [
+      {
+        "name": "Espresso Waffle Robe",
+        "url": "https://www.amazon.com/dp/B0D4QH9TCB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Wood Tray",
+        "url": "https://www.amazon.com/dp/B0GGBD6C7P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked Glass Coffee Mug",
+        "url": "https://www.amazon.com/dp/B0FQXP793X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stainless Steel Cooling Globes",
+        "url": "https://www.amazon.com/dp/B0D2B6F3NH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Charcoal Luxury Bath Sheets",
+        "url": "https://www.amazon.com/dp/B0CXZBN6SB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Dropper Bottles",
+        "url": "https://www.amazon.com/dp/B0BGH3VNXB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "thank-you-for-hosting-gifts",
+    "title": "Thank You for Hosting Gifts",
+    "image": "/boards/thank-you-for-hosting-gifts.png",
+    "items": [
+      {
+        "name": "Amber Glass Votive Holders",
+        "url": "https://www.amazon.com/dp/B0CBPFM7T9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Coasters",
+        "url": "https://www.amazon.com/dp/B0G2XWLM88?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Cheese Knives in Black Box",
+        "url": "https://www.amazon.com/dp/B0DRNZSBSY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoke Gray Glass Bud Vase",
+        "url": "https://www.amazon.com/dp/B0D93FJLDH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Ceramic Oil Dispenser",
+        "url": "https://www.amazon.com/dp/B09TR499GH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wooden Recipe Box",
+        "url": "https://www.amazon.com/dp/B0CX7Z73DJ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-dark-and-dreamy-library-edit",
+    "title": "The Dark & Dreamy Library Edit",
+    "image": "/boards/the-dark-and-dreamy-library-edit.png",
+    "items": [
+      {
+        "name": "Brass Pharmacy Reading Lamp",
+        "url": "https://www.amazon.com/dp/B094YXX3BZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate Waffle Knit Throw",
+        "url": "https://www.amazon.com/dp/B0GSQNYT4S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Bookends",
+        "url": "https://www.amazon.com/dp/B07MXBSSFT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Floral Velvet Pillow Cover",
+        "url": "https://www.amazon.com/dp/B0GVJDHB2G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Book Stand",
+        "url": "https://www.amazon.com/dp/B08CZPT1H8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Hurricanes",
+        "url": "https://www.amazon.com/dp/B0HD7MLC58?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "elevated-tea-matcha",
+    "title": "Elevated Tea + Matcha",
+    "image": "/boards/elevated-tea-matcha.png",
+    "items": [
+      {
+        "name": "SANGO Anderson cream stoneware coffee mugs set of 4, 16.5 oz, ribbed",
+        "url": "https://www.amazon.com/dp/B0GSH4PT2S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Apace luxury wooden tea bag organizer box with glass lid (8 compartments)",
+        "url": "https://www.amazon.com/dp/B07HGDHJ2T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mino Ware Japanese handcrafted matcha bowl (chawan), beige / cream speckled",
+        "url": "https://www.amazon.com/dp/B07FFML1ZG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fellow Stagg EKG Pro gooseneck electric kettle, matte black, 0.9 L",
+        "url": "https://www.amazon.com/dp/B0BF7DXLBF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "JOVGANK grey vintage hobnail drinking glasses set of 6, 15 oz smoked tumblers",
+        "url": "https://www.amazon.com/dp/B0FB8NVTLT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kate and Laurel Lipton decorative wooden tray with metal gold handles",
+        "url": "https://www.amazon.com/dp/B0877DDJ6L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Creative Co-Op farmhouse embossed stoneware honey pot with wood dipper, amber",
+        "url": "https://www.amazon.com/dp/B0B94TDBQM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Naoki Matcha Japanese bamboo whisk (chasen) + scoop set",
+        "url": "https://www.amazon.com/dp/B07NTZNPPT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "JFFLYIT black marble-vein ceramic sugar bowls with wood lids & spoons (set of 2)",
+        "url": "https://www.amazon.com/dp/B09FZ34H6J?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "quiet-luxury-bed",
+    "title": "Quiet Luxury Bed Edit",
+    "image": "/boards/quiet-luxury-bed.png",
+    "items": [
+      {
+        "name": "BFS HOME stonewashed cotton-linen duvet cover set w/ 2 pillowcases (Queen; white shown)",
+        "url": "https://www.amazon.com/dp/B07SX1MZK5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Alashan Ripple Finish camel throw — 95% merino / 5% cashmere, fringed",
+        "url": "https://www.amazon.com/dp/B07H9CB5KC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MIULEE cream bouclé euro sham covers 26x26 (set of 2)",
+        "url": "https://www.amazon.com/dp/B0F99S2FSX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "DEZENE chocolate brown velvet pillow covers 18x18 (pack of 2)",
+        "url": "https://www.amazon.com/dp/B07SDF1Y41?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LCSMVLQ 15.7\" cream ceramic bedside lamp, pleated shade, brass base",
+        "url": "https://www.amazon.com/dp/B0DF7P22WQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MIULEE dark brown bouclé lumbar pillow cover 14x36",
+        "url": "https://www.amazon.com/dp/B0FP537J1Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solid walnut valet / bedside tray, rounded edges",
+        "url": "https://www.amazon.com/dp/B0HDSG1PFW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Lartvivré cognac grained faux-leather tissue box cover, brass side snaps",
+        "url": "https://www.amazon.com/dp/B0GZZQG6KB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "sunday-football",
+    "title": "Sunday Football, But Make It Moody",
+    "image": "/boards/sunday-football.png",
+    "items": [
+      {
+        "name": "BATTILO HOME chocolate-brown diamond-knit throw w/ fringe, 50x60",
+        "url": "https://www.amazon.com/dp/B0BZ8BQSFJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "THETCHRY walnut end-grain cutting / grazing board set (3 boards + stand)",
+        "url": "https://www.amazon.com/dp/B0GJS4Z6BD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black chip & dip serving bowl (tiered)",
+        "url": "https://www.amazon.com/dp/B0C7RHDX9B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Aquiver matte black 10oz porcelain snack bowls (set)",
+        "url": "https://www.amazon.com/dp/B08G51L997?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Woodard & Charles acacia-wood lidded ice bucket w/ liner, 3 qt (8\" x 8.5\")",
+        "url": "https://www.amazon.com/dp/B001BGW1IQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "famiware cappuccino-white fluted 4oz dip bowls (set of 6)",
+        "url": "https://www.amazon.com/dp/B0CQQL5T7X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "KLIFA Eton smoke-grey acrylic tumblers & highballs (set of 8, 15.2 + 20.8oz)",
+        "url": "https://www.amazon.com/dp/B09C1VGTVZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut square cocktail-napkin holder w/ black metal arm",
+        "url": "https://www.amazon.com/dp/B0DK6Q8SVD?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "stay-in-movie-night",
+    "title": "Stay-In Movie Night",
+    "image": "/boards/stay-in-movie-night.png",
+    "items": [
+      {
+        "name": "YnM chunky cotton knit throw blanket, cream white (medium weight)",
+        "url": "https://www.amazon.com/dp/B0D3WSG1MR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "11\" thick tufted corduroy floor pillow / pouf with handle, brown (washable cover)",
+        "url": "https://www.amazon.com/dp/B0HH3NWCQR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Multibey solid North American walnut serving tray with clear lid (4 compartments)",
+        "url": "https://www.amazon.com/dp/B0F5VVZZT7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "DEZENE chocolate brown velvet lumbar pillow covers 12x20 (pack of 2)",
+        "url": "https://www.amazon.com/dp/B07SFT1X7S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kanwone large 55 oz matte black ceramic serving / popcorn bowls, 8\" (set of 2)",
+        "url": "https://www.amazon.com/dp/B0BNHYZ24B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Snug Leaves curly faux-fur scuff slippers, Nutty Mocha",
+        "url": "https://www.amazon.com/dp/B0D1K7BWB3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Viyffo 20 oz 3-wick soy candle in matte black ceramic pot, Eucalyptus & Rosemary",
+        "url": "https://www.amazon.com/dp/B0H7FJH1PK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Moretoes 10 oz smoked grey hobnail drinking glasses (set of 6)",
+        "url": "https://www.amazon.com/dp/B0FY5Q63KW?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "sunday-morning",
+    "title": "Sunday Morning",
+    "image": "/boards/sunday-morning.png",
+    "items": [
+      {
+        "name": "Fibogollo walnut wood folding breakfast bed tray",
+        "url": "https://www.amazon.com/dp/B0G9NM5D48?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Women's kimono waffle robe, 100% Turkish cotton, light brown",
+        "url": "https://www.amazon.com/dp/B0DX46HDNM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "CozeCube dark brown seed-stitch knit throw blanket 50\"x60\"",
+        "url": "https://www.amazon.com/dp/B0DP1YP9DL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Easyworkz ribbed porcelain French press 34 oz, ivory",
+        "url": "https://www.amazon.com/dp/B0D9PWB3DQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "PUERSI open book display stand, black wood",
+        "url": "https://www.amazon.com/dp/B0DD7KL7BY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Elanze Designs brown matte-glaze stoneware mugs 17 oz (pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CBL81DCS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "M&SENSE amber glass soy candle with wooden wick, Teakwood (9.9 oz)",
+        "url": "https://www.amazon.com/dp/B0DLGF6117?tag=feelingpret0e-20"
+      },
+      {
+        "name": "HomeTop curly fleece memory-foam loafer slippers, cream white",
+        "url": "https://www.amazon.com/dp/B09HHFSRFW?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-vanity",
+    "title": "Moody Vanity Edit",
+    "image": "/boards/moody-vanity.png",
+    "items": [
+      {
+        "name": "Vintage black ornate arched vanity mirror with stand (9.6\" W x 11.8\" H)",
+        "url": "https://www.amazon.com/dp/B0DL5NSR37?tag=feelingpret0e-20"
+      },
+      {
+        "name": "CHOSIN 5-layer walnut jewelry box/cabinet, ginkgo brass handle, magnetic doors (7.9x8.7x10\")",
+        "url": "https://www.amazon.com/dp/B0D6G6825X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sureio walnut + black velvet necklace display busts (set of 2, small, 8.3\" H)",
+        "url": "https://www.amazon.com/dp/B0GHNHJSX6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ivory bouclé decorative jewelry/keepsake boxes w/ wood handles (set of 2, 14.2\" + 12.4\")",
+        "url": "https://www.amazon.com/dp/B0FNWZJFSC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BESTOOL walnut wood boar-bristle hair brush (8.8\")",
+        "url": "https://www.amazon.com/dp/B0DMSMW8ZF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Koville natural travertine makeup brush holder (3.7x3.7x3.9\")",
+        "url": "https://www.amazon.com/dp/B0H38BGX8K?tag=feelingpret0e-20"
+      },
+      {
+        "name": "HiTotes cognac leather vanity / train case (8.5x4.9x5.5\")",
+        "url": "https://www.amazon.com/dp/B0FMF41S55?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Lamoutor vintage smoked-glass perfume atomizer, black bulb (100 ml)",
+        "url": "https://www.amazon.com/dp/B0BGS5LFSD?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "holiday-guest-prep",
+    "title": "Holiday Guest Prep Edit",
+    "image": "/boards/holiday-guest-prep.png",
+    "items": [
+      {
+        "name": "Winsome Wood Sedona bed tray w/ folding legs, antique walnut finish (~21.6\" W)",
+        "url": "https://www.amazon.com/dp/B0046EC1AI?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mid-century walnut-arc + black metal table lamp, adjustable shade (~22\" H)",
+        "url": "https://www.amazon.com/dp/B0H8YMG5RT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Large handwoven water hyacinth basket w/ 2 handles (16.5x12x7.5\")",
+        "url": "https://www.amazon.com/dp/B0DN6TTN1Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sizikato amber ribbed glass bedside carafe w/ tumbler lid (30 oz)",
+        "url": "https://www.amazon.com/dp/B09D3JZN88?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Texere organic cotton 700 GSM rice-weave towel set, cream w/ stone stripe (6 pc)",
+        "url": "https://www.amazon.com/dp/B0G2T7MXDN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Creative Co-Op recycled-cotton brown plaid throw w/ fringe (50x60)",
+        "url": "https://www.amazon.com/dp/B0B55VVTFX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream teddy-fleece closed-toe guest slippers (white, 8-9)",
+        "url": "https://www.amazon.com/dp/B0H6GDCCQF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Boll & Branch organic cotton waffle robe (unisex)",
+        "url": "https://www.amazon.com/dp/B0H5T1X4TL?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "linen-closet-reset",
+    "title": "The Linen Closet Reset",
+    "image": "/boards/linen-closet-reset.png",
+    "items": [
+      {
+        "name": "Casafield Woven Water Hyacinth Laundry Hamper with Lid & Removable Liner, Espresso",
+        "url": "https://www.amazon.com/dp/B0CQKGQDVH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bagno Milano Turkish Cotton Jacquard Towel Set of 6, Cream",
+        "url": "https://www.amazon.com/dp/B0HBLKLKYK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ornavo Home Collapsible Lidded Storage Bins with Leather Handles, Beige, 3-Pack",
+        "url": "https://www.amazon.com/dp/B0BDPS1Y9Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Household Essentials Handled Seagrass Basket, Natural & Black",
+        "url": "https://www.amazon.com/dp/B0BL8H25LG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Avalon Towels 600 GSM Cotton Bath Towel Set, 8 Piece, Chocolate Brown",
+        "url": "https://www.amazon.com/dp/B08K3MQQ6C?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Organizix XLarge Round Cotton Rope Storage Basket with Leather Handles, 21x21x14, Cream",
+        "url": "https://www.amazon.com/dp/B0BDMXBTGJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "StorageWorks Black Wicker Storage Baskets, 2-Pack",
+        "url": "https://www.amazon.com/dp/B0G4Q4YVB3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hygge & Sage Metal Clip-On Basket Labels, Set of 8",
+        "url": "https://www.amazon.com/dp/B0B5KN5R4Y?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "collected-shelf",
+    "title": "The Collected Shelf",
+    "image": "/boards/collected-shelf.png",
+    "items": [
+      {
+        "name": "Deco 79 Faux Leather Book-Shaped Storage Boxes, Set of 3",
+        "url": "https://www.amazon.com/dp/B00CD6RSMW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Signature Design by Ashley Modern Ceramic Abstract Sculpture, Off White",
+        "url": "https://www.amazon.com/dp/B0CS521VR3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Framed Cream Impasto Sculptural Abstract Canvas Art, Black Frame",
+        "url": "https://www.amazon.com/dp/B0HC6HXW2X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ottimo Polished Black Marble 6\" Triangular Bookends",
+        "url": "https://www.amazon.com/dp/B09DK5HP9J?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Linen-Textured Photo Storage Boxes with Leather Tab, 2-Piece",
+        "url": "https://www.amazon.com/dp/B0FPB5P9VH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Torre & Tagus 6\" Smoked Gray Glass Bud Vase",
+        "url": "https://www.amazon.com/dp/B0D7GJ2X2N?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Natural Travertine Decorative Sphere, 4.72\"",
+        "url": "https://www.amazon.com/dp/B0FMDFH6F4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Acacia Wood Pedestal Pillar Candle Holder",
+        "url": "https://www.amazon.com/dp/B0GTDBP1G5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-front-porch",
+    "title": "Moody Front Porch",
+    "image": "/boards/moody-front-porch.png",
+    "items": [
+      {
+        "name": "Bdor 16 Inch Outdoor Indoor Lantern, Set of 2 Black Metal Candle Lanterns",
+        "url": "https://www.amazon.com/dp/B0BX2YS7VQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Windsor Tall Square Fiberglass Planter, Black, 13 Inch",
+        "url": "https://www.amazon.com/dp/B08FHBHPDC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Christopher Knight Home Sante Round Outdoor Side Table, Acacia Wood Small Outdoor Table, Side Desk for Backyard Balcony Garden, Weather Resi",
+        "url": "https://www.amazon.com/dp/B0FGX7JCVC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Pillow Perfect Outdoor Forsyth Chocolate Over-Sized Rectangular Throw Pillow, Set of 2",
+        "url": "https://www.amazon.com/dp/B00J9BAQAA?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Goodpick Large Woven Rope Blanket Basket, Rectangle, Black, 75L",
+        "url": "https://www.amazon.com/dp/B0CF1RCS6Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "YnM Chunky Throw Blanket, Hand Knitted with Chenille Yarn, Skin Friendly, Ventilated and Breathable, Machine Washable, Home Décor Piece for",
+        "url": "https://www.amazon.com/dp/B0BWJ5SS8D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Torre & Tagus Mini Lustre Hand Blown Smoke Gray Glass Vase Set of 3",
+        "url": "https://www.amazon.com/dp/B00E3RH12G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kempf 1\" Thick Natural Woven Coco Coir Doormat, 18\" x 30\", Heavy-Duty Coconut Fiber Scraper Mat for Front Door, Entryway & Porch",
+        "url": "https://www.amazon.com/dp/B004EBHSI8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Northlight Set of 3 Natural Wood Candle Lanterns with Black Metal Tops, 26.5\", Brown",
+        "url": "https://www.amazon.com/dp/B0B1XBTHP4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Windsor Tall Square Fiberglass Planter, Black, 13 Inch",
+        "url": "https://www.amazon.com/dp/B08FHBHPDC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Christopher Knight Home Sante Round Outdoor Side Table, Acacia Wood Small Outdoor Table, Side Desk for Backyard Balcony Garden, Weather Resi",
+        "url": "https://www.amazon.com/dp/B0FGX7JCVC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Pillow Perfect Outdoor Forsyth Chocolate Over-Sized Rectangular Throw Pillow, Set of 2",
+        "url": "https://www.amazon.com/dp/B00J9BAQAA?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Goodpick Large Woven Rope Blanket Basket, Rectangle, Black, 75L",
+        "url": "https://www.amazon.com/dp/B0CF1RCS6Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "YnM Chunky Throw Blanket, Hand Knitted with Chenille Yarn, Skin Friendly, Ventilated and Breathable, Machine Washable, Home Décor Piece for",
+        "url": "https://www.amazon.com/dp/B0BWJ5SS8D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Torre & Tagus Mini Lustre Hand Blown Smoke Gray Glass Vase Set of 3",
+        "url": "https://www.amazon.com/dp/B00E3RH12G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kempf 1\" Thick Natural Woven Coco Coir Doormat, 18\" x 30\", Heavy-Duty Coconut Fiber Scraper Mat for Front Door, Entryway & Porch",
+        "url": "https://www.amazon.com/dp/B004EBHSI8?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-wedding-shower-gifts",
+    "title": "Moody Wedding Shower Gifts",
+    "image": "/boards/moody-wedding-shower-gifts.png",
+    "items": [
+      {
+        "name": "Black Walnut Wood Ottoman Serving Tray",
+        "url": "https://www.amazon.com/dp/B0FGQJ6VL9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Coloch Black Marble and Acacia Wood Cutting/Charcuterie Board",
+        "url": "https://www.amazon.com/dp/B0BHNNRM88?tag=feelingpret0e-20"
+      },
+      {
+        "name": "muso wood Walnut Square Cutting Board with Hanging Handle",
+        "url": "https://www.amazon.com/dp/B09BCHRLC4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Linen Cream Stoneware Deep Serving Bowl 88 oz, 10.25\"",
+        "url": "https://www.amazon.com/dp/B0FS3G32XY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solino Home 100% Pure Linen Black Dinner Napkins",
+        "url": "https://www.amazon.com/dp/B07H4JLWH2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Modern Smoky Grey Wine Glasses, 15 oz, Set of 6",
+        "url": "https://www.amazon.com/dp/B0GTTN5DD8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glaver's Art Deco Ribbed Smoke Drinking Glasses (dimension graphics cropped off)",
+        "url": "https://www.amazon.com/dp/B0F456SFM6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "4\" Round Natural Travertine Coasters with wood holder",
+        "url": "https://www.amazon.com/dp/B0FY3PF8YB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "teen-christmas-wish-list",
+    "title": "Teen Christmas Wish List",
+    "image": "/boards/teen-christmas-wish-list.png",
+    "items": [
+      {
+        "name": "L'AGRATY Faux Rabbit Fur Bubble Throw Blanket, Cocoa Brown, 50x60",
+        "url": "https://www.amazon.com/dp/B0DHRN56F5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Frebeauty 3-Drawer Jewelry Box with Clear Lid, brown",
+        "url": "https://www.amazon.com/dp/B0DQD7YCXR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Uvvyui Cream Bouclé Knot Pillow Ball",
+        "url": "https://www.amazon.com/dp/B0B34PTY3X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oval Vanity Mirror with Stand, Black Metal Frame, 5.9x8.9 (mirror glass restored after cutout)",
+        "url": "https://www.amazon.com/dp/B0GCZPG5VT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UIXIZQ Chocolate Suede Makeup Pouch",
+        "url": "https://www.amazon.com/dp/B0FYFXSVYC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Beeswax 2-Wick Candle in Embossed Amber Glass Jar",
+        "url": "https://www.amazon.com/dp/B0GJ6963F5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Crackle Glaze Footed Ring Dish",
+        "url": "https://www.amazon.com/dp/B0H61SF81S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Claw Hair Clip (model inset cropped off)",
+        "url": "https://www.amazon.com/dp/B0DMSZNGRK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "L'AGRATY Faux Rabbit Fur Bubble Throw Blanket, Cocoa Brown, 50x60",
+        "url": "https://www.amazon.com/dp/B0DHRN56F5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Frebeauty 3-Drawer Jewelry Box with Clear Lid, brown",
+        "url": "https://www.amazon.com/dp/B0DQD7YCXR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Uvvyui Cream Bouclé Knot Pillow Ball",
+        "url": "https://www.amazon.com/dp/B0B34PTY3X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oval Vanity Mirror with Stand, Black Metal Frame, 5.9x8.9 (mirror glass restored after cutout)",
+        "url": "https://www.amazon.com/dp/B0GCZPG5VT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UIXIZQ Chocolate Suede Makeup Pouch",
+        "url": "https://www.amazon.com/dp/B0FYFXSVYC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "96NORTH Black Glass 3-Wick Soy Jar Candle, Mystic Night",
+        "url": "https://www.amazon.com/dp/B0D6Z39CP6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Crackle Glaze Footed Ring Dish",
+        "url": "https://www.amazon.com/dp/B0H61SF81S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Claw Hair Clip (model inset cropped off)",
+        "url": "https://www.amazon.com/dp/B0DMSZNGRK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "L'AGRATY Faux Rabbit Fur Bubble Throw Blanket, Cocoa Brown, 50x60",
+        "url": "https://www.amazon.com/dp/B0DHRN56F5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Frebeauty 3-Drawer Jewelry Box with Clear Lid, brown",
+        "url": "https://www.amazon.com/dp/B0DQD7YCXR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Uvvyui Cream Bouclé Knot Pillow Ball",
+        "url": "https://www.amazon.com/dp/B0B34PTY3X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oval Vanity Mirror with Stand, Black Metal Frame, 5.9x8.9 (mirror glass restored after cutout)",
+        "url": "https://www.amazon.com/dp/B0GCZPG5VT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UIXIZQ Chocolate Suede Makeup Pouch",
+        "url": "https://www.amazon.com/dp/B0FYFXSVYC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Pillar Candle in Glass Jar, 2.24x7 in",
+        "url": "https://www.amazon.com/dp/B0FT41TXHZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Crackle Glaze Footed Ring Dish",
+        "url": "https://www.amazon.com/dp/B0H61SF81S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Claw Hair Clip (model inset cropped off)",
+        "url": "https://www.amazon.com/dp/B0DMSZNGRK?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-travel-girl",
+    "title": "The Moody Travel Girl Edit",
+    "image": "/boards/moody-travel-girl.png",
+    "items": [
+      {
+        "name": "Puffy Quilted Travel Duffel Weekender, Chocolate",
+        "url": "https://www.amazon.com/dp/B0H7VKWTG1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Carriediosa 100% Cotton Muslin Throw, Chocolate",
+        "url": "https://www.amazon.com/dp/B0F29DC2G3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "U+U 5-Set Leopard Packing Cubes",
+        "url": "https://www.amazon.com/dp/B0FP56L2VW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Genuine Leather Dark Brown Cosmetic Pouch",
+        "url": "https://www.amazon.com/dp/B09C5SXSVS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Genuine Leather Travel Jewelry Case with Mirror",
+        "url": "https://www.amazon.com/dp/B0FF54MVG9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Maruse Italian Leather Passport Holder, Black",
+        "url": "https://www.amazon.com/dp/B01LX385MD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leopard Grain Leather Luggage Tags, 2-Pack",
+        "url": "https://www.amazon.com/dp/B0BYZ5T4B5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "kuangre Gold Fluted Perfume Atomizer 10ml",
+        "url": "https://www.amazon.com/dp/B0FRS7DXKS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "midnight-movie-night",
+    "title": "Midnight Movie Night",
+    "image": "/boards/midnight-movie-night.png",
+    "items": [
+      {
+        "name": "PAVILIA Maroon Red Knit Throw Blanket 50x60",
+        "url": "https://www.amazon.com/dp/B08DBZTZJP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Velvet Tufted Square Floor Pillow",
+        "url": "https://www.amazon.com/dp/B0DV5STPKN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Saypeacher Vintage Film Reel & Projector 3-Panel Canvas Wall Art",
+        "url": "https://www.amazon.com/dp/B0C2YXJNZ8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gibson Home Urban Cafe Black & Red Stoneware Serving Bowl 10.3\"",
+        "url": "https://www.amazon.com/dp/B0CXHPPPXB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "ZMOWIPDL Grey Hobnail Drinking Glasses, Set of 6",
+        "url": "https://www.amazon.com/dp/B0D2D474PW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Folinstall Wide Mouth Glass Jar with Lid, 1/2 Gal",
+        "url": "https://www.amazon.com/dp/B07GZ76ZZ6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Acacia Wood Serving Tray",
+        "url": "https://www.amazon.com/dp/B0C6T55PNX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "zeochyni Vintage Brass Gold Taper Candle Holders, Set of 2",
+        "url": "https://www.amazon.com/dp/B0D4DDQPDW?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-sunday-brunch",
+    "title": "The Moody Sunday Brunch Edit",
+    "image": "/boards/moody-sunday-brunch.png",
+    "items": [
+      {
+        "name": "Acacia Wood Breakfast Serving Tray with Handles, 17x12\"",
+        "url": "https://www.amazon.com/dp/B0DYRZXWHR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LERATIO Reactive Glaze Ceramic Dinner Plates, Set of 6, 10.5\"",
+        "url": "https://www.amazon.com/dp/B0BFGWHTHV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "100% Cotton Brown Plaid Table Napkins, Set of 4",
+        "url": "https://www.amazon.com/dp/B07G61VX2B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Retro Vintage Amber Glass Butter Dish with Lid",
+        "url": "https://www.amazon.com/dp/B0DSVP25J1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NIKKY HOME Gold Hammered Taper Candle Holders, Set of 3",
+        "url": "https://www.amazon.com/dp/B0B1M6YLKS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hario Colors Stackable Amber Glass Mug, 300ml",
+        "url": "https://www.amazon.com/dp/B0D6CC8CX4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bandesun Diamond-Pattern Grey Glass Tumblers, Set of 6",
+        "url": "https://www.amazon.com/dp/B09B6Y9YTG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Stainless Steel Mini Coffee & Jam Spoons, Set of 6",
+        "url": "https://www.amazon.com/dp/B0F2HW4PKN?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "college-girl-christmas-list",
+    "title": "College Girl Christmas List",
+    "image": "/boards/college-girl-christmas-list.png",
+    "items": [
+      {
+        "name": "100% Mulberry Silk Pillowcase, 19 Momme, Taupe, Standard",
+        "url": "https://www.amazon.com/dp/B0CJ91WSZ1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LIGHT FLIGHT Quilted Travel Toiletry Bag with Handle, brown",
+        "url": "https://www.amazon.com/dp/B0GN26J1VW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Packing Cubes 7-Set, cream",
+        "url": "https://www.amazon.com/dp/B0G7DYT41B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "OOW Fuzzy Faux Fur Slippers, taupe/cream",
+        "url": "https://www.amazon.com/dp/B0FKSQGLB7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BuyCard Foldable Travel Necklace Organizer Roll, Brown",
+        "url": "https://www.amazon.com/dp/B0HFLY112X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MIULEE Sherpa Faux Fur Pillow Covers 18x18, Oatmeal, set of 2",
+        "url": "https://www.amazon.com/dp/B0DFYN9J92?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Satin Heatless Curling Rod Headband with Claw Clip, black",
+        "url": "https://www.amazon.com/dp/B0995G69ZJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Soft Zip Electronics/Accessories Case, black fabric (tech organizer; 4.6★, 1,667)",
+        "url": "https://www.amazon.com/dp/B071X3KTFL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "100% Mulberry Silk Pillowcase, 19 Momme, Taupe, Standard",
+        "url": "https://www.amazon.com/dp/B0CJ91WSZ1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LIGHT FLIGHT Quilted Travel Toiletry Bag with Handle, brown",
+        "url": "https://www.amazon.com/dp/B0GN26J1VW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Packing Cubes 7-Set, cream",
+        "url": "https://www.amazon.com/dp/B0G7DYT41B?tag=feelingpret0e-20"
+      },
+      {
+        "name": "OOW Fuzzy Faux Fur Slippers, taupe/cream",
+        "url": "https://www.amazon.com/dp/B0FKSQGLB7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BuyCard Foldable Travel Necklace Organizer Roll, Brown",
+        "url": "https://www.amazon.com/dp/B0HFLY112X?tag=feelingpret0e-20"
+      },
+      {
+        "name": "VLANDO Small Travel Jewelry Box, Beige",
+        "url": "https://www.amazon.com/dp/B0CL34BL6Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Satin Heatless Curling Rod Headband with Claw Clip, black",
+        "url": "https://www.amazon.com/dp/B0995G69ZJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Soft Zip Electronics/Accessories Case, black fabric (tech organizer; 4.6★, 1,667)",
+        "url": "https://www.amazon.com/dp/B071X3KTFL?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-coffee-table-styling",
+    "title": "Moody Coffee Table Styling",
+    "image": "/boards/moody-coffee-table-styling.png",
+    "items": [
+      {
+        "name": "Walnut Rectangular Serving Tray with Handles",
+        "url": "https://www.amazon.com/dp/B0G1YFBKNF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Arina Rustic Cream Stone-Look Round Vase, 11\"",
+        "url": "https://www.amazon.com/dp/B0FNS3WKG6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Granite-Textured Matte Black Pedestal Bowl, 11\"",
+        "url": "https://www.amazon.com/dp/B0DNN64R3P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked Ribbed Glass Candle Holder",
+        "url": "https://www.amazon.com/dp/B0H48ZC63G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Wood Box with Lid & Brass Knob",
+        "url": "https://www.amazon.com/dp/B0FX39P7PH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Natural Brown Marble Coasters, Set of 4",
+        "url": "https://www.amazon.com/dp/B0GTRMMLDV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Natural Travertine Decorative Bowl, 7.8\"",
+        "url": "https://www.amazon.com/dp/B0GWPG79TF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte Black Stainless Steel Candle Snuffer",
+        "url": "https://www.amazon.com/dp/B0FC6ML522?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "moody-bride-edit",
+    "title": "The Moody Bride Edit",
+    "image": "/boards/moody-bride-edit.png",
+    "items": [
+      {
+        "name": "Black satin long kimono robe (PRODESIGN, polyester)",
+        "url": "https://www.amazon.com/dp/B08V95BTWB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Oirlv gold 3-layer jewelry travel case (vegan leather)",
+        "url": "https://www.amazon.com/dp/B073VCFQ25?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Emprier pearl clutch",
+        "url": "https://www.amazon.com/dp/B0DLBG8N9T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Creative Co-Op embossed metal hand mirror, antique gold",
+        "url": "https://www.amazon.com/dp/B0GLYNLYYV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Champagne satin bow slippers",
+        "url": "https://www.amazon.com/dp/B0GS958Y9Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold pearl U hair pins (Charonle)",
+        "url": "https://www.amazon.com/dp/B095X54Y59?tag=feelingpret0e-20"
+      },
+      {
+        "name": "OwMell gold pearl drop earrings",
+        "url": "https://www.amazon.com/dp/B087WTKJ9V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black velvet ring box (ZUFECY)",
+        "url": "https://www.amazon.com/dp/B0F9K2L8M5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-dark-and-dreamy-guest-suite",
+    "title": "The Dark & Dreamy Guest Suite",
+    "image": "/boards/the-dark-and-dreamy-guest-suite.png",
+    "items": [
+      {
+        "name": "Walnut wood folding luggage rack (LZMS)",
+        "url": "https://www.amazon.com/dp/B0D9GCZ25H?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark floral framed wall art, 9 x 11 (Vbaourut)",
+        "url": "https://www.amazon.com/dp/B0GYDCVW8G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown velvet pillow covers, 18 x 18, set of 2 (GIGIZAZA)",
+        "url": "https://www.amazon.com/dp/B0FH4WNJWS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chunky chenille knit throw, mocha brown (EVERGRACEHOME)",
+        "url": "https://www.amazon.com/dp/B0FC6843CP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hammered smoke grey glass bedside carafe set (gökotta)",
+        "url": "https://www.amazon.com/dp/B0D45PLW87?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber fluted glass votive holders, set of 6 (Kate Aspen)",
+        "url": "https://www.amazon.com/dp/B0BJGXKD9H?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Acacia wood valet tray",
+        "url": "https://www.amazon.com/dp/B0DT1X5W9W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber ribbed glass taper holders, 10 pcs (Hewory)",
+        "url": "https://www.amazon.com/dp/B0D813CHMK?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "dinner-after-dark",
+    "title": "Dinner After Dark",
+    "image": "/boards/dinner-after-dark.png",
+    "items": [
+      {
+        "name": "Matte black stoneware dinner plates, set of 6 (AmorArc)",
+        "url": "https://www.amazon.com/dp/B093G66YVD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble board with handle (Bloomingville)",
+        "url": "https://www.amazon.com/dp/B0BV45DCQY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked glass vase (GeLive)",
+        "url": "https://www.amazon.com/dp/B0BZVNSRV9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smokey black hobnail goblets, set of 6 (Yungala)",
+        "url": "https://www.amazon.com/dp/B0B62BZJRQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "100% pure linen dinner napkins, brown, set of 4 (Solino Home)",
+        "url": "https://www.amazon.com/dp/B083Z9MG2G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vintage gold cast iron taper holders, set of 2",
+        "url": "https://www.amazon.com/dp/B0H7RWNYRJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vintage carved gold flatware, 40 pc (Meythway)",
+        "url": "https://www.amazon.com/dp/B0C53SQYQY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble salt cellar with lid (HESHIBI)",
+        "url": "https://www.amazon.com/dp/B0BN54M4FQ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-master-closet-edit",
+    "title": "The Moody Master Closet Edit",
+    "image": "/boards/the-moody-master-closet-edit.png",
+    "items": [
+      {
+        "name": "Black arched full length floor mirror, 56 x 15 (Delma)",
+        "url": "https://www.amazon.com/dp/B0D16T4G91?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stackable black metal purse organizer rack (HapiRm)",
+        "url": "https://www.amazon.com/dp/B0GX4SZ9D1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Twin valet stand, walnut (Proman Sakura)",
+        "url": "https://www.amazon.com/dp/B01N6J7LIF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal boot rack, 6 pairs",
+        "url": "https://www.amazon.com/dp/B0CFZVQT6Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Slim black velvet hangers (Amazon Basics)",
+        "url": "https://www.amazon.com/dp/B00FXNAAW2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black velvet stackable jewelry trays, 4 pack (AojSup)",
+        "url": "https://www.amazon.com/dp/B0FH3YX5R4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Top-grain leather 4 watch case, espresso (TAWBURY)",
+        "url": "https://www.amazon.com/dp/B0D57ZRVYJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Solid walnut vanity/perfume tray (BEECO)",
+        "url": "https://www.amazon.com/dp/B0DR2VYSDJ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "midnight-coffee-ritual",
+    "title": "Midnight Coffee Ritual",
+    "image": "/boards/midnight-coffee-ritual.png",
+    "items": [
+      {
+        "name": "Walnut wood mug tree, 6 hooks (Aomomery)",
+        "url": "https://www.amazon.com/dp/B0FBRJ6KQK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber glass apothecary bottle with ground glass stopper, 250 ml",
+        "url": "https://www.amazon.com/dp/B0CYSF58C9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold milk frothing pitcher, 20 oz (Amrules)",
+        "url": "https://www.amazon.com/dp/B0H28V87Y9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black marble tray, 12 x 8",
+        "url": "https://www.amazon.com/dp/B0BR7ND7MK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black ceramic sugar bowl with gold rim, lid and spoon (HAOTOP)",
+        "url": "https://www.amazon.com/dp/B0F3D8VNLH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoke glass mugs with walnut handles, 12 oz, set of 2",
+        "url": "https://www.amazon.com/dp/B0G6Z79GG9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black espresso cups, 3 oz, set of 2 (Folk Ceramics)",
+        "url": "https://www.amazon.com/dp/B0BQLJ24NK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Long handle gold coffee spoons, set of 4",
+        "url": "https://www.amazon.com/dp/B091CHRKVH?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-gift-edit",
+    "title": "The Moody Gift Edit",
+    "image": "/boards/the-moody-gift-edit.png",
+    "items": [
+      {
+        "name": "100% cashmere scarf, burgundy (Tavio Velliani)",
+        "url": "https://www.amazon.com/dp/B0H55P1Z4Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Genuine leather journal (KomalC)",
+        "url": "https://www.amazon.com/dp/B074ZLWYJ6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy mercury glass votive holders, 12 pcs (Volens)",
+        "url": "https://www.amazon.com/dp/B0DH1YRRMC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber crystal rocks glasses, set of 2 (Viski)",
+        "url": "https://www.amazon.com/dp/B0CZS33RDF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Genuine leather mini jewelry box, black",
+        "url": "https://www.amazon.com/dp/B0GHDN6ML2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Silk sleep mask, black",
+        "url": "https://www.amazon.com/dp/B07J41LJJZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chunky 14K gold plated huggie hoop earrings (Silvora)",
+        "url": "https://www.amazon.com/dp/B0GSYHNXCM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold candle snuffer",
+        "url": "https://www.amazon.com/dp/B0GR4VHJP5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "after-dark-outdoor",
+    "title": "After Dark Outdoor",
+    "image": "/boards/after-dark-outdoor.png",
+    "items": [
+      {
+        "name": "Tabletop alcohol fireplace, glass and black cast iron",
+        "url": "https://www.amazon.com/dp/B0HLKNXK53?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Heathered indoor/outdoor flatweave rug, charcoal (Unique Loom)",
+        "url": "https://www.amazon.com/dp/B0192IBGQ2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal candle lantern, 20 in (Bdor)",
+        "url": "https://www.amazon.com/dp/B0B2C5KGNP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black hurricane pillar candle holders, set of 2 (NUPTIO)",
+        "url": "https://www.amazon.com/dp/B0D833KGSB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Outdoor waterproof pillow covers, carbon gray, 18 x 18, set of 2 (HER HWA)",
+        "url": "https://www.amazon.com/dp/B0FYC5TB8J?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Teak wood serving tray (Vesta Homes)",
+        "url": "https://www.amazon.com/dp/B0CG6CVRXR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Matte black stoneware dinnerware, 12 pc (E-far)",
+        "url": "https://www.amazon.com/dp/B0DR89LBZ2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smoked wine glasses, set of 6 (Classic Touch)",
+        "url": "https://www.amazon.com/dp/B0CP9TXZ4F?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-gift-guide",
+    "title": "The Moody Gift Guide",
+    "image": "/boards/the-moody-gift-guide.png",
+    "items": [
+      {
+        "name": "Cashmere scarf, burgundy (100% cashmere)",
+        "url": "https://www.amazon.com/dp/B0H55P1Z4Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather journal (genuine leather)",
+        "url": "https://www.amazon.com/dp/B074ZLWYJ6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mercury glass votives, burgundy (12 pcs)",
+        "url": "https://www.amazon.com/dp/B0DH1YRRMC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber rocks glasses (crystal, set of 2)",
+        "url": "https://www.amazon.com/dp/B0CZS33RDF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather jewelry box, black (mini travel)",
+        "url": "https://www.amazon.com/dp/B0GHDN6ML2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Silk sleep mask, black",
+        "url": "https://www.amazon.com/dp/B07J41LJJZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Huggie hoop earrings (chunky 14K gold plated)",
+        "url": "https://www.amazon.com/dp/B0GSYHNXCM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Candle snuffer, gold",
+        "url": "https://www.amazon.com/dp/B0GR4VHJP5?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-pet-parent-edit",
+    "title": "The Moody Pet Parent Edit",
+    "image": "/boards/the-moody-pet-parent-edit.png",
+    "items": [
+      {
+        "name": "Gray bolster dog bed, $18.96",
+        "url": "https://www.amazon.com/dp/B094HXYVC2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood raised feeder with ceramic bowl, $100.69",
+        "url": "https://www.amazon.com/dp/B01GKB97TW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Irish wool blackwatch plaid throw, $227.00",
+        "url": "https://www.amazon.com/dp/B01MYRZI5P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Woven hyacinth bone-shaped toy basket, $32.99",
+        "url": "https://www.amazon.com/dp/B0DCTXTLT8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black ceramic dog bowl, $16.99",
+        "url": "https://www.amazon.com/dp/B0CJG2WLJK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Plain black ceramic jar with lid (treat jar), $22.98",
+        "url": "https://www.amazon.com/dp/B0DMDY5NQ4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Short black leather leash, $9.98",
+        "url": "https://www.amazon.com/dp/B0D9Y9WJBF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black slate board (set of 8), used as a pet bowl placemat, $32.38",
+        "url": "https://www.amazon.com/dp/B0FY5MX999?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bronze paw-print leash hook, $16.99",
+        "url": "https://www.amazon.com/dp/B01LZGQKA1?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-moody-tween-girl-edit",
+    "title": "The Moody Tween Girl Edit",
+    "image": "/boards/the-moody-tween-girl-edit.png",
+    "items": [
+      {
+        "name": "Blush & pink abstract wall art (set of 2, no text), $9.99",
+        "url": "https://www.amazon.com/dp/B0F32NSCLY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black metal heart hanging mirror, $45.69",
+        "url": "https://www.amazon.com/dp/B0CCX4HT7Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy velvet bow pillow covers (2), $24.99",
+        "url": "https://www.amazon.com/dp/B0H9SMDKDT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate checkered throw, $12.99",
+        "url": "https://www.amazon.com/dp/B0D25Y3L41?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy velvet travel jewelry box, $19.99",
+        "url": "https://www.amazon.com/dp/B0G3T88TCX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black jewelry tree stand with walnut base, $17.99",
+        "url": "https://www.amazon.com/dp/B082B59374?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy knit slipper socks, $9.99",
+        "url": "https://www.amazon.com/dp/B0FGPFGSKL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique gold metal vanity mirror (hand-held or tabletop), $24.75",
+        "url": "https://www.amazon.com/dp/B07CHHG5X8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold photo clip holders, $8.59",
+        "url": "https://www.amazon.com/dp/B0BMQ2J4D4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "black-ceramic-pumpkin-gold-stem",
     "title": "Black Ceramic Pumpkin with Gold Stem",
     "image": "/boards/black-ceramic-pumpkin-gold-stem.png",
@@ -1020,7 +3246,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "cozy-girl-christmas",
     "title": "Cozy Girl Christmas",
     "image": "/boards/cozy-girl-christmas.png",
@@ -1047,7 +3273,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "dark-and-girly-holiday-finds",
     "title": "Dark & Girly Holiday Finds",
     "image": "/boards/dark-and-girly-holiday-finds.png",
@@ -1074,7 +3300,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "the-golden-hour-edit",
     "title": "The Golden Hour Edit",
     "image": "/boards/the-golden-hour-edit.png",
@@ -1097,7 +3323,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "the-moody-hot-tub-edit",
     "title": "The Moody Hot Tub Edit",
     "image": "/boards/the-moody-hot-tub-edit.png",
@@ -1120,7 +3346,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "the-moody-picnic-edit",
     "title": "The Moody Picnic Edit",
     "image": "/boards/the-moody-picnic-edit.png",
@@ -1166,7 +3392,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "closet-after-dark",
     "title": "Closet After Dark",
     "image": "/boards/closet-after-dark.png",
@@ -1189,7 +3415,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "the-layered-moody-bed",
     "title": "The Layered Moody Bed",
     "image": "/boards/the-layered-moody-bed.png",
@@ -1212,7 +3438,7 @@ export const boards:Board[]=[
       }
     ]
   },
-{
+  {
     "slug": "the-dusty-rose-vanity-edit",
     "title": "The Dusty Rose Vanity Edit",
     "image": "/boards/the-dusty-rose-vanity-edit.png",

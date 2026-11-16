@@ -1,6 +1,22 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"the-moody-thanksgiving-table",name:"The Moody Thanksgiving Table",image:"/stories/the-moody-thanksgiving-table.png",order:52},
+  {slug:"the-pie-and-dessert-bar",name:"The Pie & Dessert Bar",image:"/stories/the-pie-and-dessert-bar.png",order:53},
+  {slug:"hostess-serveware",name:"Hostess Serveware",image:"/stories/hostess-serveware.png",order:54},
+  {slug:"after-dinner-cozy",name:"After-Dinner Cozy",image:"/stories/after-dinner-cozy.png",order:55},
+  {slug:"black-friday-preview",name:"Black Friday Preview",image:"/stories/black-friday-preview.png",order:56},
+  {slug:"friendsgiving-edit",name:"Friendsgiving Edit",image:"/stories/friendsgiving-edit.png",order:57},
+  {slug:"after-dark-entertaining",name:"After Dark Entertaining",image:"/stories/after-dark-entertaining.png",order:58},
+  {slug:"the-sunday-reset",name:"The Sunday Reset",image:"/stories/the-sunday-reset.png",order:59},
+  {slug:"the-gift-closet",name:"The Gift Closet",image:"/stories/the-gift-closet.png",order:60},
+  {slug:"moody-just-to-be-moody",name:"Moody Just to Be Moody",image:"/stories/moody-just-to-be-moody.png",order:61},
+  {slug:"desk-after-dark",name:"Desk After Dark",image:"/stories/desk-after-dark.png",order:62},
+  {slug:"bedroom-after-dark",name:"Bedroom After Dark",image:"/stories/bedroom-after-dark.png",order:63},
+  {slug:"the-moody-organized-home",name:"The Moody Organized Home",image:"/stories/the-moody-organized-home.png",order:64},
+  {slug:"wake-up-moody-and-refreshed",name:"Wake Up Moody and Refreshed",image:"/stories/wake-up-moody-and-refreshed.png",order:65},
+  {slug:"thank-you-for-hosting-gifts",name:"Thank You for Hosting Gifts",image:"/stories/thank-you-for-hosting-gifts.png",order:66},
+  {slug:"the-dark-and-dreamy-library-edit",name:"The Dark & Dreamy Library Edit",image:"/stories/the-dark-and-dreamy-library-edit.png",order:67},
   {slug:"porch-noir-arch",name:"Porch Noir",image:"/stories/porch-noir-arch.png",order:49},
   {slug:"moody-game-night-arch",name:"Moody Game Night",image:"/stories/moody-game-night-arch.png",order:50},
   {slug:"moody-italian-dinner-classic",name:"Moody Italian Dinner Night",image:"/stories/moody-italian-dinner-classic.png",order:51},
