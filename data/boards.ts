@@ -3,6 +3,254 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-after-dark-living-room",
+    "title": "The After Dark Living Room",
+    "image": "/boards/the-after-dark-living-room.png",
+    "items": [
+      {
+        "name": "Dark Wood Pleated Shade Lamp",
+        "url": "https://www.target.com/p/-/A-95005664"
+      },
+      {
+        "name": "Evergreen Chunky Chenille Throw",
+        "url": "https://www.target.com/p/-/A-95177485"
+      },
+      {
+        "name": "Dark Sage Chenille Throw",
+        "url": "https://www.target.com/p/-/A-1013018796"
+      },
+      {
+        "name": "Chocolate Velvet Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0CCYD7PJ4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Taper Holders",
+        "url": "https://www.target.com/p/-/A-94586657"
+      },
+      {
+        "name": "Antique Brass Ribbed Candleholders",
+        "url": "https://www.target.com/p/-/A-94688433"
+      }
+    ]
+  },
+  {
+    "slug": "the-sculptural-entryway",
+    "title": "The Sculptural Entryway",
+    "image": "/boards/the-sculptural-entryway.png",
+    "items": [
+      {
+        "name": "Black Arched Mantel Mirror",
+        "url": "https://kateandlaurel.com/products/travis-arch-framed-wall-mirror?variant=43685495046211"
+      },
+      {
+        "name": "Dark Brown Gallery Frame",
+        "url": "https://www.target.com/p/-/A-1006978980"
+      },
+      {
+        "name": "Rustic Brown Ceramic Vase",
+        "url": "https://www.target.com/p/-/A-94685983"
+      },
+      {
+        "name": "Black Twisted Ceramic Bowl",
+        "url": "https://www.target.com/p/-/A-94818544"
+      },
+      {
+        "name": "Short Black Twisted Ceramic Vase",
+        "url": "https://www.target.com/p/-/A-94818547"
+      },
+      {
+        "name": "Rustic Ceramic Pedestal Bowl",
+        "url": "https://www.target.com/p/-/A-94687005"
+      }
+    ]
+  },
+  {
+    "slug": "olive-and-espresso-evenings",
+    "title": "Olive & Espresso Evenings",
+    "image": "/boards/olive-and-espresso-evenings.png",
+    "items": [
+      {
+        "name": "Antique Brass Arched Mirror",
+        "url": "https://www.target.com/p/-/A-95046403"
+      },
+      {
+        "name": "Green Ribbed Glass Pedestal Bowl",
+        "url": "https://www.target.com/p/-/A-95016187"
+      },
+      {
+        "name": "Brown Twisted Wood Frame",
+        "url": "https://www.target.com/p/-/A-95046186"
+      },
+      {
+        "name": "Tall Black Twisted Ceramic Vase",
+        "url": "https://www.target.com/p/-/A-94818545"
+      },
+      {
+        "name": "Brown & Natural Painted Vase",
+        "url": "https://www.target.com/p/-/A-95012223"
+      },
+      {
+        "name": "Matte Black Ceramic Candleholders",
+        "url": "https://www.amazon.com/dp/B0HKWCZNVK?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-dark-coquette-girl-room",
+    "title": "The Dark Coquette Girl Room",
+    "image": "/boards/the-dark-coquette-girl-room.png",
+    "items": [
+      {
+        "name": "Dusty Pink Ruffle Comforter Set",
+        "url": "https://www.amazon.com/dp/B0FJLY6R42?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Scalloped Wood Nightstand",
+        "url": "https://www.amazon.com/dp/B0G3TF415S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Antique Gold Heart Mirror",
+        "url": "https://www.amazon.com/dp/B0HDNP8XHC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Velvet Curtains",
+        "url": "https://www.amazon.com/dp/B0BB1NZGJ7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Velvet Bow Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0HH3GD5WB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dusty Pink Velvet Jewelry Boxes",
+        "url": "https://www.amazon.com/dp/B0H6ZD638H?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-morning-pour-edit",
+    "title": "The Morning Pour Edit",
+    "image": "/boards/the-morning-pour-edit.png",
+    "items": [
+      {
+        "name": "Matte Black Ceramic Mugs",
+        "url": "https://www.amazon.com/dp/B07P1G8MHJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Syrup Bottles, Bronze Pumps",
+        "url": "https://www.amazon.com/dp/B0GBV329MJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Milk Pitcher",
+        "url": "https://www.amazon.com/dp/B0FL23T83J?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Pour-Over Stand",
+        "url": "https://www.amazon.com/dp/B0GWQ351YG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Glass Coffee Canister",
+        "url": "https://www.amazon.com/dp/B00VB20MMM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Tray",
+        "url": "https://www.amazon.com/dp/B0CLKFJ6VQ?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-cozy-patio-edit",
+    "title": "The Cozy Patio Edit",
+    "image": "/boards/the-cozy-patio-edit.png",
+    "items": [
+      {
+        "name": "Black Propane Fire Pit Table",
+        "url": "https://www.amazon.com/dp/B0G49HT8N8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Teak Candle Lantern",
+        "url": "https://www.amazon.com/dp/B07PCQNY71?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Lanterns",
+        "url": "https://www.amazon.com/dp/B0CSP2QJ5F?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate Outdoor Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0H6XHLL97?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown 100% Wool Throw",
+        "url": "https://www.amazon.com/dp/B0FD7WD8FT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Teak 2-Tier Side Table",
+        "url": "https://www.amazon.com/dp/B0FSRZZ91R?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "movie-night-after-dark",
+    "title": "Movie Night After Dark",
+    "image": "/boards/movie-night-after-dark.png",
+    "items": [
+      {
+        "name": "Chocolate Chunky Knit Throw",
+        "url": "https://www.amazon.com/dp/B0D3WVB6JR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wooden Popcorn Bowl",
+        "url": "https://www.amazon.com/dp/B000Y528F6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Smokey Glass Hobnail Bowls",
+        "url": "https://www.amazon.com/dp/B0DXMH5658?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Couch Arm Tray",
+        "url": "https://www.amazon.com/dp/B0H288YHCG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black & Brass Metal Table Lamp",
+        "url": "https://www.amazon.com/dp/B0CBK4WJHS?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ivory Cotton Knit Pouf",
+        "url": "https://www.amazon.com/dp/B00KW2VCBC?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "shelf-after-dark",
+    "title": "Shelf After Dark",
+    "image": "/boards/shelf-after-dark.png",
+    "items": [
+      {
+        "name": "Walnut Pedestal Riser",
+        "url": "https://www.amazon.com/dp/B0BLN7QCW9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brass Picture Light",
+        "url": "https://www.amazon.com/dp/B0DHTTJCTF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Framed Moody Landscape Print",
+        "url": "https://www.amazon.com/dp/B0GRNDLFKZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Bud Vases",
+        "url": "https://www.amazon.com/dp/B0HJ2255K9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Wood Knot",
+        "url": "https://www.amazon.com/dp/B0HR5CJSN8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Marble Bookends",
+        "url": "https://www.amazon.com/dp/B0CQY19M7R?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "for-him-elevated",
     "title": "For Him, Elevated",
     "image": "/boards/for-him-elevated.png",

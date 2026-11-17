@@ -1,6 +1,14 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"the-after-dark-living-room",name:"The After Dark Living Room",image:"/stories/the-after-dark-living-room.png",order:68},
+  {slug:"the-sculptural-entryway",name:"The Sculptural Entryway",image:"/stories/the-sculptural-entryway.png",order:69},
+  {slug:"olive-and-espresso-evenings",name:"Olive & Espresso Evenings",image:"/stories/olive-and-espresso-evenings.png",order:70},
+  {slug:"the-dark-coquette-girl-room",name:"The Dark Coquette Girl Room",image:"/stories/the-dark-coquette-girl-room.png",order:71},
+  {slug:"the-morning-pour-edit",name:"The Morning Pour Edit",image:"/stories/the-morning-pour-edit.png",order:72},
+  {slug:"the-cozy-patio-edit",name:"The Cozy Patio Edit",image:"/stories/the-cozy-patio-edit.png",order:73},
+  {slug:"movie-night-after-dark",name:"Movie Night After Dark",image:"/stories/movie-night-after-dark.png",order:74},
+  {slug:"shelf-after-dark",name:"Shelf After Dark",image:"/stories/shelf-after-dark.png",order:75},
   {slug:"the-moody-thanksgiving-table",name:"The Moody Thanksgiving Table",image:"/stories/the-moody-thanksgiving-table.png",order:52},
   {slug:"the-pie-and-dessert-bar",name:"The Pie & Dessert Bar",image:"/stories/the-pie-and-dessert-bar.png",order:53},
   {slug:"hostess-serveware",name:"Hostess Serveware",image:"/stories/hostess-serveware.png",order:54},
