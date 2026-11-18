@@ -2,6 +2,13 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-college-girl-edit",
+  "title": "The College Girl Edit",
+  "feed": "/ready/the-college-girl-edit-feed.jpg",
+  "story": "/stories/the-college-girl-edit.png",
+  "caption": "Campus life, but make it cozy. A few little luxuries for dorm days, late-night study sessions, and everything in between. 🤎\n\n#ad #CollegeGirlGifts #DormEssentials #CollegeGiftGuide #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-college-girl-edit\n\n1. Cream Pebbled Leather Makeup Bag\n2. Cream Leather Jewelry Case\n3. Owala FreeSip 24 oz, Black Cherry\n4. Coach Audrey Crossbody, Chalk\n5. Cream Faux Fur Slippers\n6. Bedsure Grey Sherpa Throw\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-after-dark-living-room",
   "title": "The After Dark Living Room",
   "feed": "/ready/the-after-dark-living-room-feed.jpg",

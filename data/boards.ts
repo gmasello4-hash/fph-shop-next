@@ -3,6 +3,37 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-college-girl-edit",
+    "title": "The College Girl Edit",
+    "image": "/boards/the-college-girl-edit.png",
+    "items": [
+      {
+        "name": "Cream Pebbled Leather Makeup Bag",
+        "url": "https://www.amazon.com/dp/B0GT4PQRL7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Leather Jewelry Case",
+        "url": "https://www.amazon.com/dp/B0F8ZRVXT9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Owala FreeSip 24 oz, Black Cherry",
+        "url": "https://www.amazon.com/dp/B0FJN3BTPV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Coach Audrey Crossbody, Chalk",
+        "url": "https://www.amazon.com/dp/B0GD8B8NN2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Faux Fur Slippers",
+        "url": "https://www.amazon.com/dp/B09TVHS5CG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bedsure Grey Sherpa Throw",
+        "url": "https://www.amazon.com/dp/B0158EQJSY?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-after-dark-living-room",
     "title": "The After Dark Living Room",
     "image": "/boards/the-after-dark-living-room.png",
