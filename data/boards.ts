@@ -3,6 +3,37 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-everything-shower-edit",
+    "title": "The Everything Shower Edit",
+    "image": "/boards/the-everything-shower-edit.png",
+    "items": [
+      {
+        "name": "Real Dried Eucalyptus Bundle",
+        "url": "https://www.amazon.com/dp/B0B18N8N45?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Teak Shower Bench",
+        "url": "https://www.amazon.com/dp/B0H44Q8RPN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold Metal Cordless Shower Lamp",
+        "url": "https://www.amazon.com/dp/B0GZZMHGY3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Pump Bottles, Set of 2",
+        "url": "https://www.amazon.com/dp/B0FBL9V33T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Brown Waffle Bath Towels",
+        "url": "https://www.amazon.com/dp/B0BDKBNHZC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Marble Soap Dish",
+        "url": "https://www.amazon.com/dp/B098Q331CB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-college-girl-edit",
     "title": "The College Girl Edit",
     "image": "/boards/the-college-girl-edit.png",

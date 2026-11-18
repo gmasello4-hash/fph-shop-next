@@ -2,6 +2,13 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-everything-shower-edit",
+  "title": "The Everything Shower Edit",
+  "feed": "/ready/the-everything-shower-edit-feed.jpg",
+  "story": "/stories/the-everything-shower-edit.png",
+  "caption": "Turn your everyday shower into a moody spa after dark. A warm glow, amber glass, and a little eucalyptus steam. 🌿\n\n#ad #ShowerAesthetic #MoodyBathroom #SpaAtHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-everything-shower-edit\n\n1. Real Dried Eucalyptus Bundle\n2. Black Teak Shower Bench\n3. Gold Metal Cordless Shower Lamp\n4. Amber Glass Pump Bottles, Set of 2\n5. Dark Brown Waffle Bath Towels\n6. Black Marble Soap Dish\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-college-girl-edit",
   "title": "The College Girl Edit",
   "feed": "/ready/the-college-girl-edit-feed.jpg",
