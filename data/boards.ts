@@ -16,6 +16,10 @@ export const boards:Board[]=[
         "url": "https://www.nordstromrack.com/s/marcus-adler-faux-fur-pom-honeycomb-knit-beanie/8015162"
       },
       {
+        "name": "Matte Black Stoneware Mug",
+        "url": "https://www.walmart.com/ip/Mainstays-Alessandra-Matte-Black-Stoneware-Mug-14-Ounce/14964653505"
+      },
+      {
         "name": "Amber & Cedar Candle",
         "url": "https://www.target.com/p/amber-glass-wooden-wick-amber-and-cedar-jar-candle-13oz-threshold-8482/-/A-90011052"
       },
@@ -34,37 +38,14 @@ export const boards:Board[]=[
     ]
   },
   {
-    "slug": "midnight-in-brrr-basket",
-    "title": "The Midnight In Brrr Basket",
-    "image": "/boards/midnight-in-brrr-basket.png",
-    "items": [
-      {
-        "name": "Baltic Amber Large Jar Candle",
-        "url": "https://voluspa.com/products/large-embossed-glass-jar-candle-1-baltic-amber"
-      },
-      {
-        "name": "Antique Brass Taper Holder",
-        "url": "https://mcgeeandco.com/products/antique-brass-taper-candle-holder"
-      },
-      {
-        "name": "Natural Linen Tea Towel",
-        "url": "https://athenscooks.com/products/magiclinen-linen-tea-towels-natural-linen"
-      },
-      {
-        "name": "Godiva Dark Truffles",
-        "url": "https://www.godiva.com/products/dark-chocolate-truffles-gift-box-24pc-16264"
-      },
-      {
-        "name": "Seagrass Folio Basket",
-        "url": "https://www.target.com/p/braided-seagrass-folio-bin-brightroom-8482/-/A-86383687"
-      }
-    ]
-  },
-  {
     "slug": "espresso-and-evergreen-brrr-basket",
     "title": "The Espresso & Evergreen Brrr Basket",
     "image": "/boards/espresso-and-evergreen-brrr-basket.png",
     "items": [
+      {
+        "name": "Olive Chenille Throw",
+        "url": "https://evergracehome.com/products/chunky-moss-stitch-chenille-knit-throw?variant=50531651846438"
+      },
       {
         "name": "Black Travel Mug",
         "url": "https://www.walmart.com/ip/TAL-20-oz-Insulated-Travel-Coffee-Mug-Black/749805900"
