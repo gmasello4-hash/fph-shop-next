@@ -2,6 +2,20 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-high-school-guy-edit",
+  "title": "The High School Guy Edit",
+  "feed": "/ready/the-high-school-guy-edit-feed.jpg",
+  "story": "/stories/the-high-school-guy-edit.png",
+  "caption": "Easy, everyday upgrades for the guy who's impossible to shop for. \ud83d\udda4\n\n#ad #TeenBoyGifts #GiftsForHim #TeenGiftGuide #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-high-school-guy-edit\n\n1. Washed Black Oversized Hoodie\n2. Carhartt Black Knit Beanie\n3. Black Metal Desk Lamp\n4. Timex Weekender, Black Dial\n5. Jason Markk Essential Kit\n6. Brown Leather Tech Pouch\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-game-day-edit",
+  "title": "The Game Day Edit",
+  "feed": "/ready/the-game-day-edit-feed.jpg",
+  "story": "/stories/the-game-day-edit.png",
+  "caption": "Saturdays are for football. A few essentials for the guy who's always ready for game day.\n\n#ad #CollegeGuyGifts #GameDayEssentials #FootballSeason #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-game-day-edit\n\n1. Charcoal Cotton Quarter-Zip\n2. Nike Crew Socks, Black\n3. Brown Leather Sling Bag\n4. YETI Rambler 20 oz, Black\n5. Washed Olive Cap\n6. Ray-Ban Classic Aviators\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "cozy-and-moody-brrr-basket",
   "title": "The Cozy & Moody Brrr Basket",
   "feed": "/ready/cozy-and-moody-brrr-basket-feed.jpg",

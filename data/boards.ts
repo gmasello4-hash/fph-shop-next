@@ -3,6 +3,68 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-high-school-guy-edit",
+    "title": "The High School Guy Edit",
+    "image": "/boards/the-high-school-guy-edit.png",
+    "items": [
+      {
+        "name": "Washed Black Oversized Hoodie",
+        "url": "https://www.amazon.com/dp/B0H1CG19PQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Carhartt Black Knit Beanie",
+        "url": "https://www.amazon.com/dp/B003E7GUZU?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Metal Desk Lamp",
+        "url": "https://www.amazon.com/dp/B07QBMY1KX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Timex Weekender, Black Dial",
+        "url": "https://www.amazon.com/dp/B071KWGY4P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Jason Markk Essential Kit",
+        "url": "https://www.amazon.com/dp/B0DZ2D2FVP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Tech Pouch",
+        "url": "https://www.amazon.com/dp/B0D345HGDX?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-game-day-edit",
+    "title": "The Game Day Edit",
+    "image": "/boards/the-game-day-edit.png",
+    "items": [
+      {
+        "name": "Charcoal Cotton Quarter-Zip",
+        "url": "https://www.amazon.com/dp/B08TVKNR68?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Nike Crew Socks, Black",
+        "url": "https://www.amazon.com/dp/B083HKWZ95?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Sling Bag",
+        "url": "https://www.amazon.com/dp/B0H13ZTT3V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "YETI Rambler 20 oz, Black",
+        "url": "https://www.amazon.com/dp/B073WJMKHN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Washed Olive Cap",
+        "url": "https://www.amazon.com/dp/B01LYEJ8Y8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ray-Ban Classic Aviators",
+        "url": "https://www.amazon.com/dp/B08B8Q7M7X?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "cozy-and-moody-brrr-basket",
     "title": "The Cozy & Moody Brrr Basket",
     "image": "/boards/cozy-and-moody-brrr-basket.png",
