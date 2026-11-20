@@ -1,3 +1,19 @@
-{"name":"fph-shop-next","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},
-"dependencies":{"next":"16.4.2","react":"^19","react-dom":"^19"},
-"devDependencies":{"typescript":"^5","@types/react":"^19","@types/node":"^20"}}
+{
+  "name": "fph-shop-next",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/react": "^19",
+    "@types/node": "^20"
+  }
+}
