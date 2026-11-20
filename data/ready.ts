@@ -2,6 +2,41 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-vanilla-obsession",
+  "title": "The Vanilla Obsession",
+  "feed": "/ready/the-vanilla-obsession-feed.jpg",
+  "story": "/stories/the-vanilla-obsession.png",
+  "caption": "Some people have a signature scent. I want my entire house to smell like mine. Warm vanilla, soft cashmere, and a little bit of heaven.\n\n#ad #VanillaAesthetic #VanillaHome #ScentEdit #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-vanilla-obsession\n\n1. eos Vanilla Cashmere Body Lotion\n2. Philosophy Fresh Cream Warm Cashmere Shower Gel\n3. Mrs. Meyer's Clean Day Rain Water Laundry Detergent\n4. Vanilla Bean Room & Linen Spray\n5. Voluspa Santal Vanille Candle\n6. Vintage Bronze Adjustable Candle Warmer Lamp\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-citrus-bergamot-edit",
+  "title": "The Citrus & Bergamot Edit",
+  "feed": "/ready/the-citrus-bergamot-edit-feed.jpg",
+  "story": "/stories/the-citrus-bergamot-edit.png",
+  "caption": "Fresh, but make it expensive. Bright citrus, fresh lemon verbena, and a home that always smells beautifully put together.\n\n#ad #CitrusHome #FreshHomeScents #LuxuryHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-citrus-bergamot-edit\n\n1. Capri Blue Volcano Candle\n2. NEST Grapefruit Candle\n3. C.O. Bigelow Lemon Body Cream\n4. Capri Blue Volcano Room Spray\n5. Mrs. Meyer's Lemon Verbena Dish Soap\n6. Mrs. Meyer's Lemon Verbena Laundry Detergent\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-toasted-marshmallow-edit",
+  "title": "The Toasted Marshmallow Edit",
+  "feed": "/ready/the-toasted-marshmallow-edit-feed.jpg",
+  "story": "/stories/the-toasted-marshmallow-edit.png",
+  "caption": "Smells like toasted marshmallow, vanilla cupcakes, and canceling every plan. Sweet, cozy, and just a little smoky.\n\n#ad #MarshmallowAesthetic #CozyScents #SweetHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-toasted-marshmallow-edit\n\n1. Bath & Body Works Marshmallow Fireside Candle\n2. Sabrina Carpenter Sweet Tooth Perfume\n3. Happy Wax Vanilla Lovers Soy Wax Melts\n4. Yankee Candle Vanilla Cupcake\n5. Native Sugar Cookie Body Wash\n6. Fire Roasted Marshmallow Room Spray\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-dark-bloom-edit",
+  "title": "The Dark Bloom Edit",
+  "feed": "/ready/the-dark-bloom-edit-feed.jpg",
+  "story": "/stories/the-dark-bloom-edit.png",
+  "caption": "Florals, but darker. A little rose, a little amber, and a scent that feels romantic, mysterious, and expensive.\n\n#ad #MoodyFlorals #DarkRomantic #FloralScents #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-dark-bloom-edit\n\n1. NEST Himalayan Salt & Rosewater Candle\n2. Dr Teal's Rose Essential Oil Sugar Scrub\n3. Aroma360 Black Velvet Rose & Amber Room Spray\n4. Hempz Sweet Jasmine & Rose Body Lotion\n5. NEST Rose Noir & Oud Reed Diffuser\n6. L'Occitane Rose Hand Cream\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-smells-like-him-edit",
+  "title": "The Smells Like Him Edit",
+  "feed": "/ready/the-smells-like-him-edit-feed.jpg",
+  "story": "/stories/the-smells-like-him-edit.png",
+  "caption": "Sandalwood, cedar, a little teakwood, and something that smells like an expensive cologne. Dark, warm, and impossible not to love.\n\n#ad #MasculineScents #Sandalwood #MoodyHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-smells-like-him-edit\n\n1. Cremo Palo Santo Body Wash\n2. Mrs. Meyer's Clean Day Birchwood Hand Soap\n3. Sandalwood Scented Laundry Detergent\n4. Duke Cannon Sawtooth Cologne\n5. P.F. Candle Co. Teakwood & Tobacco Candle\n6. Sandalwood Cedar Room Spray\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-high-school-guy-edit",
   "title": "The High School Guy Edit",
   "feed": "/ready/the-high-school-guy-edit-feed.jpg",

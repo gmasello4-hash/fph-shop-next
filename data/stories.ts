@@ -1,6 +1,11 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"the-vanilla-obsession",name:"The Vanilla Obsession",image:"/stories/the-vanilla-obsession.png",order:93},
+  {slug:"the-citrus-bergamot-edit",name:"The Citrus & Bergamot Edit",image:"/stories/the-citrus-bergamot-edit.png",order:92},
+  {slug:"the-toasted-marshmallow-edit",name:"The Toasted Marshmallow Edit",image:"/stories/the-toasted-marshmallow-edit.png",order:91},
+  {slug:"the-dark-bloom-edit",name:"The Dark Bloom Edit",image:"/stories/the-dark-bloom-edit.png",order:90},
+  {slug:"the-smells-like-him-edit",name:"The Smells Like Him Edit",image:"/stories/the-smells-like-him-edit.png",order:89},
   {slug:"the-high-school-guy-edit",name:"The High School Guy Edit",image:"/stories/the-high-school-guy-edit.png",order:88},
   {slug:"the-game-day-edit",name:"The Game Day Edit",image:"/stories/the-game-day-edit.png",order:87},
   {slug:"cozy-and-moody-brrr-basket",name:"The Cozy & Moody Brrr Basket",image:"/stories/cozy-and-moody-brrr-basket.png",order:86},

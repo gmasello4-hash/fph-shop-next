@@ -3,6 +3,161 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-vanilla-obsession",
+    "title": "The Vanilla Obsession",
+    "image": "/boards/the-vanilla-obsession.png",
+    "items": [
+      {
+        "name": "eos Vanilla Cashmere Body Lotion",
+        "url": "https://www.amazon.com/dp/B08KT2Z93D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Philosophy Fresh Cream Warm Cashmere Shower Gel",
+        "url": "https://www.amazon.com/dp/B0D461Y83W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Clean Day Rain Water Laundry Detergent",
+        "url": "https://www.amazon.com/dp/B0CYRD6RR9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vanilla Bean Room & Linen Spray",
+        "url": "https://www.amazon.com/dp/B0GTSF56TK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Voluspa Santal Vanille Candle",
+        "url": "https://www.amazon.com/dp/B08KHLF35Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vintage Bronze Adjustable Candle Warmer Lamp",
+        "url": "https://www.amazon.com/dp/B0DWSKB5G6?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-citrus-bergamot-edit",
+    "title": "The Citrus & Bergamot Edit",
+    "image": "/boards/the-citrus-bergamot-edit.png",
+    "items": [
+      {
+        "name": "Capri Blue Volcano Candle",
+        "url": "https://www.amazon.com/dp/B000YBFJQU?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NEST Grapefruit Candle",
+        "url": "https://www.amazon.com/dp/B00394WWOQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "C.O. Bigelow Lemon Body Cream",
+        "url": "https://www.amazon.com/dp/B083PNDYFX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Capri Blue Volcano Room Spray",
+        "url": "https://www.amazon.com/dp/B0CPGSJJ9Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Lemon Verbena Dish Soap",
+        "url": "https://www.amazon.com/dp/B000S5S1AI?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Lemon Verbena Laundry Detergent",
+        "url": "https://www.amazon.com/dp/B00CRATSRC?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-toasted-marshmallow-edit",
+    "title": "The Toasted Marshmallow Edit",
+    "image": "/boards/the-toasted-marshmallow-edit.png",
+    "items": [
+      {
+        "name": "Bath & Body Works Marshmallow Fireside Candle",
+        "url": "https://www.amazon.com/dp/B09C8F7GL5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sabrina Carpenter Sweet Tooth Perfume",
+        "url": "https://www.amazon.com/dp/B0BBHFHP2H?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Happy Wax Vanilla Lovers Soy Wax Melts",
+        "url": "https://www.amazon.com/dp/B09ZCNG15T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Yankee Candle Vanilla Cupcake",
+        "url": "https://www.amazon.com/dp/B0F3DPKTVT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Native Sugar Cookie Body Wash",
+        "url": "https://www.amazon.com/dp/B0BQ6DHV61?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fire Roasted Marshmallow Room Spray",
+        "url": "https://www.amazon.com/dp/B0H42P1VZW?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-dark-bloom-edit",
+    "title": "The Dark Bloom Edit",
+    "image": "/boards/the-dark-bloom-edit.png",
+    "items": [
+      {
+        "name": "NEST Himalayan Salt & Rosewater Candle",
+        "url": "https://www.amazon.com/dp/B09TRTKHKQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dr Teal's Rose Essential Oil Sugar Scrub",
+        "url": "https://www.amazon.com/dp/B09ZHWW2R4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Aroma360 Black Velvet Rose & Amber Room Spray",
+        "url": "https://www.amazon.com/dp/B0DBWZVNM2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hempz Sweet Jasmine & Rose Body Lotion",
+        "url": "https://www.amazon.com/dp/B08FZ85TKY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NEST Rose Noir & Oud Reed Diffuser",
+        "url": "https://www.amazon.com/dp/B07L772PHJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "L'Occitane Rose Hand Cream",
+        "url": "https://www.amazon.com/dp/B09QWBNBD9?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-smells-like-him-edit",
+    "title": "The Smells Like Him Edit",
+    "image": "/boards/the-smells-like-him-edit.png",
+    "items": [
+      {
+        "name": "Cremo Palo Santo Body Wash",
+        "url": "https://www.amazon.com/dp/B08S5JM12L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Clean Day Birchwood Hand Soap",
+        "url": "https://www.amazon.com/dp/B09GCYH9KY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sandalwood Scented Laundry Detergent",
+        "url": "https://www.amazon.com/dp/B0CW2J96ZY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Duke Cannon Sawtooth Cologne",
+        "url": "https://www.amazon.com/dp/B0861JRH8W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "P.F. Candle Co. Teakwood & Tobacco Candle",
+        "url": "https://www.amazon.com/dp/B0CXB6K3LP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sandalwood Cedar Room Spray",
+        "url": "https://www.amazon.com/dp/B0DTJD3HV7?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-high-school-guy-edit",
     "title": "The High School Guy Edit",
     "image": "/boards/the-high-school-guy-edit.png",
