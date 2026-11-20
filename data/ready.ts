@@ -2,6 +2,13 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-christmas-house-edit",
+  "title": "The Christmas House Edit",
+  "feed": "/ready/the-christmas-house-edit-feed.jpg",
+  "story": "/stories/the-christmas-house-edit.png",
+  "caption": "The candles are lit, the simmer pot is going, and the whole house smells like Christmas. My favorite kind of holiday magic. 🎄\n\n#ad #ChristmasScents #CozyChristmas #HolidayHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-christmas-house-edit\n\n1. Thymes Frasier Fir Candle\n2. Mrs. Meyer's Iowa Pine Room Freshener\n3. Thymes Frasier Fir Reed Diffuser\n4. Mrs. Meyer's Iowa Pine Hand Soap\n5. Yankee Candle Balsam & Cedar\n6. Christmas Simmer Pot Kit, Orange & Cinnamon\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-everything-shower-edit",
   "title": "The Everything Shower Edit",
   "feed": "/ready/the-everything-shower-edit-feed.jpg",

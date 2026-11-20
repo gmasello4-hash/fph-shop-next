@@ -3,6 +3,37 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-christmas-house-edit",
+    "title": "The Christmas House Edit",
+    "image": "/boards/the-christmas-house-edit.png",
+    "items": [
+      {
+        "name": "Thymes Frasier Fir Candle",
+        "url": "https://www.amazon.com/dp/B00YPP2LBM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Iowa Pine Room Freshener",
+        "url": "https://www.amazon.com/dp/B07YP2KPD9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Thymes Frasier Fir Reed Diffuser",
+        "url": "https://www.amazon.com/dp/B07PX41PHQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mrs. Meyer's Iowa Pine Hand Soap",
+        "url": "https://www.amazon.com/dp/B0096M65RK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Yankee Candle Balsam & Cedar",
+        "url": "https://www.amazon.com/dp/B0F3DPXQP1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Christmas Simmer Pot Kit, Orange & Cinnamon",
+        "url": "https://www.amazon.com/dp/B0H8M2DHXF?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-everything-shower-edit",
     "title": "The Everything Shower Edit",
     "image": "/boards/the-everything-shower-edit.png",
