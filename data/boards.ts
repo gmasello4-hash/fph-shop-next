@@ -38,6 +38,41 @@ export const boards:Board[]=[
     ]
   },
   {
+    "slug": "midnight-in-brrr-basket",
+    "title": "The Midnight In Brrr Basket",
+    "image": "/boards/midnight-in-brrr-basket.png",
+    "items": [
+      {
+        "name": "Black Chunky Chenille Throw",
+        "url": "https://www.amazon.com/dp/B0BFHGFSDW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Baltic Amber Large Jar Candle",
+        "url": "https://voluspa.com/products/large-embossed-glass-jar-candle-1-baltic-amber"
+      },
+      {
+        "name": "Black Onyx Stoneware Mug",
+        "url": "https://www.walmart.com/browse/home/coffee-mugs/thyme-table/4044_623679_639999_3148543_9383607"
+      },
+      {
+        "name": "Antique Brass Taper Holder",
+        "url": "https://mcgeeandco.com/products/antique-brass-taper-candle-holder"
+      },
+      {
+        "name": "Natural Linen Tea Towel",
+        "url": "https://athenscooks.com/products/magiclinen-linen-tea-towels-natural-linen"
+      },
+      {
+        "name": "Godiva Dark Truffles",
+        "url": "https://www.godiva.com/products/dark-chocolate-truffles-gift-box-24pc-16264"
+      },
+      {
+        "name": "Seagrass Folio Basket",
+        "url": "https://www.target.com/p/braided-seagrass-folio-bin-brightroom-8482/-/A-86383687"
+      }
+    ]
+  },
+  {
     "slug": "espresso-and-evergreen-brrr-basket",
     "title": "The Espresso & Evergreen Brrr Basket",
     "image": "/boards/espresso-and-evergreen-brrr-basket.png",

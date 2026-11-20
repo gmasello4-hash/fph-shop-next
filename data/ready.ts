@@ -9,6 +9,13 @@ export const ready:ReadyCard[]= [
   "caption": "Cold nights, cozy layers & all the little things that make winter feel magical. A little chocolate, a warm candle, and something soft to snuggle into.\n\n#BrrrBasket #FeelingPrettyHome #CozyGiftIdeas #MoodyAesthetic #WinterGifts\n\nShop this board: https://fph-shop-next.vercel.app/b/cozy-and-moody-brrr-basket\n\n1. Charcoal Chunky Knit Throw: https://evergracehome.com/products/chunky-moss-stitch-chenille-knit-throw?variant=52555966054694\n2. Olive Faux Fur Pom Beanie: https://www.nordstromrack.com/s/marcus-adler-faux-fur-pom-honeycomb-knit-beanie/8015162\n3. Matte Black Stoneware Mug: https://www.walmart.com/ip/Mainstays-Alessandra-Matte-Black-Stoneware-Mug-14-Ounce/14964653505\n4. Amber & Cedar Candle: https://www.target.com/p/amber-glass-wooden-wick-amber-and-cedar-jar-candle-13oz-threshold-8482/-/A-90011052\n5. Striped Wool Blend Socks: https://www.nordstrom.com/s/barbour-houghton-stripe-wool-blend-socks/8470737\n6. Godiva Holiday Truffles: https://www.godiva.com/products/assorted-chocolate-truffles-gift-box-holiday-edition-15pc\n7. Cream & Natural Rope Basket: https://www.target.com/p/regalwoven-woven-cotton-rope-lightweight-handcrafted-open-storage-bins-1-pc-white-coffee-18-9-11-9-1in/-/A-1011274539"
  },
  {
+  "slug": "midnight-in-brrr-basket",
+  "title": "The Midnight In Brrr Basket",
+  "feed": "/ready/midnight-in-brrr-basket-feed.jpg",
+  "story": "/stories/midnight-in-brrr-basket.png",
+  "caption": "Plans tonight? Absolutely not. A cozy blanket, candlelight, something sweet, and nowhere else we'd rather be.\n\n#ad #BrrrBasketIdeas #MoodyHome #CozyNightIn #GiftBasketInspo\n\nShop this board: https://fph-shop-next.vercel.app/b/midnight-in-brrr-basket\n\n1. Black Chunky Chenille Throw: https://www.amazon.com/dp/B0BFHGFSDW?tag=feelingpret0e-20\n2. Baltic Amber Large Jar Candle: https://voluspa.com/products/large-embossed-glass-jar-candle-1-baltic-amber\n3. Black Onyx Stoneware Mug: https://www.walmart.com/browse/home/coffee-mugs/thyme-table/4044_623679_639999_3148543_9383607\n4. Antique Brass Taper Holder: https://mcgeeandco.com/products/antique-brass-taper-candle-holder\n5. Natural Linen Tea Towel: https://athenscooks.com/products/magiclinen-linen-tea-towels-natural-linen\n6. Godiva Dark Truffles: https://www.godiva.com/products/dark-chocolate-truffles-gift-box-24pc-16264\n7. Seagrass Folio Basket: https://www.target.com/p/braided-seagrass-folio-bin-brightroom-8482/-/A-86383687\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "espresso-and-evergreen-brrr-basket",
   "title": "The Espresso & Evergreen Brrr Basket",
   "feed": "/ready/espresso-and-evergreen-brrr-basket-feed.jpg",

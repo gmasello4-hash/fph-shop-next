@@ -2,6 +2,7 @@
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
   {slug:"cozy-and-moody-brrr-basket",name:"The Cozy & Moody Brrr Basket",image:"/stories/cozy-and-moody-brrr-basket.png",order:86},
+  {slug:"midnight-in-brrr-basket",name:"The Midnight In Brrr Basket",image:"/stories/midnight-in-brrr-basket.png",order:84},
   {slug:"espresso-and-evergreen-brrr-basket",name:"The Espresso & Evergreen Brrr Basket",image:"/stories/espresso-and-evergreen-brrr-basket.png",order:85},
   {slug:"the-high-school-girl-edit",name:"The High School Girl Edit",image:"/stories/the-high-school-girl-edit.png",order:83},
   {slug:"the-off-duty-college-edit",name:"The Off-Duty College Edit",image:"/stories/the-off-duty-college-edit.png",order:82},
