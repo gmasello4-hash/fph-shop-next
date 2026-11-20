@@ -2,6 +2,41 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-high-school-girl-edit",
+  "title": "The High School Girl Edit",
+  "feed": "/ready/the-high-school-girl-edit-feed.jpg",
+  "story": "/stories/the-high-school-girl-edit.png",
+  "caption": "Cozy layers, a little gold, and the beauty faves she keeps asking for. \ud83e\udd0e\n\n#ad #TeenGirlGifts #GiftsForHer #TeenGiftGuide #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-high-school-girl-edit\n\n1. Burgundy Oversized Hoodie\n2. Brown Metal Claw Clips\n3. Summer Fridays Lip Balm\n4. Cheirosa 40 Body Mist\n5. Cream Fuzzy Cloud Socks\n6. Chunky Gold Hoop Earrings\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-off-duty-college-edit",
+  "title": "The Off-Duty College Edit",
+  "feed": "/ready/the-off-duty-college-edit-feed.jpg",
+  "story": "/stories/the-off-duty-college-edit.png",
+  "caption": "For the college guy who likes to keep things simple. Everyday essentials, upgraded. \ud83d\udda4\n\n#ad #CollegeGuyGifts #GiftsForHim #CollegeGiftGuide #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-off-duty-college-edit\n\n1. Nike Brasilia Duffel, Black\n2. Charcoal Oversized Hoodie\n3. Stanley IceFlow Tumbler, Black\n4. Brown Leather Dopp Kit\n5. Marshall Emberton III Speaker\n6. Brown Leather Bifold Wallet\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-first-apartment-edit",
+  "title": "The First Apartment Edit",
+  "feed": "/ready/the-first-apartment-edit-feed.jpg",
+  "story": "/stories/the-first-apartment-edit.png",
+  "caption": "First apartment energy. Cozy corners, little luxuries, and everything that makes a new space feel like home.\n\n#ad #FirstApartment #CollegeApartment #MoodyHome #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-first-apartment-edit\n\n1. Brown Checkered Throw\n2. Walnut Mushroom Lamp\n3. Olive Velvet Pillow Covers\n4. Black Framed Art, Set of 3\n5. Amber Glass Bud Vases\n6. Ribbed Ceramic Mug\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-midnight-self-care-edit",
+  "title": "The Midnight Self-Care Edit",
+  "feed": "/ready/the-midnight-self-care-edit-feed.jpg",
+  "story": "/stories/the-midnight-self-care-edit.png",
+  "caption": "Staying in is the new going out. A little self-care, a little luxury, and a whole lot of cozy.\n\n#ad #TeenGirlGifts #SelfCareGifts #CozyNightIn #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-midnight-self-care-edit\n\n1. Black Mulberry Silk Pajama Set\n2. Chocolate Silk Pillowcase\n3. Cashmere Vanilla Body Mist\n4. Laneige Lip Mask, Berry\n5. Cotton Waffle Headband\n6. Vanilla Amber Candle\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-room-upgrade-edit",
+  "title": "The Room Upgrade Edit",
+  "feed": "/ready/the-room-upgrade-edit-feed.jpg",
+  "story": "/stories/the-room-upgrade-edit.png",
+  "caption": "For the guy who spends most of his time in his room. Small upgrades, big difference.\n\n#ad #TeenBoyGiftGuide #RoomUpgrade #MoodyBedroom #FeelingPrettyHome\n\nShop this board: https://fph-shop-next.vercel.app/b/the-room-upgrade-edit\n\n1. Satechi Aluminum Wireless Mouse\n2. Brown Leather Desk Mat\n3. Black Aluminum Headphone Stand\n4. Wood Digital Alarm Clock\n5. Dark Wood Desk Shelf\n6. BenQ ScreenBar Monitor Light\n\nAs an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-christmas-house-edit",
   "title": "The Christmas House Edit",
   "feed": "/ready/the-christmas-house-edit-feed.jpg",

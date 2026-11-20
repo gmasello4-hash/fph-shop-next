@@ -1,6 +1,11 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"the-high-school-girl-edit",name:"The High School Girl Edit",image:"/stories/the-high-school-girl-edit.png",order:83},
+  {slug:"the-off-duty-college-edit",name:"The Off-Duty College Edit",image:"/stories/the-off-duty-college-edit.png",order:82},
+  {slug:"the-first-apartment-edit",name:"The First Apartment Edit",image:"/stories/the-first-apartment-edit.png",order:81},
+  {slug:"the-midnight-self-care-edit",name:"The Midnight Self-Care Edit",image:"/stories/the-midnight-self-care-edit.png",order:80},
+  {slug:"the-room-upgrade-edit",name:"The Room Upgrade Edit",image:"/stories/the-room-upgrade-edit.png",order:79},
   {slug:"the-christmas-house-edit",name:"The Christmas House Edit",image:"/stories/the-christmas-house-edit.png",order:78},
   {slug:"the-everything-shower-edit",name:"The Everything Shower Edit",image:"/stories/the-everything-shower-edit.png",order:77},
   {slug:"the-college-girl-edit",name:"The College Girl Edit",image:"/stories/the-college-girl-edit.png",order:76},

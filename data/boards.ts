@@ -3,6 +3,161 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-high-school-girl-edit",
+    "title": "The High School Girl Edit",
+    "image": "/boards/the-high-school-girl-edit.png",
+    "items": [
+      {
+        "name": "Burgundy Oversized Hoodie",
+        "url": "https://www.amazon.com/dp/B0CJV2NCR8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Metal Claw Clips",
+        "url": "https://www.amazon.com/dp/B0B1QC4JHG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Summer Fridays Lip Balm",
+        "url": "https://www.amazon.com/dp/B0BYP81HN8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cheirosa 40 Body Mist",
+        "url": "https://www.amazon.com/dp/B096W846FC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Fuzzy Cloud Socks",
+        "url": "https://www.amazon.com/dp/B0B4F45C6Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chunky Gold Hoop Earrings",
+        "url": "https://www.amazon.com/dp/B08776TBZS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-off-duty-college-edit",
+    "title": "The Off-Duty College Edit",
+    "image": "/boards/the-off-duty-college-edit.png",
+    "items": [
+      {
+        "name": "Nike Brasilia Duffel, Black",
+        "url": "https://www.amazon.com/dp/B07BZXKHS1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Charcoal Oversized Hoodie",
+        "url": "https://www.amazon.com/dp/B0CHJQLZLT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Stanley IceFlow Tumbler, Black",
+        "url": "https://www.amazon.com/dp/B0DR9PMK1W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Dopp Kit",
+        "url": "https://www.amazon.com/dp/B0CQQZ63CN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Marshall Emberton III Speaker",
+        "url": "https://www.amazon.com/dp/B0DDCJMDJC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Bifold Wallet",
+        "url": "https://www.amazon.com/dp/B0877BJ9GW?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-first-apartment-edit",
+    "title": "The First Apartment Edit",
+    "image": "/boards/the-first-apartment-edit.png",
+    "items": [
+      {
+        "name": "Brown Checkered Throw",
+        "url": "https://www.amazon.com/dp/B0F37K56K6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut Mushroom Lamp",
+        "url": "https://www.amazon.com/dp/B0DX6T68BL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Olive Velvet Pillow Covers",
+        "url": "https://www.amazon.com/dp/B0G6YV9K3Z?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Framed Art, Set of 3",
+        "url": "https://www.amazon.com/dp/B0H4G457G4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Bud Vases",
+        "url": "https://www.amazon.com/dp/B0GV3HM5XJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ribbed Ceramic Mug",
+        "url": "https://www.amazon.com/dp/B0GZWZJDDC?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-midnight-self-care-edit",
+    "title": "The Midnight Self-Care Edit",
+    "image": "/boards/the-midnight-self-care-edit.png",
+    "items": [
+      {
+        "name": "Black Mulberry Silk Pajama Set",
+        "url": "https://www.amazon.com/dp/B0HJBNPJKC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate Silk Pillowcase",
+        "url": "https://www.amazon.com/dp/B0F8NMWKGH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cashmere Vanilla Body Mist",
+        "url": "https://www.amazon.com/dp/B0H7RXNHCN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Laneige Lip Mask, Berry",
+        "url": "https://www.amazon.com/dp/B07XXPHQZK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cotton Waffle Headband",
+        "url": "https://www.amazon.com/dp/B0H5FM212Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vanilla Amber Candle",
+        "url": "https://www.amazon.com/dp/B0H2D7Z7N3?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-room-upgrade-edit",
+    "title": "The Room Upgrade Edit",
+    "image": "/boards/the-room-upgrade-edit.png",
+    "items": [
+      {
+        "name": "Satechi Aluminum Wireless Mouse",
+        "url": "https://www.amazon.com/dp/B0G8HKJJP9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Desk Mat",
+        "url": "https://www.amazon.com/dp/B0HFT67CZ4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Aluminum Headphone Stand",
+        "url": "https://www.amazon.com/dp/B076CN4YQM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wood Digital Alarm Clock",
+        "url": "https://www.amazon.com/dp/B0DHJK3MB4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dark Wood Desk Shelf",
+        "url": "https://www.amazon.com/dp/B0FLBX5HRC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BenQ ScreenBar Monitor Light",
+        "url": "https://www.amazon.com/dp/B076VNFZJG?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-christmas-house-edit",
     "title": "The Christmas House Edit",
     "image": "/boards/the-christmas-house-edit.png",
