@@ -3,6 +3,95 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "cozy-and-moody-brrr-basket",
+    "title": "The Cozy & Moody Brrr Basket",
+    "image": "/boards/cozy-and-moody-brrr-basket.png",
+    "items": [
+      {
+        "name": "Charcoal Chunky Knit Throw",
+        "url": "https://evergracehome.com/products/chunky-moss-stitch-chenille-knit-throw?variant=52555966054694"
+      },
+      {
+        "name": "Olive Faux Fur Pom Beanie",
+        "url": "https://www.nordstromrack.com/s/marcus-adler-faux-fur-pom-honeycomb-knit-beanie/8015162"
+      },
+      {
+        "name": "Amber & Cedar Candle",
+        "url": "https://www.target.com/p/amber-glass-wooden-wick-amber-and-cedar-jar-candle-13oz-threshold-8482/-/A-90011052"
+      },
+      {
+        "name": "Striped Wool Blend Socks",
+        "url": "https://www.nordstrom.com/s/barbour-houghton-stripe-wool-blend-socks/8470737"
+      },
+      {
+        "name": "Godiva Holiday Truffles",
+        "url": "https://www.godiva.com/products/assorted-chocolate-truffles-gift-box-holiday-edition-15pc"
+      },
+      {
+        "name": "Cream & Natural Rope Basket",
+        "url": "https://www.target.com/p/regalwoven-woven-cotton-rope-lightweight-handcrafted-open-storage-bins-1-pc-white-coffee-18-9-11-9-1in/-/A-1011274539"
+      }
+    ]
+  },
+  {
+    "slug": "midnight-in-brrr-basket",
+    "title": "The Midnight In Brrr Basket",
+    "image": "/boards/midnight-in-brrr-basket.png",
+    "items": [
+      {
+        "name": "Baltic Amber Large Jar Candle",
+        "url": "https://voluspa.com/products/large-embossed-glass-jar-candle-1-baltic-amber"
+      },
+      {
+        "name": "Antique Brass Taper Holder",
+        "url": "https://mcgeeandco.com/products/antique-brass-taper-candle-holder"
+      },
+      {
+        "name": "Natural Linen Tea Towel",
+        "url": "https://athenscooks.com/products/magiclinen-linen-tea-towels-natural-linen"
+      },
+      {
+        "name": "Godiva Dark Truffles",
+        "url": "https://www.godiva.com/products/dark-chocolate-truffles-gift-box-24pc-16264"
+      },
+      {
+        "name": "Seagrass Folio Basket",
+        "url": "https://www.target.com/p/braided-seagrass-folio-bin-brightroom-8482/-/A-86383687"
+      }
+    ]
+  },
+  {
+    "slug": "espresso-and-evergreen-brrr-basket",
+    "title": "The Espresso & Evergreen Brrr Basket",
+    "image": "/boards/espresso-and-evergreen-brrr-basket.png",
+    "items": [
+      {
+        "name": "Black Travel Mug",
+        "url": "https://www.walmart.com/ip/TAL-20-oz-Insulated-Travel-Coffee-Mug-Black/749805900"
+      },
+      {
+        "name": "Khaki Green Fringed Scarf",
+        "url": "https://www.nordstrom.com/s/fringed-scarf/7981605"
+      },
+      {
+        "name": "Leathered Amber Candle",
+        "url": "https://www.walmart.com/ip/Better-Homes-Gardens-13oz-Warm-Leathered-Amber-Scented-Wooden-Wick-Jar-Candle/7329366328"
+      },
+      {
+        "name": "Olive Pom Beanie",
+        "url": "https://www.gravitytrading.com/gravity-threads-knit-pom-pom-beanie-hat/"
+      },
+      {
+        "name": "Godiva Truffles 15pc",
+        "url": "https://www.macys.com/shop/product/godiva-signature-truffles-assorted-chocolate-gift-box-with-red-ribbon-15-pieces?ID=23096458"
+      },
+      {
+        "name": "Brown Woven Folio Basket",
+        "url": "https://www.target.com/p/woven-banana-bark-folio-bin-brightroom-8482/-/A-86383771"
+      }
+    ]
+  },
+  {
     "slug": "the-high-school-girl-edit",
     "title": "The High School Girl Edit",
     "image": "/boards/the-high-school-girl-edit.png",
