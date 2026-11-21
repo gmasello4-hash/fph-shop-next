@@ -3,6 +3,192 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-teen-car-edit",
+    "title": "The Teen Car Edit",
+    "image": "/boards/the-teen-car-edit.png",
+    "items": [
+      {
+        "name": "BLACK+DECKER Dustbuster AdvancedClean Handheld Vacuum",
+        "url": "https://www.amazon.com/dp/B006LXOJC0?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Wristlet Car Keychain",
+        "url": "https://www.amazon.com/dp/B0FDQKMYTK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Leather Car Seat Gap Organizer",
+        "url": "https://www.amazon.com/dp/B0C9DBSYTN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Magnetic Car Phone Mount, Black",
+        "url": "https://www.amazon.com/dp/B0DN1S1YLV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Car Visor Tissue Holder",
+        "url": "https://www.amazon.com/dp/B0D6VMGFDN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Drift Wood Car Air Freshener, Amber",
+        "url": "https://www.amazon.com/dp/B0C1HCCK2T?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-winter-room-reset",
+    "title": "The Winter Room Reset",
+    "image": "/boards/the-winter-room-reset.png",
+    "items": [
+      {
+        "name": "Bedsure GentleSoft Charcoal Sherpa Fleece Throw",
+        "url": "https://www.amazon.com/dp/B01N0ZS3VO?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Black Sunset Projection Lamp",
+        "url": "https://www.amazon.com/dp/B09M8J6TWH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Magcubic Mini Projector",
+        "url": "https://www.amazon.com/dp/B0DYMNJKSQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Walnut-Finish Wood Bedside Charging Station",
+        "url": "https://www.amazon.com/dp/B0FF1KSL6V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Chocolate Brown Faux Fur Pillow Covers, Set of 2",
+        "url": "https://www.amazon.com/dp/B0CQM1JFTJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amber Glass Globe Table Lamp",
+        "url": "https://www.amazon.com/dp/B0BFB5KDL4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-20-something-edit",
+    "title": "The 20-Something Edit",
+    "image": "/boards/the-20-something-edit.png",
+    "items": [
+      {
+        "name": "Soundcore by Anker Q20i Noise Cancelling Headphones, Black",
+        "url": "https://www.amazon.com/dp/B0C3HCD34R?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fujifilm Instax Mini 12, Clay White",
+        "url": "https://www.amazon.com/dp/B0BV38RWKK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather Dopp Kit",
+        "url": "https://www.amazon.com/dp/B0FZB5M5J6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Owala FreeSip 24 oz, Shy Marshmallow",
+        "url": "https://www.amazon.com/dp/B085DV8T75?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Anker Nano Portable Charger, Black",
+        "url": "https://www.amazon.com/dp/B0C6XK77HJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Travel Backpack, Chocolate",
+        "url": "https://www.amazon.com/dp/B0FHH34W29?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "gifts-your-girlfriend-wont-return",
+    "title": "Gifts Your Girlfriend Won't Return",
+    "image": "/boards/gifts-your-girlfriend-wont-return.png",
+    "items": [
+      {
+        "name": "Black Satin Pajama Set, 3 Piece",
+        "url": "https://www.amazon.com/dp/B0F42XQWZR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kindle Paperwhite 16GB, Black",
+        "url": "https://www.amazon.com/dp/B0CFPJYX7P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Chocolate Travel Duffel Bag Set",
+        "url": "https://www.amazon.com/dp/B0H1C36J96?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hatori Brown Leather Travel Jewelry Box",
+        "url": "https://www.amazon.com/dp/B0D3LX9ZYQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "nodpod Weighted Sleep Mask, Bone",
+        "url": "https://www.amazon.com/dp/B0B1SNDGBG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BESTOOL Wooden Boar Bristle Hair Brush",
+        "url": "https://www.amazon.com/dp/B0D44TMPVB?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "gifts-for-the-girl-who-has-everything",
+    "title": "Gifts for the Girl Who Has Everything",
+    "image": "/boards/gifts-for-the-girl-who-has-everything.png",
+    "items": [
+      {
+        "name": "JW PEI Joy Shoulder Bag, Deep Claret",
+        "url": "https://www.amazon.com/dp/B0C99LRJBB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sol de Janeiro Cheirosa 62 Perfume Mist",
+        "url": "https://www.amazon.com/dp/B09X3HB2BR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Leather-Look Travel Makeup Case",
+        "url": "https://www.amazon.com/dp/B0F7F3Q5TH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "PAVOI Gold Mother of Pearl Clover Bracelet",
+        "url": "https://www.amazon.com/dp/B0FBW19BQJ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Cream Travel Jewelry Organizer",
+        "url": "https://www.amazon.com/dp/B0CKQRNPWY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Tortoiseshell Hair Claw Clip",
+        "url": "https://www.amazon.com/dp/B0GYSFXX83?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-ultimate-cozy-girl-christmas",
+    "title": "The Ultimate Cozy Girl Christmas",
+    "image": "/boards/the-ultimate-cozy-girl-christmas.png",
+    "items": [
+      {
+        "name": "Chocolate Brown Plush Fleece Bathrobe",
+        "url": "https://www.amazon.com/dp/B0DL78F36Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BLISSFORD Brown Satin Pillowcase",
+        "url": "https://www.amazon.com/dp/B01N0Z6HVO?tag=feelingpret0e-20"
+      },
+      {
+        "name": "River Birch Tobacco Vanilla Candle, Amber Glass",
+        "url": "https://www.amazon.com/dp/B0B2V15PF8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bedsure GentleSoft Cream Sherpa Fleece Blanket",
+        "url": "https://www.amazon.com/dp/B07V2Z5TC3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cream Cable-Knit Lounge Socks, 3 Pairs",
+        "url": "https://www.amazon.com/dp/B0DJZB6KZM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "SWEETFULL Ceramic Mug & Warmer Set",
+        "url": "https://www.amazon.com/dp/B0BR6X5923?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "best-sellers-but-make-it-moody",
     "title": "Best Sellers, But Make It Moody",
     "image": "/boards/best-sellers-but-make-it-moody.png",

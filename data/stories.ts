@@ -1,6 +1,12 @@
 // Story cards for /stories (unlisted). Add a board: one line + image in public/stories/<slug>.png. Higher order = newer (shown first).
 export type Story={slug:string;name:string;image:string;order:number};
 export const stories:Story[]=[
+  {slug:"the-teen-car-edit",name:"The Teen Car Edit",image:"/stories/the-teen-car-edit.png",order:102},
+  {slug:"the-winter-room-reset",name:"The Winter Room Reset",image:"/stories/the-winter-room-reset.png",order:101},
+  {slug:"the-20-something-edit",name:"The 20-Something Edit",image:"/stories/the-20-something-edit.png",order:100},
+  {slug:"gifts-your-girlfriend-wont-return",name:"Gifts Your Girlfriend Won't Return",image:"/stories/gifts-your-girlfriend-wont-return.png",order:99},
+  {slug:"gifts-for-the-girl-who-has-everything",name:"Gifts for the Girl Who Has Everything",image:"/stories/gifts-for-the-girl-who-has-everything.png",order:98},
+  {slug:"the-ultimate-cozy-girl-christmas",name:"The Ultimate Cozy Girl Christmas",image:"/stories/the-ultimate-cozy-girl-christmas.png",order:97},
   {slug:"best-sellers-but-make-it-moody",name:"Best Sellers, But Make It Moody",image:"/stories/best-sellers-but-make-it-moody.png",order:96},
   {slug:"the-top-hits-beauty-edit",name:"The Top Hits Beauty Edit",image:"/stories/the-top-hits-beauty-edit.png",order:95},
   {slug:"the-most-shopped-cozy-edit",name:"The Most-Shopped Cozy Edit",image:"/stories/the-most-shopped-cozy-edit.png",order:94},

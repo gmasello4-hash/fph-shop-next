@@ -2,6 +2,48 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-teen-car-edit",
+  "title": "The Teen Car Edit",
+  "feed": "/ready/the-teen-car-edit-feed.jpg",
+  "story": "/stories/the-teen-car-edit.png",
+  "caption": "For the girl (or guy!) who's obsessed with their car. A few Amazon finds that make every drive a little cuter, cleaner, and more organized. \ud83d\ude97\ud83e\udd0e\n\nThe Teen Car Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-teen-car-edit\n\n1. BLACK+DECKER Dustbuster AdvancedClean Handheld Vacuum\n2. Brown Leather Wristlet Car Keychain\n3. Black Leather Car Seat Gap Organizer\n4. Magnetic Car Phone Mount, Black\n5. Brown Leather Car Visor Tissue Holder\n6. Drift Wood Car Air Freshener, Amber\n\n#ad #TeenCarEssentials #FirstCarGifts #TeenGiftGuide #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-winter-room-reset",
+  "title": "The Winter Room Reset",
+  "feed": "/ready/the-winter-room-reset-feed.jpg",
+  "story": "/stories/the-winter-room-reset.png",
+  "caption": "Apparently leaving your room is optional this winter. Cozy blankets, soft lighting, and all the little upgrades that make staying in the best plan. \ud83e\udd0e\n\nThe Winter Room Reset\nShop this board: https://fph-shop-next.vercel.app/b/the-winter-room-reset\n\n1. Bedsure GentleSoft Charcoal Sherpa Fleece Throw\n2. Black Sunset Projection Lamp\n3. Magcubic Mini Projector\n4. Walnut-Finish Wood Bedside Charging Station\n5. Chocolate Brown Faux Fur Pillow Covers, Set of 2\n6. Amber Glass Globe Table Lamp\n\n#ad #TeenRoomDecor #WinterRoomReset #CozyBedroom #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-20-something-edit",
+  "title": "The 20-Something Edit",
+  "feed": "/ready/the-20-something-edit-feed.jpg",
+  "story": "/stories/the-20-something-edit.png",
+  "caption": "The things every 20-something would actually love to unwrap. A little practical, a little trendy, and very much worth adding to your wishlist. \ud83d\udda4\n\nThe 20-Something Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-20-something-edit\n\n1. Soundcore by Anker Q20i Noise Cancelling Headphones, Black\n2. Fujifilm Instax Mini 12, Clay White\n3. Brown Leather Dopp Kit\n4. Owala FreeSip 24 oz, Shy Marshmallow\n5. Anker Nano Portable Charger, Black\n6. BAGSMART Travel Backpack, Chocolate\n\n#ad #YoungAdultGifts #AmazonGiftIdeas #MoodyGifts #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "gifts-your-girlfriend-wont-return",
+  "title": "Gifts Your Girlfriend Won't Return",
+  "feed": "/ready/gifts-your-girlfriend-wont-return-feed.jpg",
+  "story": "/stories/gifts-your-girlfriend-wont-return.png",
+  "caption": "Gifts your girlfriend won't return. \ud83e\udd0e A little cozy, a little spoiled, and everything she'd secretly love to unwrap.\n\nGifts Your Girlfriend Won't Return\nShop this board: https://fph-shop-next.vercel.app/b/gifts-your-girlfriend-wont-return\n\n1. Black Satin Pajama Set, 3 Piece\n2. Kindle Paperwhite 16GB, Black\n3. BAGSMART Chocolate Travel Duffel Bag Set\n4. Hatori Brown Leather Travel Jewelry Box\n5. nodpod Weighted Sleep Mask, Bone\n6. BESTOOL Wooden Boar Bristle Hair Brush\n\n#ad #GiftsForGirlfriend #AmazonGiftGuide #HolidayGiftIdeas #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "gifts-for-the-girl-who-has-everything",
+  "title": "Gifts for the Girl Who Has Everything",
+  "feed": "/ready/gifts-for-the-girl-who-has-everything-feed.jpg",
+  "story": "/stories/gifts-for-the-girl-who-has-everything.png",
+  "caption": "For the girl who says she doesn't need anything\u2026 but has a very specific wishlist. \ud83c\udf52\ud83e\udd0e\n\nGifts for the Girl Who Has Everything\nShop this board: https://fph-shop-next.vercel.app/b/gifts-for-the-girl-who-has-everything\n\n1. JW PEI Joy Shoulder Bag, Deep Claret\n2. Sol de Janeiro Cheirosa 62 Perfume Mist\n3. Burgundy Leather-Look Travel Makeup Case\n4. PAVOI Gold Mother of Pearl Clover Bracelet\n5. BAGSMART Cream Travel Jewelry Organizer\n6. Tortoiseshell Hair Claw Clip\n\n#ad #GiftsForHer #LittleLuxuries #MoodyGiftGuide #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-ultimate-cozy-girl-christmas",
+  "title": "The Ultimate Cozy Girl Christmas",
+  "feed": "/ready/the-ultimate-cozy-girl-christmas-feed.jpg",
+  "story": "/stories/the-ultimate-cozy-girl-christmas.png",
+  "caption": "The ultimate cozy girl Christmas list. All the little things that make staying in feel like a luxury. \u2615\ud83e\udd0e\n\nThe Ultimate Cozy Girl Christmas\nShop this board: https://fph-shop-next.vercel.app/b/the-ultimate-cozy-girl-christmas\n\n1. Chocolate Brown Plush Fleece Bathrobe\n2. BLISSFORD Brown Satin Pillowcase\n3. River Birch Tobacco Vanilla Candle, Amber Glass\n4. Bedsure GentleSoft Cream Sherpa Fleece Blanket\n5. Cream Cable-Knit Lounge Socks, 3 Pairs\n6. SWEETFULL Ceramic Mug & Warmer Set\n\n#ad #CozyGirlChristmas #WinterGiftGuide #CozyAesthetic #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "best-sellers-but-make-it-moody",
   "title": "Best Sellers, But Make It Moody",
   "feed": "/ready/best-sellers-but-make-it-moody-feed.jpg",
