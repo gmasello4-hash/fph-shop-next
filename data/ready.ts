@@ -2,6 +2,27 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "best-sellers-but-make-it-moody",
+  "title": "Best Sellers, But Make It Moody",
+  "feed": "/ready/best-sellers-but-make-it-moody-feed.jpg",
+  "story": "/stories/best-sellers-but-make-it-moody.png",
+  "caption": "Amazon bestsellers, but make them dark and moody. \ud83d\udda4 A few of the most-loved home finds with just the right amount of drama.\n\nBest Sellers, But Make It Moody\nShop this board: https://fph-shop-next.vercel.app/b/best-sellers-but-make-it-moody\n\n1. GODONLIF Candle Warmer Lamp\n2. Bath & Body Works Mahogany Teakwood Intense Candle\n3. Burgundy Velvet Christmas Bows, 12 Pack\n4. upsimples Black 11x14 Picture Frame\n5. QEEIG Black Floating Shelves, Set of 3\n6. NICETOWN Black Blackout Curtains\n\n#ad #AmazonBestSellers #MoodyHome #AmazonHomeFinds #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-top-hits-beauty-edit",
+  "title": "The Top Hits Beauty Edit",
+  "feed": "/ready/the-top-hits-beauty-edit-feed.jpg",
+  "story": "/stories/the-top-hits-beauty-edit.png",
+  "caption": "The beauty products everyone keeps adding to cart. \ud83e\udd0e From vanilla body care to little everyday luxuries, these Amazon favorites deserve the hype.\n\nThe Top Hits Beauty Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-top-hits-beauty-edit\n\n1. eos Vanilla Cashmere Body Lotion\n2. eos Vanilla Cashmere Body Wash\n3. BIODANCE Bio-Collagen Real Deep Masks\n4. Maybelline Sky High Mascara, Blackest Black\n5. Sol de Janeiro Brazilian Bum Bum Cream\n6. grace & stella Gold Under-Eye Patches\n\n#ad #AmazonBeauty #BeautyBestSellers #VanillaAesthetic #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-most-shopped-cozy-edit",
+  "title": "The Most-Shopped Cozy Edit",
+  "feed": "/ready/the-most-shopped-cozy-edit-feed.jpg",
+  "story": "/stories/the-most-shopped-cozy-edit.png",
+  "caption": "The Amazon finds people keep buying, and I can see why. Cozy essentials, useful little upgrades, and a few everyday favorites. \ud83e\udd0e\n\nThe Most-Shopped Cozy Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-most-shopped-cozy-edit\n\n1. Owala FreeSip 32 oz, Black Cherry\n2. UGG Tasman Slippers, Chestnut\n3. SARO Cream Cable Knit Throw Pillow\n4. Bodum Brazil Black Glass French Press\n5. Mikasa Italian Countryside Cream Ribbed Mugs, Set of 4\n6. Bedsure White Cozy Fleece Throw\n\n#ad #MostShopped #AmazonFavorites #CozyHomeEssentials #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-vanilla-obsession",
   "title": "The Vanilla Obsession",
   "feed": "/ready/the-vanilla-obsession-feed.jpg",

@@ -3,6 +3,99 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "best-sellers-but-make-it-moody",
+    "title": "Best Sellers, But Make It Moody",
+    "image": "/boards/best-sellers-but-make-it-moody.png",
+    "items": [
+      {
+        "name": "GODONLIF Candle Warmer Lamp",
+        "url": "https://www.amazon.com/dp/B0CTJGJL2T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bath & Body Works Mahogany Teakwood Intense Candle",
+        "url": "https://www.amazon.com/dp/B01M7TTA2S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Burgundy Velvet Christmas Bows, 12 Pack",
+        "url": "https://www.amazon.com/dp/B0FP16QMYR?tag=feelingpret0e-20"
+      },
+      {
+        "name": "upsimples Black 11x14 Picture Frame",
+        "url": "https://www.amazon.com/dp/B0BQR2BQYZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "QEEIG Black Floating Shelves, Set of 3",
+        "url": "https://www.amazon.com/dp/B0BX6531NV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NICETOWN Black Blackout Curtains",
+        "url": "https://www.amazon.com/dp/B01CS31R94?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-top-hits-beauty-edit",
+    "title": "The Top Hits Beauty Edit",
+    "image": "/boards/the-top-hits-beauty-edit.png",
+    "items": [
+      {
+        "name": "eos Vanilla Cashmere Body Lotion",
+        "url": "https://www.amazon.com/dp/B08KT2Z93D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "eos Vanilla Cashmere Body Wash",
+        "url": "https://www.amazon.com/dp/B0DPHQRLJC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BIODANCE Bio-Collagen Real Deep Masks",
+        "url": "https://www.amazon.com/dp/B0B2RM68G2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Maybelline Sky High Mascara, Blackest Black",
+        "url": "https://www.amazon.com/dp/B08H3JPH74?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sol de Janeiro Brazilian Bum Bum Cream",
+        "url": "https://www.amazon.com/dp/B013XKHA4M?tag=feelingpret0e-20"
+      },
+      {
+        "name": "grace & stella Gold Under-Eye Patches",
+        "url": "https://www.amazon.com/dp/B014E2D6BY?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-most-shopped-cozy-edit",
+    "title": "The Most-Shopped Cozy Edit",
+    "image": "/boards/the-most-shopped-cozy-edit.png",
+    "items": [
+      {
+        "name": "Owala FreeSip 32 oz, Black Cherry",
+        "url": "https://www.amazon.com/dp/B0FK1LF5PM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "UGG Tasman Slippers, Chestnut",
+        "url": "https://www.amazon.com/dp/B000J176KW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "SARO Cream Cable Knit Throw Pillow",
+        "url": "https://www.amazon.com/dp/B01FYFTOY8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bodum Brazil Black Glass French Press",
+        "url": "https://www.amazon.com/dp/B00BKRHD20?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Mikasa Italian Countryside Cream Ribbed Mugs, Set of 4",
+        "url": "https://www.amazon.com/dp/B0000CFQ3Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bedsure White Cozy Fleece Throw",
+        "url": "https://www.amazon.com/dp/B0157T1XOA?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-vanilla-obsession",
     "title": "The Vanilla Obsession",
     "image": "/boards/the-vanilla-obsession.png",
