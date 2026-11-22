@@ -3,6 +3,91 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-moody-pantry-edit",
+    "title": "The Moody Pantry Edit",
+    "image": "/boards/the-moody-pantry-edit.png",
+    "items": [
+      {
+        "name": "CZZGSM 50oz Glass Canisters, Set of 3",
+        "url": "https://www.amazon.com/dp/B0CZ2ZNP3Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "SAFAVIEH Fenwick Water Hyacinth Baskets, Set of 3",
+        "url": "https://www.amazon.com/dp/B0CX9Z93PC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "AUAM 12-Inch Acacia Wood Lazy Susan",
+        "url": "https://www.amazon.com/dp/B094Z646MC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fiwence 24 Glass Spice Jars with Gold Caps",
+        "url": "https://www.amazon.com/dp/B0DDJP5FTF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Glass Olive Oil Dispenser Bottles, Gold, Set of 2",
+        "url": "https://www.amazon.com/dp/B0BT7P7HXR?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-holiday-baking-edit",
+    "title": "The Holiday Baking Edit",
+    "image": "/boards/the-holiday-baking-edit.png",
+    "items": [
+      {
+        "name": "KitchenAid Artisan 5-Qt Mixer, Matte Milkshake",
+        "url": "https://www.crateandbarrel.com/kitchenaid-artisan-series-matte-milkshake-5-quart-tilt-head-stand-mixer/s459206"
+      },
+      {
+        "name": "Carmel Ceramic Mixing Bowls by Gaby Dalkin, Set of 3",
+        "url": "https://www.crateandbarrel.com/carmel-ceramic-mixing-bowls-by-gaby-dalkin-set-of-3/s234137"
+      },
+      {
+        "name": "Nordic Ware Naturals 3-Piece Sheet Pan Set",
+        "url": "https://www.amazon.com/dp/B079Q671Q5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sur La Table Marble Rolling Pin with Wooden Handles",
+        "url": "https://www.surlatable.com/product/sur-la-table-marble-rolling-pin-with-wooden-handles/7782907"
+      },
+      {
+        "name": "Emile Henry x Crate & Barrel Cream Ceramic Pie Dish",
+        "url": "https://www.crateandbarrel.com/emile-henry-x-crate-and-barrel-cream-ceramic-pie-dish/s338278"
+      },
+      {
+        "name": "Crate & Barrel Gold Measuring Spoons, Set of 4",
+        "url": "https://www.crateandbarrel.com/gold-measuring-spoons/s518172"
+      }
+    ]
+  },
+  {
+    "slug": "the-hot-cocoa-night-edit",
+    "title": "The Hot Cocoa Night Edit",
+    "image": "/boards/the-hot-cocoa-night-edit.png",
+    "items": [
+      {
+        "name": "ZWILLING Enfinigy Milk Frother, Black",
+        "url": "https://www.target.com/p/zwilling-enfinigy-milk-frother-black/-/A-91687641"
+      },
+      {
+        "name": "Teocera 16oz Cream Stoneware Mugs, Set of 4",
+        "url": "https://www.amazon.com/dp/B0FS1J9218?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Lake Champlain Traditional Organic Hot Chocolate, 16 oz",
+        "url": "https://www.lakechamplainchocolates.com/hot-cocoa/"
+      },
+      {
+        "name": "Le Creuset Signature 1.75-Qt Cream Saucepan",
+        "url": "https://www.crateandbarrel.com/le-creuset-signature-1.75-qt.-cream-enameled-cast-iron-saucepan-with-lid/s200944"
+      },
+      {
+        "name": "Brazos Home Dark Walnut Cutting Board, 16 x 8 in",
+        "url": "https://www.target.com/p/brazos-home-dark-walnut-cutting-board-large-16-x-8-in-ideal-for-chopping-serving/-/A-1006928071"
+      }
+    ]
+  },
+  {
     "slug": "the-teen-car-edit",
     "title": "The Teen Car Edit",
     "image": "/boards/the-teen-car-edit.png",

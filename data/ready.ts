@@ -2,6 +2,27 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
  {
+  "slug": "the-moody-pantry-edit",
+  "title": "The Moody Pantry Edit",
+  "feed": "/ready/the-moody-pantry-edit-feed.jpg",
+  "story": "/stories/the-moody-pantry-edit.png",
+  "caption": "The moody pantry edit. Tall glass canisters with acacia lids, woven water hyacinth baskets, a 12-inch acacia lazy susan, square gold-cap spice jars, and glass oil bottles with gold pourers \u2014 the little upgrades that make a pantry feel expensive.\n\nThe Moody Pantry Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-moody-pantry-edit\n\n1. CZZGSM 50oz Glass Canisters, Set of 3\n2. SAFAVIEH Fenwick Water Hyacinth Baskets, Set of 3\n3. AUAM 12-Inch Acacia Wood Lazy Susan\n4. Fiwence 24 Glass Spice Jars with Gold Caps\n5. Glass Olive Oil Dispenser Bottles, Gold, Set of 2\n\n#ad #PantryOrganization #MoodyKitchen #AmazonHomeFinds #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-holiday-baking-edit",
+  "title": "The Holiday Baking Edit",
+  "feed": "/ready/the-holiday-baking-edit-feed.jpg",
+  "story": "/stories/the-holiday-baking-edit.png",
+  "caption": "The holiday baking edit. A Milkshake KitchenAid, cream Carmel mixing bowls, a Nordic Ware sheet pan set, a marble rolling pin, a cream Emile Henry pie dish, and brass measuring spoons \u2014 ready for a long weekend of cookies.\n\nThe Holiday Baking Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-holiday-baking-edit\n\n1. KitchenAid Artisan 5-Qt Mixer, Matte Milkshake\n2. Carmel Ceramic Mixing Bowls by Gaby Dalkin, Set of 3\n3. Nordic Ware Naturals 3-Piece Sheet Pan Set\n4. Sur La Table Marble Rolling Pin with Wooden Handles\n5. Emile Henry x Crate & Barrel Cream Ceramic Pie Dish\n6. Crate & Barrel Gold Measuring Spoons, Set of 4\n\n#ad #HolidayBaking #WeekendBaking #HomeFinds #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
+  "slug": "the-hot-cocoa-night-edit",
+  "title": "The Hot Cocoa Night Edit",
+  "feed": "/ready/the-hot-cocoa-night-edit-feed.jpg",
+  "story": "/stories/the-hot-cocoa-night-edit.png",
+  "caption": "Hot cocoa night. Cream stoneware mugs, a tin of Lake Champlain traditional organic hot chocolate, a matte black milk frother, a cream Le Creuset saucepan, and a walnut serving board \u2014 everything you need for a slow winter evening.\n\nThe Hot Cocoa Night Edit\nShop this board: https://fph-shop-next.vercel.app/b/the-hot-cocoa-night-edit\n\n1. ZWILLING Enfinigy Milk Frother, Black\n2. Teocera 16oz Cream Stoneware Mugs, Set of 4\n3. Lake Champlain Traditional Organic Hot Chocolate, 16 oz\n4. Le Creuset Signature 1.75-Qt Cream Saucepan\n5. Brazos Home Dark Walnut Cutting Board, 16 x 8 in\n\n#ad #HotCocoaNight #WinterCozy #CozyNightIn #FeelingPrettyHome\n#ad | As an Amazon Associate I earn from qualifying purchases."
+ },
+ {
   "slug": "the-teen-car-edit",
   "title": "The Teen Car Edit",
   "feed": "/ready/the-teen-car-edit-feed.jpg",
