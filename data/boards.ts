@@ -3,6 +3,33 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-cozy-self-care-gift-guide",
+    "title": "The Cozy Self-Care Gift Guide",
+    "image": "/boards/the-cozy-self-care-gift-guide.png",
+    "items": [
+      {
+        "name": "Crate & Barrel Cassidy Mini Lamp with Natural Linen Shade",
+        "url": "https://www.crateandbarrel.com/cassidy-mini-lamp-with-natural-linen-shade/s316686"
+      },
+      {
+        "name": "Parachute Classic Plush Robe, Bone",
+        "url": "https://parachutehome.com/products/classic-plush-robe-bone"
+      },
+      {
+        "name": "Jellycat Bartholomew Bear 'Bathrobe'",
+        "url": "https://us.jellycat.com/bartholomew-bear-bathrobe/"
+      },
+      {
+        "name": "Diptyque Feu de Bois Classic Candle, 190g",
+        "url": "https://us.diptyqueparis.com/en-us/products/classic-candle-feu-de-bois-wood-fire-fb2"
+      },
+      {
+        "name": "F. Miller Body Oil, 100ml",
+        "url": "https://fmillerskincare.com/products/body-oil?variant=28990433525794"
+      }
+    ]
+  },
+  {
     "slug": "the-moody-pantry-edit",
     "title": "The Moody Pantry Edit",
     "image": "/boards/the-moody-pantry-edit.png",
