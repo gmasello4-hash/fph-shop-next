@@ -3,6 +3,169 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "a-moody-favorite-things-party",
+    "title": "A Moody Favorite Things Party",
+    "image": "/boards/a-moody-favorite-things-party.png",
+    "items": [
+      {
+        "name": "Milinnery Burgundy Velvet Quilted Makeup Bag",
+        "url": "https://milinnery.com/products/burgundy-velvet-quilted-makeup-bag"
+      },
+      {
+        "name": "Dior Addict Lip Glow Oil, 020 Mahogany",
+        "url": "https://www.sephora.com/product/dior-lip-glow-oil-hydrating-high-shine-gloss-P519637"
+      },
+      {
+        "name": "The Hair Edit Jellyfish Clip, Large Tortoise Claw Clip",
+        "url": "https://www.amazon.com/dp/B0B64JMCS8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Brown Leather 2-Layer Jewelry Box Organizer with Removable Tray",
+        "url": "https://www.amazon.com/dp/B0FDGJZDX3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Diptyque Baies Small Candle, 70g",
+        "url": "https://us.diptyqueparis.com/products/small-candle-baies-berries-b70v"
+      },
+      {
+        "name": "ZENFUN 5 Pack Black Nested Gift Boxes with Lids and Ribbon",
+        "url": "https://www.amazon.com/dp/B0BV6CKPR4?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "the-ultimate-hostess-gift",
+    "title": "The Ultimate Hostess Gift",
+    "image": "/boards/the-ultimate-hostess-gift.png",
+    "items": [
+      {
+        "name": "Voluspa Baltic Amber Two Wick Luxe Candle Jar, 44 oz",
+        "url": "https://www.amazon.com/dp/B0CC9BTVRP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Natural Acacia Wood Mushroom Figural Serving Board",
+        "url": "https://www.worldmarket.com/p/natural-acacia-wood-mushroom-figural-serving-board-648847.html"
+      },
+      {
+        "name": "Graza \"Drizzle\" & \"Sizzle\" Glass Olive Oil Duo",
+        "url": "https://www.graza.co/products/duo-glass"
+      },
+      {
+        "name": "Napa Home & Garden Asteria Cheese Knives, Set of 4, Marble & Gold",
+        "url": "https://www.amazon.com/dp/B0DNZ3SS4Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Skeem Match Cloche, Amber",
+        "url": "https://shopsimplyplaced.com/products/match-cloche-amber"
+      },
+      {
+        "name": "JAM Paper Matte Gift Wrap, Chocolate Brown, 52.6 sq ft",
+        "url": "https://www.amazon.com/dp/B0DLL9TK6Z?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
+    "slug": "a-moody-friendsgiving",
+    "title": "A Moody Friendsgiving",
+    "image": "/boards/a-moody-friendsgiving.png",
+    "items": [
+      {
+        "name": "Amber Tulip Coupe Cocktail Glasses, Set of 2",
+        "url": "https://lilyandonyx.com/products/amber-tulip-coupe-cocktail-glasses-set-of-2"
+      },
+      {
+        "name": "Napa Home & Garden Inge Taper Holders, Set of 3, Antique Brass",
+        "url": "https://www.amazon.com/dp/B09F7YGSZD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Simrin 100% Linen Table Runner 14x70, Chocolate Brown",
+        "url": "https://www.amazon.com/dp/B00574KOTQ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Cloth Dinner Napkins 18x18, Set of 12, Burgundy",
+        "url": "https://www.amazon.com/dp/B09MK3LHLX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Refined Dwelling Marble & Brass Cheese Board, Medium",
+        "url": "https://www.amazon.com/dp/B0DK2GQWVP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Wondershop 18' x 1/2\" Christmas Fabric Ribbon, Burgundy Velvet",
+        "url": "https://www.target.com/p/-/A-95007458"
+      }
+    ]
+  },
+  {
+    "slug": "the-cozy-girl-gift-guide",
+    "title": "The Cozy Girl Gift Guide",
+    "image": "/boards/the-cozy-girl-gift-guide.png",
+    "items": [
+      {
+        "name": "Threshold Chenille Rib Knit Throw, Brown",
+        "url": "https://www.target.com/p/-/A-95011518"
+      },
+      {
+        "name": "UGG Women's Scuffette II Slipper, Chestnut",
+        "url": "https://footwearetc.com/products/scuffette-2-number-5661-chestnut-suede"
+      },
+      {
+        "name": "Ekouaer Women's Satin Pajama Set, Long Sleeve, Wide Leg, Brown",
+        "url": "https://www.amazon.com/dp/B0CGDLBDH7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Page Pottery Hand Thrown Stoneware Coffee Mug, Brownstone",
+        "url": "https://www.amazon.com/dp/B01NCT65JW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Blissy Mulberry Silk Sleep Mask, Chocolate",
+        "url": "https://blissy.com/products/sleep-mask-chocolate"
+      },
+      {
+        "name": "OUAI Body Crème, St. Barts",
+        "url": "https://www.theouai.com/products/body-creme-st-barts"
+      }
+    ]
+  },
+  {
+    "slug": "hostess-gifts-under-50",
+    "title": "Hostess Gifts Under $50",
+    "image": "/boards/hostess-gifts-under-50.png",
+    "items": [
+      {
+        "name": "Small walnut paddle cutting / serving board with hanging hole",
+        "url": "https://www.amazon.com/dp/B0FGWMCT4P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Graphite smoky grey wine glasses, set of 3 (14 oz)",
+        "url": "https://www.amazon.com/dp/B08MQHR1HW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Handmade 9\" speckled stoneware serving bowl (cream glaze, raw clay foot)",
+        "url": "https://www.amazon.com/dp/B0CJ9X16SX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Radicaln beige marble wine chiller (5\" W x 6.5\" H, fits 750 ml bottles)",
+        "url": "https://www.amazon.com/dp/B0DGD56LQG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "famiware Star 12 oz fluted cream stoneware mugs w/ gold-tone rim (set of 4)",
+        "url": "https://www.amazon.com/dp/B09XWNB8L4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Paddywax Basalt amber glass candle w/ glass lid, Sienna Sunset (10 oz)",
+        "url": "https://www.amazon.com/dp/B0FK6MFTK3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Natural travertine 4\" round coasters (set of 4)",
+        "url": "https://www.amazon.com/dp/B09L42TT2L?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Gold-tone ball-top wine stoppers (3 pcs)",
+        "url": "https://www.amazon.com/dp/B0CQCB6R7X?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-cozy-self-care-gift-guide",
     "title": "The Cozy Self-Care Gift Guide",
     "image": "/boards/the-cozy-self-care-gift-guide.png",
