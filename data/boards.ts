@@ -3,6 +3,61 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "gifts-shell-actually-love",
+    "title": "Gifts She'll Actually Love",
+    "image": "/boards/gifts-shell-actually-love.png",
+    "items": [
+      {
+        "name": "Ekouaer Black Satin Pajamas with White Piping and Ruffled Hem",
+        "url": "https://www.amazon.com/dp/B0H4ZBNGWW?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kindle Paperwhite Signature Edition, 32GB, Metallic Black",
+        "url": "https://www.amazon.com/dp/B0C8RR4WN3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Simple Modern Trek 40oz Tumbler, Tortoise",
+        "url": "https://www.amazon.com/dp/B0H3WPV2G6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fontana Candle Co. Fireside Wood-Wick Beeswax Candle",
+        "url": "https://www.amazon.com/dp/B0D6K15WB7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Dearfoams Fireside Sydney Slippers, Chestnut",
+        "url": "https://www.amazon.com/dp/B095PTBNZ9?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kitsch Contour Pillow Eye Mask, Blush",
+        "url": "https://www.amazon.com/dp/B0FFH7NHSF?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Palm Beach Jewelry Mother-of-Pearl Clover Bracelet, Gold",
+        "url": "https://www.amazon.com/dp/B0DJFYB8F2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "VLANDO Mini Travel Jewelry Organizer, Cream White",
+        "url": "https://www.amazon.com/dp/B0DGXK4ZC1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Tangle Teezer Mini Detangling Brush, Oat Cream",
+        "url": "https://www.amazon.com/dp/B0FKWY682T?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Shark CryoGlow LED Face Mask (FW312, Blue Frost)",
+        "url": "https://www.amazon.com/dp/B0DSGJCS47?tag=feelingpret0e-20"
+      },
+      {
+        "name": "dassymia Beige Nylon Tote with Brown Handles",
+        "url": "https://www.amazon.com/dp/B0HJ1JNQJN?tag=feelingpret0e-20"
+      },
+      {
+        "name": "PAVILIA Premium Plush Robe, Cream, S/M",
+        "url": "https://www.amazon.com/dp/B0DGRNWDHD?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "a-moody-favorite-things-party",
     "title": "A Moody Favorite Things Party",
     "image": "/boards/a-moody-favorite-things-party.png",

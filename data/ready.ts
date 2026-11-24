@@ -2,6 +2,14 @@
 export type ReadyCard={slug:string;title:string;feed:string;story:string;caption:string|null};
 export const ready:ReadyCard[]= [
 {
+ "slug": "gifts-shell-actually-love",
+ "title": "Gifts She'll Actually Love",
+ "feed": "/ready/gifts-shell-actually-love-feed.jpg",
+ "story": "/stories/gifts-shell-actually-love.png",
+ "caption": "Gifts she'll actually love. \ud83e\udd0e A little cozy, a little chic, and all the everyday luxuries worth adding to her wishlist. From cozy pajamas to beauty favorites, these are the gifts I'd want under the tree. \ud83d\udda4\n\nGifts She'll Actually Love\nShop this board: https://fph-shop-next.vercel.app/b/gifts-shell-actually-love\n\n1. Ekouaer Black Satin Pajamas with White Piping and Ruffled Hem\n2. Kindle Paperwhite Signature Edition, 32GB, Metallic Black\n3. Simple Modern Trek 40oz Tumbler, Tortoise\n4. Fontana Candle Co. Fireside Wood-Wick Beeswax Candle\n5. Dearfoams Fireside Sydney Slippers, Chestnut\n6. Kitsch Contour Pillow Eye Mask, Blush\n7. Palm Beach Jewelry Mother-of-Pearl Clover Bracelet, Gold\n8. VLANDO Mini Travel Jewelry Organizer, Cream White\n9. Tangle Teezer Mini Detangling Brush, Oat Cream\n10. Shark CryoGlow LED Face Mask (FW312, Blue Frost)\n11. dassymia Beige Nylon Tote with Brown Handles\n12. PAVILIA Premium Plush Robe, Cream, S/M\n\n#ad #FeelingPrettyHome #AmazonGiftGuide #GiftsForHer #ChristmasGiftIdeas\n#ad | As an Amazon Associate I earn from qualifying purchases."
+},
+
+{
  "slug": "the-cozy-self-care-gift-guide",
  "title": "The Cozy Self-Care Gift Guide",
  "feed": "/ready/the-cozy-self-care-gift-guide-feed.jpg",
