@@ -3,6 +3,49 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "cozy-gathering-edit",
+    "title": "Thanksgiving | The Cozy Gathering Edit",
+    "image": "/boards/cozy-gathering-edit.png",
+    "items": [
+      {
+        "name": "FINGERCRAFT Scallop Embroidery Cloth Napkins, Set of 6, Chocolate/Brown (ivory scalloped stitching)",
+        "url": "https://www.amazon.com/dp/B0F6YDZNXP?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Staub Cast Iron 3.5 Qt Pumpkin Dutch Oven / Cocotte, White, gold stem knob, Made in France",
+        "url": "https://www.amazon.com/dp/B06Y6G461D?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Taganov Amber Wine Glasses Set of 6, Vintage Diamond-Textured Goblets, 10 oz",
+        "url": "https://www.amazon.com/dp/B0CG65ZG3F?tag=feelingpret0e-20"
+      },
+      {
+        "name": "KOUBOO La Jolla Rattan Rectangular Serving Tray with Handles, Honey Brown",
+        "url": "https://www.amazon.com/dp/B016COHC4Y?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Romadedi Gold Candlestick Holders, Brass Color, Vintage, Set of 2",
+        "url": "https://www.amazon.com/dp/B0FQJTRG64?tag=feelingpret0e-20"
+      },
+      {
+        "name": "YalzoneMet 3 Pcs Orange Brown Hydrangea Artificial Flowers, 21\" Real Touch",
+        "url": "https://www.amazon.com/dp/B0F6LNM7C4?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Vanselia Ceramic Flower Vase, Large Farmhouse Rustic Textured Vase, 9\" Retro (cream)",
+        "url": "https://www.amazon.com/dp/B0DYNWZ83W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amélie Home Cable Knit Chenille Throw Blanket, Cream White, 50×60",
+        "url": "https://www.amazon.com/dp/B0CRR8HXY1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Kate and Laurel Staven Two-Piece Serving Boards Set (7×22 and 14×18), Walnut Brown",
+        "url": "https://www.amazon.com/dp/B0DMPLDGQP?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "gifts-shell-actually-love",
     "title": "Gifts She'll Actually Love",
     "image": "/boards/gifts-shell-actually-love.png",
