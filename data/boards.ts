@@ -3,6 +3,61 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-pink-edit",
+    "title": "The Pink Edit",
+    "image": "/boards/the-pink-edit.png",
+    "items": [
+      {
+        "name": "Fujifilm Instax Mini 12 Instant Camera, Blossom Pink (camera only)",
+        "url": "https://www.amazon.com/dp/B0BWP15J1P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Richie House Women's Plush Soft Warm Fleece Bathrobe, Pink & White Striped (Large)",
+        "url": "https://www.amazon.com/dp/B00HL1GUDC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Blissy Silk Sleep Mask, Pink",
+        "url": "https://www.amazon.com/dp/B0CWR3MMWL?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Physicians Formula Rosé All Day Highlighter Blush, Pink Petal Glow",
+        "url": "https://www.amazon.com/dp/B09Q3WF97W?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Voluspa Rose Otto Classic Candle, 6.5 oz (boxed)",
+        "url": "https://www.amazon.com/dp/B07FF3M7HC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LANEIGE Lip Glowy Balm, Berry",
+        "url": "https://www.amazon.com/dp/B07DY2QRF6?tag=feelingpret0e-20"
+      },
+      {
+        "name": "sundae Whipped Shower Foam, Cherry on Top, 8.9 fl oz",
+        "url": "https://www.amazon.com/dp/B09YHVLG4R?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Touchland Pink Pop Set, Berry Bliss Hand Sanitizer Spray & Case",
+        "url": "https://www.amazon.com/dp/B0H2JSJMXX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "medicube PDRN Pink Collagen Jelly Gel Mask, 4-pack",
+        "url": "https://www.amazon.com/dp/B0DGTMR754?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Ariana Grande MOD Blush Eau de Parfum, 1 fl oz",
+        "url": "https://www.amazon.com/dp/B0CD222F4F?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Benevolence LA Plush Velvet Large Makeup Bag, Dusty Pink",
+        "url": "https://www.amazon.com/dp/B0B1ZYH96Q?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Slip Silk Skinny Scrunchies, Sherbet, Set of 3",
+        "url": "https://www.amazon.com/dp/B0DTJKMG89?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "cozy-gathering-edit",
     "title": "Thanksgiving | The Cozy Gathering Edit",
     "image": "/boards/cozy-gathering-edit.png",
