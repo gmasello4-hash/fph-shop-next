@@ -3,6 +3,45 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-espresso-edit-gifts",
+    "title": "The Espresso Edit",
+    "image": "/boards/the-espresso-edit-gifts.png",
+    "items": [
+      {
+        "name": "BEDELITE Ribbed Chocolate Brown Throw, 50×60",
+        "url": "https://www.amazon.com/dp/B0FGXRZR18?tag=feelingpret0e-20"
+      },
+      {
+        "name": "KIDMI Genuine Suede Platform Slippers, Chestnut, 7.5–8",
+        "url": "https://www.amazon.com/dp/B0FLP8Y1T8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "P.F. Candle Co. Piñon Classic Standard Candle, 7.2 oz amber jar",
+        "url": "https://www.amazon.com/dp/B0771S36SD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Slip Silk Queen Pillowcase, Chocolate",
+        "url": "https://www.amazon.com/dp/B0HC81L88M?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Puffy Quilted Travel Makeup Bag, Chocolate Brown, Large",
+        "url": "https://www.amazon.com/dp/B0G3X1Z2HG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "TELETIES Large Classic Hair Clip, Tortoise",
+        "url": "https://www.amazon.com/dp/B0BNPDCDV7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "e.l.f. Glow Reviver Lip Oil, Honey Talks",
+        "url": "https://www.amazon.com/dp/B0CMJZVT5P?tag=feelingpret0e-20"
+      },
+      {
+        "name": "HASENSE Fluted Ceramic Coffee Mugs, Creamy Beige, 16 oz, Set of 4",
+        "url": "https://www.amazon.com/dp/B0GYXQ22ZS?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-olive-edit",
     "title": "The Olive Edit",
     "image": "/boards/the-olive-edit.png",
