@@ -3,6 +3,45 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-camel-edit-gifts",
+    "title": "The Camel Edit",
+    "image": "/boards/the-camel-edit-gifts.png",
+    "items": [
+      {
+        "name": "NATIVE ESSENCE Hand Woven Leather Crossbody, Cognac Brown",
+        "url": "https://www.amazon.com/dp/B0C6GDG33F?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fishers Finery Women's 100% Pure Cashmere Scarf, Camel",
+        "url": "https://www.amazon.com/dp/B07GDR7X4C?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NGVRC Genuine Leather Travel Jewelry Organizer Case with Mirror, Camel Brown",
+        "url": "https://www.amazon.com/dp/B0H6WW6PCT?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BOONJOVIA Unisex Genuine Suede Baseball Cap, Light Brown, One Size",
+        "url": "https://www.amazon.com/dp/B0DDLDL6NZ?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NEST New York Reed Diffuser, Moroccan Amber, 5.9 oz",
+        "url": "https://www.amazon.com/dp/B00465USZM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Leather Village Hanging Leather Toiletry Bag, Brown",
+        "url": "https://www.amazon.com/dp/B0D9FZJWTH?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fossil Women's Harlow Three-Hand Watch, Gold/Brown Leather, 22mm",
+        "url": "https://www.amazon.com/dp/B0H1JTJ2QB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Bedsure Double-Sided Faux Fur Throw, Light Brown, 50×60",
+        "url": "https://www.amazon.com/dp/B0FKG1NYG9?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-black-edit-gifts",
     "title": "The Black Edit",
     "image": "/boards/the-black-edit-gifts.png",
