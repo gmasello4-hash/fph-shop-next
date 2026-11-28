@@ -3,6 +3,45 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-burgundy-edit-gifts",
+    "title": "The Burgundy Edit",
+    "image": "/boards/the-burgundy-edit-gifts.png",
+    "items": [
+      {
+        "name": "TAKEASY Italian Suede Crescent Shoulder Bag, Burgundy",
+        "url": "https://www.amazon.com/dp/B0G4CLNZZ7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "MGGMOKAY Nappa Leather Gloves, Burgundy, Medium (7)",
+        "url": "https://www.amazon.com/dp/B07KR3XNSG?tag=feelingpret0e-20"
+      },
+      {
+        "name": "DW Home Studio Classics Cherry Vanilla Candle, 15 oz",
+        "url": "https://www.amazon.com/dp/B0H8QQVK6S?tag=feelingpret0e-20"
+      },
+      {
+        "name": "essie Nail Polish, Bordeaux (#12), 0.46 fl oz",
+        "url": "https://www.amazon.com/dp/B00770OUUM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "EmilyRose Couture Large Velvet Hair Bow, Wine Red",
+        "url": "https://www.amazon.com/dp/B085DH26MX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "STANLEY Quencher H2.0 FlowState Tumbler, Mahogany Gloss, 40 oz",
+        "url": "https://www.amazon.com/dp/B0FPYS58H7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fishers Finery 100% Cashmere Scarf, Cabernet, 66\" × 12\"",
+        "url": "https://www.amazon.com/dp/B07GH958T8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Clinique Almost Lipstick, Black Honey",
+        "url": "https://www.amazon.com/dp/B0032RMX3U?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-pink-edit",
     "title": "The Pink Edit",
     "image": "/boards/the-pink-edit.png",
