@@ -3,6 +3,57 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-navy-edit",
+    "title": "The Navy Edit",
+    "image": "/boards/the-navy-edit.png",
+    "items": [
+      {
+        "name": "Ekouaer Satin Silk Pajama Set, Navy Blue 02",
+        "url": "https://www.amazon.com/dp/B0CZ42FBPM?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Benevolence LA Plush Velvet Travel Jewelry Box, Navy Blue",
+        "url": "https://www.amazon.com/dp/B097NZWJWV?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Capri Blue Havana Vanilla Signature Jar Candle, 8 oz",
+        "url": "https://www.amazon.com/dp/B07V1PVKT5?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Quilted Weekender Duffel, Navy Blue, Medium 24L",
+        "url": "https://www.amazon.com/dp/B0DC62CMTK?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Sweet Water Decor Navy & Green Plaid Coffee Mug with Gold Handle, 14 oz",
+        "url": "https://www.amazon.com/dp/B0H8FGPX71?tag=feelingpret0e-20"
+      },
+      {
+        "name": "ZIMASILK Adjustable 3D 22 Momme 100% Mulberry Silk Sleep Mask, Navy Blue",
+        "url": "https://www.amazon.com/dp/B0DSYZZKKY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Exclusivo Mezcla Striped Fleece Throw, Navy Blue, 50×60",
+        "url": "https://www.amazon.com/dp/B0D25VCG9J?tag=feelingpret0e-20"
+      },
+      {
+        "name": "SZZCX Navy Velvet Moon & Stars Makeup Bag",
+        "url": "https://www.amazon.com/dp/B09YYHYML2?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LILYSILK Silk Hair Scrunchies, Navy Blue, 4PC",
+        "url": "https://www.amazon.com/dp/B0BV94YY38?tag=feelingpret0e-20"
+      },
+      {
+        "name": "LILYSILK 100% Mulberry Silk Heatless Curling Set 3pc, Navy Blue",
+        "url": "https://www.amazon.com/dp/B0F3D6YF5V?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Fishers Finery 25mm Mulberry Silk Queen Pillowcase, Navy",
+        "url": "https://www.amazon.com/dp/B01M0DFAM7?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-espresso-edit-gifts",
     "title": "The Espresso Edit",
     "image": "/boards/the-espresso-edit-gifts.png",
