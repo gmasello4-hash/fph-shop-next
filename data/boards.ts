@@ -3,6 +3,45 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-olive-edit",
+    "title": "The Olive Edit",
+    "image": "/boards/the-olive-edit.png",
+    "items": [
+      {
+        "name": "BAGSMART Puffy Travel Makeup Bag, Olive Green",
+        "url": "https://www.amazon.com/dp/B0GWF9BQQX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Seyatoo Ribbed Ceramic Coffee Mugs, Green, 12 oz, Set of 4",
+        "url": "https://www.amazon.com/dp/B0D2J8H6M8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hemlock Park Sandalwood Green Glass Candle, 8 oz",
+        "url": "https://www.amazon.com/dp/B0G8WJYKYY?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Amazon Essentials Lightweight Waffle Bath Robe, Olive, Full-Length, Large",
+        "url": "https://www.amazon.com/dp/B08X8QY27G?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAIMEI IcyMe Jade Face Roller and Gua Sha Set",
+        "url": "https://www.amazon.com/dp/B09KNJGXF1?tag=feelingpret0e-20"
+      },
+      {
+        "name": "EverGrace Organic Cotton Chunky Knit Throw, Olive Green, 50×60",
+        "url": "https://www.amazon.com/dp/B0GVS73316?tag=feelingpret0e-20"
+      },
+      {
+        "name": "WENSHUO 5-Piece Matcha Whisk Set, Olive Green",
+        "url": "https://www.amazon.com/dp/B0H36889Z8?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Hana Mia Large Acetate Claw Clip, Olive Green, 4-inch",
+        "url": "https://www.amazon.com/dp/B0D5PPHG5W?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-camel-edit-gifts",
     "title": "The Camel Edit",
     "image": "/boards/the-camel-edit-gifts.png",
