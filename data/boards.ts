@@ -3,6 +3,45 @@ export type Item={name:string;url:string};
 export type Board={slug:string;title:string;image:string;items:Item[]};
 export const boards:Board[]=[
   {
+    "slug": "the-black-edit-gifts",
+    "title": "The Black Edit",
+    "image": "/boards/the-black-edit-gifts.png",
+    "items": [
+      {
+        "name": "Victoria's Secret Satin Pajama Set, Black, Medium",
+        "url": "https://www.amazon.com/dp/B0DJ169JD7?tag=feelingpret0e-20"
+      },
+      {
+        "name": "VLANDO 3-Drawer Jewelry Box, Black",
+        "url": "https://www.amazon.com/dp/B0CXHSHG78?tag=feelingpret0e-20"
+      },
+      {
+        "name": "NEST New York Rose Noir & Oud Candle, 8.1 oz",
+        "url": "https://www.amazon.com/dp/B07L76PWZB?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BAGSMART Puffy Quilted Makeup Bag, Black, Large",
+        "url": "https://www.amazon.com/dp/B0FGHLGXQ3?tag=feelingpret0e-20"
+      },
+      {
+        "name": "BrüMate Era 40 oz Tumbler, Matte Black",
+        "url": "https://www.amazon.com/dp/B0CRLYVNYC?tag=feelingpret0e-20"
+      },
+      {
+        "name": "Evshine Fuzzy Cross Band Slippers, Black, size 5–6.5",
+        "url": "https://www.amazon.com/dp/B089VM5CDX?tag=feelingpret0e-20"
+      },
+      {
+        "name": "QUAY High Profile Aviator Sunglasses, Black/Gold",
+        "url": "https://www.amazon.com/dp/B0FZY72SJD?tag=feelingpret0e-20"
+      },
+      {
+        "name": "ROSELYNBOUTIQUE Facial Roller & Gua Sha Set, Black Obsidian",
+        "url": "https://www.amazon.com/dp/B0DRCMFV4S?tag=feelingpret0e-20"
+      }
+    ]
+  },
+  {
     "slug": "the-burgundy-edit-gifts",
     "title": "The Burgundy Edit",
     "image": "/boards/the-burgundy-edit-gifts.png",
